@@ -1,0 +1,8258 @@
+[
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "bamboo",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:bamboo"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Bamboo",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "bamboo",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:bamboo"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Bamboo",
+        "count": 1
+      }
+    ],
+    "burnTime": "50",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "scaffolding",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:scaffolding"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Scaffolding",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "scaffolding",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:scaffolding"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Scaffolding",
+        "count": 1
+      }
+    ],
+    "burnTime": "50",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "white_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:white_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "White Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "white_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:white_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "White Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "orange_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:orange_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Orange Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "orange_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:orange_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Orange Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "magenta_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:magenta_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Magenta Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "magenta_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:magenta_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Magenta Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_blue_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_blue_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Blue Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_blue_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_blue_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Blue Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "yellow_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:yellow_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Yellow Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "yellow_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:yellow_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Yellow Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "lime_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:lime_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Lime Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "lime_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:lime_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Lime Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "pink_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:pink_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Pink Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "pink_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:pink_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Pink Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "gray_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:gray_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Gray Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "gray_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:gray_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Gray Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_gray_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_gray_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Gray Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_gray_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_gray_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Gray Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "cyan_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cyan_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cyan Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "cyan_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:cyan_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Cyan Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "purple_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:purple_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Purple Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "purple_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:purple_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Purple Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "blue_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:blue_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Blue Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "blue_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:blue_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Blue Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "brown_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:brown_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Brown Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "brown_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:brown_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Brown Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "green_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:green_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Green Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "green_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:green_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Green Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "red_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:red_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Red Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "red_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:red_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Red Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "black_carpet",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:black_carpet"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Black Carpet",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "black_carpet",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:black_carpet"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Black Carpet",
+        "count": 1
+      }
+    ],
+    "burnTime": "67",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "white_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:white_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "White Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "white_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:white_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "White Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "orange_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:orange_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Orange Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "orange_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:orange_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Orange Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "magenta_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:magenta_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Magenta Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "magenta_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:magenta_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Magenta Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_blue_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_blue_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Blue Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_blue_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_blue_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Blue Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "yellow_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:yellow_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Yellow Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "yellow_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:yellow_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Yellow Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "lime_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:lime_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Lime Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "lime_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:lime_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Lime Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "pink_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:pink_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Pink Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "pink_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:pink_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Pink Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "gray_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:gray_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Gray Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "gray_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:gray_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Gray Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_gray_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_gray_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Gray Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_gray_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_gray_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Gray Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "cyan_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cyan_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cyan Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "cyan_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:cyan_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Cyan Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "purple_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:purple_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Purple Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "purple_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:purple_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Purple Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "blue_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:blue_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Blue Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "blue_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:blue_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Blue Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "brown_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:brown_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Brown Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "brown_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:brown_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Brown Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "green_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:green_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Green Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "green_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:green_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Green Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "red_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:red_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Red Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "red_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:red_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Red Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "black_wool",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:black_wool"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Black Wool",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "black_wool",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:black_wool"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Black Wool",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_sapling",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_sapling"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Sapling",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_sapling",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_sapling"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Sapling",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_propagule",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_propagule"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Propagule",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_propagule",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_propagule"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Propagule",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "azalea",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:azalea"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Azalea",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "azalea",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:azalea"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Azalea",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "flowering_azalea",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:flowering_azalea"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Flowering Azalea",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "flowering_azalea",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:flowering_azalea"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Flowering Azalea",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dead_bush",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dead_bush"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dead Bush",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dead_bush",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dead_bush"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dead Bush",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_button",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_button"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Button",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_button",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_button"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Button",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stick",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stick"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stick",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stick",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stick"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stick",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "bowl",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:bowl"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Bowl",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "bowl",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:bowl"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Bowl",
+        "count": 1
+      }
+    ],
+    "burnTime": "100",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_slab",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Slab",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_slab",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_slab"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Slab",
+        "count": 1
+      }
+    ],
+    "burnTime": "150",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_sign",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_sign"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Sign",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_sign",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_sign"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Sign",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_door",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_door"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Door",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_door",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_door"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Door",
+        "count": 1
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "wooden_sword",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:wooden_sword",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 59,
+            "_type": "ItemStack",
+            "name": "Wooden Sword",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "wooden_sword",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:wooden_sword",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 59,
+        "_type": "ItemStack",
+        "name": "Wooden Sword",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "wooden_shovel",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:wooden_shovel",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 59,
+            "_type": "ItemStack",
+            "name": "Wooden Shovel",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "wooden_shovel",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:wooden_shovel",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 59,
+        "_type": "ItemStack",
+        "name": "Wooden Shovel",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "wooden_pickaxe",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:wooden_pickaxe",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 59,
+            "_type": "ItemStack",
+            "name": "Wooden Pickaxe",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "wooden_pickaxe",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:wooden_pickaxe",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 59,
+        "_type": "ItemStack",
+        "name": "Wooden Pickaxe",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "wooden_axe",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:wooden_axe",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 59,
+            "_type": "ItemStack",
+            "name": "Wooden Axe",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "wooden_axe",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:wooden_axe",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 59,
+        "_type": "ItemStack",
+        "name": "Wooden Axe",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "wooden_hoe",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:wooden_hoe",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 59,
+            "_type": "ItemStack",
+            "name": "Wooden Hoe",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "wooden_hoe",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:wooden_hoe",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 59,
+        "_type": "ItemStack",
+        "name": "Wooden Hoe",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_planks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_planks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Planks",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_planks",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_planks"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Planks",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_roots",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_roots"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Roots",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_roots",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_roots"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Roots",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_oak_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_oak_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Oak Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_oak_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_oak_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Oak Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_spruce_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_spruce_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Spruce Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_spruce_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_spruce_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Spruce Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_birch_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_birch_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Birch Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_birch_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_birch_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Birch Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_jungle_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_jungle_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Jungle Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_jungle_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_jungle_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Jungle Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_acacia_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_acacia_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Acacia Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_acacia_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_acacia_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Acacia Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_dark_oak_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_dark_oak_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Dark Oak Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_dark_oak_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_dark_oak_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Dark Oak Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_mangrove_log",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_mangrove_log"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Mangrove Log",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_mangrove_log",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_mangrove_log"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Mangrove Log",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_oak_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_oak_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Oak Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_oak_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_oak_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Oak Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_spruce_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_spruce_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Spruce Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_spruce_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_spruce_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Spruce Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_birch_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_birch_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Birch Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_birch_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_birch_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Birch Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_jungle_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_jungle_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Jungle Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_jungle_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_jungle_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Jungle Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_acacia_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_acacia_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Acacia Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_acacia_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_acacia_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Acacia Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_dark_oak_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_dark_oak_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Dark Oak Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_dark_oak_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_dark_oak_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Dark Oak Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "stripped_mangrove_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stripped_mangrove_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stripped Mangrove Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "stripped_mangrove_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:stripped_mangrove_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Stripped Mangrove Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_wood",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_wood"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Wood",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_wood",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_wood"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Wood",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "bookshelf",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:bookshelf"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Bookshelf",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "bookshelf",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:bookshelf"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Bookshelf",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Stairs",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_stairs",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_stairs"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Stairs",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "chest",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:chest"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "chest",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:chest"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "crafting_table",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:crafting_table"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Crafting Table",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "crafting_table",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:crafting_table"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Crafting Table",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "ladder",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:ladder"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Ladder",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "ladder",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:ladder"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Ladder",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jukebox",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jukebox"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jukebox",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jukebox",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jukebox"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jukebox",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_fence",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_fence"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Fence",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_fence",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_fence"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Fence",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "white_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:white_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "White Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "white_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:white_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "White Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "orange_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:orange_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Orange Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "orange_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:orange_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Orange Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "magenta_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:magenta_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Magenta Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "magenta_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:magenta_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Magenta Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_blue_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_blue_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Blue Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_blue_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_blue_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Blue Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "yellow_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:yellow_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Yellow Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "yellow_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:yellow_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Yellow Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "lime_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:lime_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Lime Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "lime_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:lime_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Lime Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "pink_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:pink_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Pink Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "pink_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:pink_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Pink Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "gray_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:gray_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Gray Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "gray_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:gray_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Gray Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "light_gray_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:light_gray_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Light Gray Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "light_gray_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:light_gray_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Light Gray Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "cyan_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cyan_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cyan Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "cyan_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:cyan_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Cyan Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "purple_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:purple_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Purple Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "purple_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:purple_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Purple Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "blue_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:blue_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Blue Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "blue_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:blue_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Blue Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "brown_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:brown_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Brown Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "brown_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:brown_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Brown Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "green_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:green_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Green Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "green_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:green_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Green Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "red_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:red_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Red Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "red_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:red_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Red Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "black_banner",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:black_banner"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Black Banner",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "black_banner",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:black_banner"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Black Banner",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "loom",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:loom"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Loom",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "loom",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:loom"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Loom",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "composter",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:composter"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Composter",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "composter",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:composter"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Composter",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "barrel",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:barrel"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Barrel",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "barrel",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:barrel"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Barrel",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "cartography_table",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cartography_table"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cartography Table",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "cartography_table",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:cartography_table"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Cartography Table",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "fletching_table",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:fletching_table"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Fletching Table",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "fletching_table",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:fletching_table"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Fletching Table",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "smithing_table",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:smithing_table"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Smithing Table",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "smithing_table",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:smithing_table"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Smithing Table",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "lectern",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:lectern"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Lectern",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "lectern",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:lectern"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Lectern",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "daylight_detector",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:daylight_detector"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Daylight Detector",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "daylight_detector",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:daylight_detector"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Daylight Detector",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "trapped_chest",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:trapped_chest"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Trapped Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "trapped_chest",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:trapped_chest"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Trapped Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "note_block",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:note_block"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Note Block",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "note_block",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:note_block"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Note Block",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_pressure_plate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_pressure_plate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Pressure Plate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_pressure_plate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_pressure_plate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Pressure Plate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_trapdoor",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_trapdoor"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Trapdoor",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_trapdoor",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_trapdoor"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Trapdoor",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_fence_gate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_fence_gate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Fence Gate",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_fence_gate",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_fence_gate"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Fence Gate",
+        "count": 1
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "bow",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:bow",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 384,
+            "_type": "ItemStack",
+            "name": "Bow",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "bow",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:bow",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 384,
+        "_type": "ItemStack",
+        "name": "Bow",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "fishing_rod",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:fishing_rod",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 64,
+            "_type": "ItemStack",
+            "name": "Fishing Rod",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "fishing_rod",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:fishing_rod",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 64,
+        "_type": "ItemStack",
+        "name": "Fishing Rod",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "crossbow",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:crossbow",
+              "tag": {
+                "Damage": 0.0
+              }
+            },
+            "maxDamage": 465,
+            "_type": "ItemStack",
+            "name": "Crossbow",
+            "count": 1,
+            "tag": {
+              "Damage": 0.0
+            }
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "crossbow",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:crossbow",
+          "tag": {
+            "Damage": 0.0
+          }
+        },
+        "maxDamage": 465,
+        "_type": "ItemStack",
+        "name": "Crossbow",
+        "count": 1,
+        "tag": {
+          "Damage": 0.0
+        }
+      }
+    ],
+    "burnTime": "300",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "oak_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oak_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oak Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "oak_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:oak_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Oak Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "spruce_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:spruce_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Spruce Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "spruce_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:spruce_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Spruce Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "birch_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:birch_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Birch Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "birch_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:birch_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Birch Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "jungle_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:jungle_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Jungle Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "jungle_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:jungle_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Jungle Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "acacia_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:acacia_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Acacia Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "acacia_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:acacia_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Acacia Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dark_oak_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dark_oak_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dark Oak Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dark_oak_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dark_oak_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dark Oak Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Boat",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Boat",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "mangrove_chest_boat",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mangrove_chest_boat"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mangrove Boat with Chest",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "mangrove_chest_boat",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:mangrove_chest_boat"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Mangrove Boat with Chest",
+        "count": 1
+      }
+    ],
+    "burnTime": "1200",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "coal",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:coal"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Coal",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "coal",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:coal"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Coal",
+        "count": 1
+      }
+    ],
+    "burnTime": "1600",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "charcoal",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:charcoal"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Charcoal",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "charcoal",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:charcoal"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Charcoal",
+        "count": 1
+      }
+    ],
+    "burnTime": "1600",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "blaze_rod",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:blaze_rod"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Blaze Rod",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "blaze_rod",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:blaze_rod"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Blaze Rod",
+        "count": 1
+      }
+    ],
+    "burnTime": "2400",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "dried_kelp_block",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dried_kelp_block"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dried Kelp Block",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "dried_kelp_block",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:dried_kelp_block"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Dried Kelp Block",
+        "count": 1
+      }
+    ],
+    "burnTime": "4001",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "coal_block",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:coal_block"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Block of Coal",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "coal_block",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:coal_block"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Block of Coal",
+        "count": 1
+      }
+    ],
+    "burnTime": "16000",
+    "_type": "FuelingRecipe"
+  },
+  {
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 17,
+        "items": [
+          {
+            "damage": 0,
+            "item": "lava_bucket",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:lava_bucket"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Lava Bucket",
+            "count": 1
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "inputs": [
+      {
+        "damage": 0,
+        "item": "lava_bucket",
+        "capNBT": {
+          "Count": "1b",
+          "id": "minecraft:lava_bucket"
+        },
+        "maxDamage": 0,
+        "_type": "ItemStack",
+        "name": "Lava Bucket",
+        "count": 1
+      }
+    ],
+    "burnTime": "20000",
+    "_type": "FuelingRecipe"
+  }
+]

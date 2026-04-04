@@ -39,12 +39,12 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
             }
         },
 
-        // Given RecipeType, ItemId, and Role, which recipe indices should load?
+        // Given ItemId, Role, and RecipeType, which recipe indices should load?
         recipeIndicesFor: (state) => {
-        return (recipeType: RecipeType, itemId: ItemId, role: Role): number[] => {
-            if (!state.recipeIndex) return []
-            return state.recipeIndex[recipeType]?.[itemId]?.[role] ?? []
-        }
+            return (itemId: ItemId, role: Role, recipeType: RecipeType): number[] => {
+                if (!state.recipeIndex) return []
+                return state.recipeIndex[recipeType]?.[itemId]?.[role] ?? []
+            }
         },
 
         // All item IDs from the items list — used to populate the sidebar

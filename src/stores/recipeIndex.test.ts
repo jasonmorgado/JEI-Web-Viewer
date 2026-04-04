@@ -60,29 +60,29 @@ describe('useRecipeIndexStore', () => {
   })
 
   describe('recipeIndicesFor getter', () => {
-    it('returns recipe indices for crafting charcoal INPUT', () => {
+    it('returns recipe indices for charcoal INPUT in crafting', () => {
       const store = useRecipeIndexStore()
       store.recipeIndex = mockRecipeIndex
 
-      const result = store.recipeIndicesFor('minecraft:crafting', 'minecraft:charcoal', 'INPUT')
+      const result = store.recipeIndicesFor('minecraft:charcoal', 'INPUT', 'minecraft:crafting')
 
       expect(result).toEqual([0, 1])
     })
 
-    it('returns recipe indices for fuel charcoal INPUT', () => {
+    it('returns recipe indices for charcoal INPUT in fuel', () => {
       const store = useRecipeIndexStore()
       store.recipeIndex = mockRecipeIndex
 
-      const result = store.recipeIndicesFor('minecraft:fuel', 'minecraft:charcoal', 'INPUT')
+      const result = store.recipeIndicesFor('minecraft:charcoal', 'INPUT', 'minecraft:fuel')
 
       expect(result).toEqual([3])
     })
 
-    it('returns recipe indices for furnace charcoal OUTPUT', () => {
+    it('returns recipe indices for charcoal OUTPUT in furnace', () => {
       const store = useRecipeIndexStore()
       store.recipeIndex = mockRecipeIndex
 
-      const result = store.recipeIndicesFor('minecraft:furnace', 'minecraft:charcoal', 'OUTPUT')
+      const result = store.recipeIndicesFor('minecraft:charcoal', 'OUTPUT', 'minecraft:furnace')
 
       expect(result).toEqual([4])
     })

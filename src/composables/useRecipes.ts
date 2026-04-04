@@ -17,7 +17,7 @@ export function useRecipes(itemId: Ref<ItemId | null>, role: Ref<Role | null>) {
         console.log(`Item ID ${itemId.value} or role ${role.value} not set, cannot fetch recipes`)
         return []
     }
-    const indices = store.recipeIndicesFor(type, itemId.value, role.value)
+    const indices = store.recipeIndicesFor(itemId.value, role.value, type)
     if (indices.length === 0) return []
 
     const filename = type.replace('minecraft:', 'minecraft_')

@@ -59,6 +59,18 @@ const searchQuery = ref('')
 const containerRef = ref<HTMLElement | null>(null)
 const itemsPerPage = ref(10)
 
+onMounted(() => {
+  calculateItemsPerPage()
+
+  const resizeObserver = new ResizeObserver(() => {
+    calculateItemsPerPage()
+  })
+
+  if (containerRef.value) {
+    resizeObserver.observe(containerRef.value)
+  }
+})
+
 const calculateItemsPerPage = () => {
   if (!containerRef.value) return
 
@@ -78,17 +90,6 @@ const calculateItemsPerPage = () => {
   itemsPerPage.value = itemsToShow
 }
 
-onMounted(() => {
-  calculateItemsPerPage()
-
-  const resizeObserver = new ResizeObserver(() => {
-    calculateItemsPerPage()
-  })
-
-  if (containerRef.value) {
-    resizeObserver.observe(containerRef.value)
-  }
-})
 
 watch(searchQuery, () => {
   currentPage.value = 1

@@ -17,7 +17,7 @@
           <div class="slots-container">
             <div class="slots-section">
               <h3 class="slots-label">Input</h3>
-              <div class="slots-grid">
+              <div class="slots-grid" :style="getGridStyle(recipe)">
                 <div
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'INPUT')"
                   :key="slotIndex"
@@ -36,7 +36,7 @@
 
             <div class="slots-section">
               <h3 class="slots-label">Output</h3>
-              <div class="slots-grid">
+              <div class="slots-grid" :style="getGridStyle(recipe)">
                 <div
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'OUTPUT')"
                   :key="slotIndex"
@@ -92,6 +92,15 @@ let itemCycleInterval: NodeJS.Timeout | null = null
 
 const getSlotsByRole = (recipe: Recipe, role: Role): Slot[] => {
   return recipe.slots.filter(slot => slot.role === role)
+}
+
+const getGridStyle = (recipe: Recipe) => {
+  // If a Recipe has maxWidth, use it to enforce grid column count.
+  const maxWidth = recipe.MAX_WIDTH as number | undefined
+  if (maxWidth && maxWidth > 0) {
+    return { gridTemplateColumns: `repeat(${maxWidth}, minmax(80px, 1fr))` }
+  }
+  return {}
 }
 
 const getCurrentItem = (slot: Slot) => {

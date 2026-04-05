@@ -30,16 +30,27 @@ const handleItemSelectedInput = (itemId: ItemId) => {
   selectedRecipeType.value = null
 }
 
+// When selecting from the dropdown, clear item selection
+const handleRecipeTypeSelected = (recipeType: string) => {
+  selectedRecipeType.value = recipeType || null
+  if (recipeType) {
+    selectedItem.value = null
+    selectedRole.value = null
+  }
+}
+
+const allRecipeTypes = computed(() => store.allRecipeTypes)
+
 const availableRecipeTypes = computed(() => {
   if (!selectedItem.value || !selectedRole.value) return []
   return store.recipeTypesFor(selectedItem.value, selectedRole.value)
 })
 
-// Auto-select first recipe type when available
+// Auto-select first recipe type when available (only for item-based selection)
 watch(
   availableRecipeTypes,
   (types) => {
-    if (types.length > 0 && !selectedRecipeType.value) {
+    if (types.length > 0 && !selectedRecipeType.value && selectedItem.value) {
       selectedRecipeType.value = types[0]
     }
   }
@@ -49,7 +60,7 @@ watch(
 watch(
   selectedRecipeType,
   async (recipeType) => {
-    if (!recipeType || !selectedItem.value || !selectedRole.value) {
+    if (!recipeType) {
       currentRecipes.value = []
       return
     }
@@ -59,13 +70,16 @@ watch(
       // Load all recipes for this type
       const allRecipes = await store.loadRecipesForType(recipeType)
 
-      // Get indices for this item/role/type combo
-      const indices = store.recipeIndex?.[recipeType]?.[selectedItem.value]?.[selectedRole.value] ?? []
-
-      // Get the specific recipes
-      currentRecipes.value = indices
-        .map(idx => allRecipes[idx])
-        .filter((r): r is Recipe => r !== undefined)
+      // If an item is selected, filter by item/role/type
+      if (selectedItem.value && selectedRole.value) {
+        const recipeIndices = store.recipeIndex?.[recipeType]?.[selectedItem.value]?.[selectedRole.value] ?? []
+        currentRecipes.value = recipeIndices
+          .map(idx => allRecipes[idx])
+          .filter((r): r is Recipe => r !== undefined)
+      } else {
+        // Otherwise, show all recipes for this type
+        currentRecipes.value = allRecipes
+      }
     } finally {
       loadingRecipes.value = false
     }
@@ -82,6 +96,20 @@ watch(
     </aside>
     <main class="main">
       <h2 class="main-title">Main</h2>
+      <div class="recipe-type-filter">
+        <label for="recipe-type-dropdown">View All Recipes By Type:</label>
+        <select
+          id="recipe-type-dropdown"
+          :value="selectedItem ? '' : selectedRecipeType"
+          @change="(e) => handleRecipeTypeSelected((e.target as HTMLSelectElement).value)"
+          class="recipe-type-dropdown"
+        >
+          <option value="">-- Select a recipe type --</option>
+          <option v-for="type in allRecipeTypes" :key="type" :value="type">
+            {{ type }}
+          </option>
+        </select>
+      </div>
       <div v-if="selectedItem" class="recipe-tabs">
         <button
           v-for="recipeType in availableRecipeTypes"
@@ -92,8 +120,13 @@ watch(
           {{ recipeType }}
         </button>
       </div>
-      <div v-if="selectedItem && selectedRecipeType" class="main-content">
+      <div v-if="selectedRecipeType && selectedItem" class="main-content">
         <p class="item-info">{{ selectedItem }} · {{ selectedRole }}</p>
+        <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
+        <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
+        <RecipeTextDisplay v-else :recipes="currentRecipes" />
+      </div>
+      <div v-else-if="selectedRecipeType" class="main-content">
         <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
         <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
         <RecipeTextDisplay v-else :recipes="currentRecipes" />
@@ -103,7 +136,7 @@ watch(
         <p class="select-recipe-type">Select a recipe type above</p>
       </div>
       <p v-else class="no-selection">
-        No item selected
+        Select a recipe type or item to view recipes
       </p>
     </main>
     <TextItemListPanel
@@ -213,6 +246,36 @@ watch(
 .loading {
   color: var(--color-text-secondary);
   padding: 16px;
+}
+
+.recipe-type-filter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  font-size: 14px;
+}
+
+.recipe-type-dropdown {
+  padding: 6px 8px;
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  color: var(--color-text-primary);
+  font-size: 12px;
+  cursor: pointer;
+  flex: 1;
+  max-width: 300px;
+}
+
+.recipe-type-dropdown:hover {
+  border-color: var(--color-border-dark);
+}
+
+.recipe-type-dropdown:focus {
+  outline: none;
+  border-color: var(--color-bg-active);
+  box-shadow: 0 0 0 2px rgba(100, 150, 255, 0.1);
 }
 </style>
 

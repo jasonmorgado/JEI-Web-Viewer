@@ -123,6 +123,12 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
                 totalBytes += calculateObjectSize(recipes)
             })
             return formatBytes(totalBytes)
+        },
+
+        // All recipe types available
+        allRecipeTypes: (state): RecipeType[] => {
+            if (!state.recipeIndex) return []
+            return Object.keys(state.recipeIndex) as RecipeType[]
         }
     }
 });

@@ -7,12 +7,13 @@
 </template>
 
 <script setup lang="ts">
+import '@/styles/colors.css'
 </script>
 
 <style scoped>
 .text-list-panel {
   width: 25%;
-  border-left: 1px solid #e0e0e0;
+  border-left: 1px solid var(--color-border-light);
   overflow-y: auto;
 }
 

@@ -2,7 +2,9 @@
 // to make them available reactively.
 
 import { defineStore } from 'pinia'
-import type { RecipeIndex, RecipeTypeIndex, ItemDetails, ItemId, RecipeType, Role } from '../types'
+import { useToastStore } from './toast'
+import type { RecipeIndex, RecipeTypeIndex, ItemDetails, ItemId, RecipeType, Role, Recipe } from '../types'
+import { file } from '@babel/types';
 
 export const useRecipeIndexStore = defineStore('recipeIndex', {
   state: () => ({
@@ -10,23 +12,71 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
     typeIndex: null as RecipeTypeIndex | null,
     recipeIndex: null as RecipeIndex | null,
     items: null as ItemDetails[] | null,
+    recipeCache: new Map<RecipeType, Recipe[]>(),
   }),
 
     actions: {
         async load() {
             if (this.loaded) return; // Don't load again if already loaded
 
-            // Load the JSON files
-            const [typeIndex, recipeIndex, items] = await Promise.all([
-                import('@/static/extracted-json/recipe_type_index.json'),
-                import('@/static/extracted-json/recipe_index.json'),
-                import('@/static/extracted-json/items.json'),
-            ]);
+            try {
+                // Load the JSON files
+                const [typeIndex, recipeIndex, items] = await Promise.all([
+                    import('@/static/extracted-json/recipe_type_index.json'),
+                    import('@/static/extracted-json/recipe_index.json'),
+                    import('@/static/extracted-json/items.json'),
+                ]);
 
-            this.typeIndex = typeIndex.default
-            this.recipeIndex = recipeIndex.default
-            this.items = items.default
-            this.loaded = true
+                this.typeIndex = typeIndex.default
+                this.recipeIndex = recipeIndex.default
+                this.items = items.default
+                this.loaded = true
+            } catch (error) {
+                const toastStore = useToastStore()
+                const errorMessage = error instanceof Error ? error.message : 'Unknown error'
+                console.error('Failed to load recipe data', error)
+                toastStore.error(`Failed to load recipe data: ${errorMessage}`)
+            }
+        },
+
+        async loadRecipesForType(recipeType: RecipeType): Promise<Recipe[]> {
+            // Check cache first
+            if (this.recipeCache.has(recipeType)) {
+                return this.recipeCache.get(recipeType)!
+            }
+
+            // Convert recipe type to filename (e.g., "minecraft:crafting" -> "minecraft_crafting")
+            const fileName = recipeType.replace(':', '_')
+
+            try {
+                const module = await import(
+                    `@/static/extracted-json/recipe_types/${fileName}.json`
+                )
+                const recipes = module.default
+                this.recipeCache.set(recipeType, recipes)
+                return recipes
+            } catch (error) {
+                const toastStore = useToastStore()
+                console.error(`Failed to load recipes for type: ${recipeType}`, error)
+
+                let errorMessage = 'Unknown error'
+                if (error instanceof Error) {
+                    errorMessage = error.message
+                }
+
+                // Handle specific error types
+                if (error instanceof SyntaxError) {
+                    // JSON Decode Error, malformed JSON
+                    console.error(`Recipe data for ${recipeType} is invalid JSON, check ${fileName}.json`, error)
+                    toastStore.error(`Recipe data for ${fileName}.json is malformed (invalid JSON)`)
+                } else if (errorMessage.includes('Unknown variable dynamic import')) {
+                    console.error(`Recipe file ${fileName}.json not found in static assets.`)
+                    toastStore.error(`Recipe file not found: ${fileName}.json`)
+                } else {
+                    toastStore.error(`Error loading recipes for ${recipeType}: ${errorMessage}`)
+                }
+                return []
+            }
         }
     },
 
@@ -39,7 +89,8 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
             }
         },
 
-        // Given ItemId, Role, and RecipeType, which recipe indices should load?
+        // Given ItemId, Role, and RecipeType, which recipe indices 
+        // should load?
         recipeIndicesFor: (state) => {
             return (itemId: ItemId, role: Role, recipeType: RecipeType): number[] => {
                 if (!state.recipeIndex) return []

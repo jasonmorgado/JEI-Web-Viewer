@@ -1,6 +1,7 @@
-import { describe, it, expect, beforeEach } from 'vitest'
+import { describe, it, expect, beforeEach, vi } from 'vitest'
 import { setActivePinia, createPinia } from 'pinia'
 import { useRecipeIndexStore } from './recipeIndex'
+import { useToastStore } from './toast'
 import type { RecipeIndex, RecipeTypeIndex } from '../types'
 
 const mockTypeIndex: RecipeTypeIndex = {
@@ -117,5 +118,34 @@ describe('useRecipeIndexStore', () => {
 
       expect(result).toBeUndefined()
     })
+  })
+
+  describe('loadRecipesForType error handling', () => {
+    it('handles file not found error', async () => {
+      const store = useRecipeIndexStore()
+      const toastStore = useToastStore()
+      const toastErrorSpy = vi.spyOn(toastStore, 'error')
+      const consoleSpy = vi.spyOn(console, 'error').mockImplementation(() => {})
+
+      // Mock the import to throw unknown variable dynamic import error
+      vi.doMock(
+        '@/static/extracted-json/recipe_types/minecraft_missing.json',
+        () => {
+          throw new Error('Unknown variable dynamic import')
+        }
+      )
+
+      const result = await store.loadRecipesForType('minecraft:missing')
+
+      expect(result).toEqual([])
+      expect(toastErrorSpy).toHaveBeenCalledWith('Recipe file not found: minecraft_missing.json')
+      expect(consoleSpy).toHaveBeenCalledWith(
+        'Failed to load recipes for type: minecraft:missing',
+        expect.any(Error)
+      )
+
+      consoleSpy.mockRestore()
+      vi.unmock('@/static/extracted-json/recipe_types/minecraft_missing.json')
+    });
   })
 })

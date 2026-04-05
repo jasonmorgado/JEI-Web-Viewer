@@ -22,6 +22,8 @@
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'INPUT')"
                   :key="slotIndex"
                   class="slot"
+                  @click="slot.items.length > 0 && $emit('select-output', getFullItemId(getCurrentItem(slot)!.item))"
+                  @contextmenu.prevent="slot.items.length > 0 && $emit('select-input', getFullItemId(getCurrentItem(slot)!.item))"
                 >
                   <div v-if="slot.items.length > 0" class="item-stack">
                     <div class="item-name">{{ getCurrentItem(slot)?.name }}</div>
@@ -41,6 +43,8 @@
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'OUTPUT')"
                   :key="slotIndex"
                   class="slot"
+                  @click="slot.items.length > 0 && $emit('select-output', getFullItemId(getCurrentItem(slot)!.item))"
+                  @contextmenu.prevent="slot.items.length > 0 && $emit('select-input', getFullItemId(getCurrentItem(slot)!.item))"
                 >
                   <div v-if="slot.items.length > 0" class="item-stack">
                     <div class="item-name">{{ getCurrentItem(slot)?.name }}</div>
@@ -81,9 +85,17 @@ import VueJsonPretty from 'vue-json-pretty'
 import 'vue-json-pretty/lib/styles.css'
 import '@/styles/colors.css'
 import type { Recipe, Role, Slot } from '@/types'
+import { useRecipeIndexStore } from '@/stores/recipeIndex'
+
+const store = useRecipeIndexStore()
 
 defineProps<{
   recipes: Recipe[]
+}>()
+
+defineEmits<{
+  'select-input': [itemId: string]
+  'select-output': [itemId: string]
 }>()
 
 const expandedIndex = ref<number | null>(null)
@@ -106,6 +118,12 @@ const getGridStyle = (recipe: Recipe) => {
 const getCurrentItem = (slot: Slot) => {
   if (slot.items.length === 0) return null
   return slot.items[currentItemIndex.value % slot.items.length]
+}
+
+const getFullItemId = (shortId: string) => {
+  // Try to find the full item ID from the items list
+  const item = store.items?.find(item => item.id.endsWith(':' + shortId) || item.id === shortId)
+  return item?.id || shortId
 }
 
 const toggleRecipe = (index: number) => {
@@ -209,6 +227,12 @@ onBeforeUnmount(() => {
   justify-content: center;
   min-height: 60px;
   text-align: center;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.slot:has(.item-stack):hover {
+  background-color: var(--color-bg-hover);
 }
 
 .item-stack {

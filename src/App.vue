@@ -18,16 +18,22 @@ const loadingRecipes = ref(false)
 
 // When left clicking an item, we want to get recipes that OUTPUT it.
 const handleItemSelectedOutput = (itemId: ItemId) => {
+  const isNewSelection = selectedItem.value !== itemId || selectedRole.value !== 'OUTPUT'
   selectedItem.value = itemId
   selectedRole.value = 'OUTPUT'
-  selectedRecipeType.value = null
+  if (isNewSelection) {
+    selectedRecipeType.value = null
+  }
 }
 
 // When right-clicking an item, we want to get recipes that take it as INPUT.
 const handleItemSelectedInput = (itemId: ItemId) => {
+  const isNewSelection = selectedItem.value !== itemId || selectedRole.value !== 'INPUT'
   selectedItem.value = itemId
   selectedRole.value = 'INPUT'
-  selectedRecipeType.value = null
+  if (isNewSelection) {
+    selectedRecipeType.value = null
+  }
 }
 
 // When selecting from the dropdown, clear item selection
@@ -39,6 +45,31 @@ const handleRecipeTypeSelected = (recipeType: string) => {
   }
 }
 
+function getRecipeList(recipeType: string, itemId: ItemId | null, role: Role | null, allRecipes: Recipe[]): Recipe[] {
+  if (!itemId || !role) {
+    return allRecipes
+  }
+  const recipeIndices = store.recipeIndex?.[recipeType]?.[itemId]?.[role] ?? []
+  return recipeIndices
+    .map(idx => allRecipes[idx])
+    .filter((r): r is Recipe => r !== undefined)
+}
+
+async function loadAndDisplayRecipes() {
+  if (!selectedRecipeType.value) {
+    currentRecipes.value = []
+    return
+  }
+
+  loadingRecipes.value = true
+  try {
+    const allRecipes = await store.loadRecipesForType(selectedRecipeType.value)
+    currentRecipes.value = getRecipeList(selectedRecipeType.value, selectedItem.value, selectedRole.value, allRecipes)
+  } finally {
+    loadingRecipes.value = false
+  }
+}
+
 const allRecipeTypes = computed(() => store.allRecipeTypes)
 
 const availableRecipeTypes = computed(() => {
@@ -46,7 +77,7 @@ const availableRecipeTypes = computed(() => {
   return store.recipeTypesFor(selectedItem.value, selectedRole.value)
 })
 
-// Auto-select first recipe type when available (only for item-based selection)
+// Auto-select first recipe type when available (only for item-based selection, not dropdown selection)
 watch(
   availableRecipeTypes,
   (types) => {
@@ -56,33 +87,11 @@ watch(
   }
 )
 
-// Load recipes when recipe type changes
+// Load recipes when recipe type, item, or role changes
 watch(
-  selectedRecipeType,
-  async (recipeType) => {
-    if (!recipeType) {
-      currentRecipes.value = []
-      return
-    }
-
-    loadingRecipes.value = true
-    try {
-      // Load all recipes for this type
-      const allRecipes = await store.loadRecipesForType(recipeType)
-
-      // If an item is selected, filter by item/role/type
-      if (selectedItem.value && selectedRole.value) {
-        const recipeIndices = store.recipeIndex?.[recipeType]?.[selectedItem.value]?.[selectedRole.value] ?? []
-        currentRecipes.value = recipeIndices
-          .map(idx => allRecipes[idx])
-          .filter((r): r is Recipe => r !== undefined)
-      } else {
-        // Otherwise, show all recipes for this type
-        currentRecipes.value = allRecipes
-      }
-    } finally {
-      loadingRecipes.value = false
-    }
+  [selectedRecipeType, selectedItem, selectedRole],
+  () => {
+    loadAndDisplayRecipes()
   }
 )
 </script>
@@ -124,12 +133,12 @@ watch(
         <p class="item-info">{{ selectedItem }} · {{ selectedRole }}</p>
         <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
         <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
-        <RecipeTextDisplay v-else :recipes="currentRecipes" />
+        <RecipeTextDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
       </div>
       <div v-else-if="selectedRecipeType" class="main-content">
         <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
         <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
-        <RecipeTextDisplay v-else :recipes="currentRecipes" />
+        <RecipeTextDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
       </div>
       <div v-else-if="selectedItem" class="main-content">
         <p class="item-info">{{ selectedItem }} · {{ selectedRole }}</p>

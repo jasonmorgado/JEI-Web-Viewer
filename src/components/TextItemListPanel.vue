@@ -4,7 +4,6 @@
       <div class="pagination">
         <button
           @click="previousPage"
-          :disabled="currentPage === 1"
           class="pagination-btn"
         >
           ← Prev
@@ -12,7 +11,6 @@
         <span class="page-info">{{ currentPage }} / {{ totalPages }}</span>
         <button
           @click="nextPage"
-          :disabled="currentPage === totalPages"
           class="pagination-btn"
         >
           Next →
@@ -68,6 +66,7 @@ onMounted(() => {
 
   if (containerRef.value) {
     resizeObserver.observe(containerRef.value)
+    containerRef.value.addEventListener('wheel', handleWheel, { passive: false })
   }
 })
 
@@ -118,12 +117,25 @@ const paginatedItems = computed(() => {
 const nextPage = () => {
   if (currentPage.value < totalPages.value) {
     currentPage.value++
+  } else {
+    currentPage.value = 1
   }
 }
 
 const previousPage = () => {
   if (currentPage.value > 1) {
     currentPage.value--
+  } else {
+    currentPage.value = totalPages.value
+  }
+}
+
+const handleWheel = (event: WheelEvent) => {
+  event.preventDefault()
+  if (event.deltaY > 0) {
+    nextPage()
+  } else if (event.deltaY < 0) {
+    previousPage()
   }
 }
 </script>

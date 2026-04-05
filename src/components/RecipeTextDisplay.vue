@@ -18,42 +18,30 @@
             <div class="slots-section">
               <h3 class="slots-label">Input</h3>
               <div class="slots-grid" :style="getGridStyle(recipe)">
-                <div
+                <SlotDisplay
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'INPUT')"
                   :key="slotIndex"
-                  class="slot"
-                  @click="slot.items.length > 0 && $emit('select-output', getFullItemId(getCurrentItem(slot)!.item))"
-                  @contextmenu.prevent="slot.items.length > 0 && $emit('select-input', getFullItemId(getCurrentItem(slot)!.item))"
-                >
-                  <div v-if="slot.items.length > 0" class="item-stack">
-                    <div class="item-name">{{ getCurrentItem(slot)?.name }}</div>
-                    <div class="item-count" v-if="(getCurrentItem(slot)?.count ?? 1) > 1">
-                      ×{{ getCurrentItem(slot)?.count }}
-                    </div>
-                  </div>
-                  <div v-else class="empty-slot">-</div>
-                </div>
+                  :slot="slot"
+                  :current-item-index="currentItemIndex"
+                  :get-full-item-id="getFullItemId"
+                  @select-output="$emit('select-output', $event)"
+                  @select-input="$emit('select-input', $event)"
+                />
               </div>
             </div>
 
             <div class="slots-section">
               <h3 class="slots-label">Output</h3>
               <div class="slots-grid" :style="getGridStyle(recipe)">
-                <div
+                <SlotDisplay
                   v-for="(slot, slotIndex) in getSlotsByRole(recipe, 'OUTPUT')"
                   :key="slotIndex"
-                  class="slot"
-                  @click="slot.items.length > 0 && $emit('select-output', getFullItemId(getCurrentItem(slot)!.item))"
-                  @contextmenu.prevent="slot.items.length > 0 && $emit('select-input', getFullItemId(getCurrentItem(slot)!.item))"
-                >
-                  <div v-if="slot.items.length > 0" class="item-stack">
-                    <div class="item-name">{{ getCurrentItem(slot)?.name }}</div>
-                    <div class="item-count" v-if="(getCurrentItem(slot)?.count ?? 1) > 1">
-                      ×{{ getCurrentItem(slot)?.count }}
-                    </div>
-                  </div>
-                  <div v-else class="empty-slot">-</div>
-                </div>
+                  :slot="slot"
+                  :current-item-index="currentItemIndex"
+                  :get-full-item-id="getFullItemId"
+                  @select-output="$emit('select-output', $event)"
+                  @select-input="$emit('select-input', $event)"
+                />
               </div>
             </div>
           </div>
@@ -84,8 +72,9 @@ import { ref, onMounted, onBeforeUnmount } from 'vue'
 import VueJsonPretty from 'vue-json-pretty'
 import 'vue-json-pretty/lib/styles.css'
 import '@/styles/colors.css'
-import type { Recipe, Role, Slot } from '@/types'
+import type { Recipe, Role } from '@/types'
 import { useRecipeIndexStore } from '@/stores/recipeIndex'
+import SlotDisplay from './SlotDisplay.vue'
 
 const store = useRecipeIndexStore()
 
@@ -100,7 +89,7 @@ defineEmits<{
 
 const expandedIndex = ref<number | null>(null)
 const currentItemIndex = ref(0)
-let itemCycleInterval: NodeJS.Timeout | null = null
+let itemCycleInterval: ReturnType<typeof setInterval> | null = null
 
 const getSlotsByRole = (recipe: Recipe, role: Role): Slot[] => {
   return recipe.slots.filter(slot => slot.role === role)
@@ -113,11 +102,6 @@ const getGridStyle = (recipe: Recipe) => {
     return { gridTemplateColumns: `repeat(${maxWidth}, minmax(80px, 1fr))` }
   }
   return {}
-}
-
-const getCurrentItem = (slot: Slot) => {
-  if (slot.items.length === 0) return null
-  return slot.items[currentItemIndex.value % slot.items.length]
 }
 
 const getFullItemId = (shortId: string) => {
@@ -215,50 +199,6 @@ onBeforeUnmount(() => {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
   gap: 8px;
-}
-
-.slot {
-  padding: 8px;
-  background: var(--color-bg-primary);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 60px;
-  text-align: center;
-  cursor: pointer;
-  transition: background-color 0.2s;
-}
-
-.slot:has(.item-stack):hover {
-  background-color: var(--color-bg-hover);
-}
-
-.item-stack {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-  width: 100%;
-}
-
-.item-name {
-  font-size: 11px;
-  color: var(--color-text-primary);
-  word-break: break-word;
-  line-height: 1.3;
-}
-
-.item-count {
-  font-size: 10px;
-  color: var(--color-text-muted);
-  font-weight: 600;
-}
-
-.empty-slot {
-  color: var(--color-text-muted);
-  font-size: 14px;
 }
 
 .json-toggle {

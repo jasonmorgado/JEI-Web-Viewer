@@ -72,7 +72,7 @@ import { ref, onMounted, onBeforeUnmount } from 'vue'
 import VueJsonPretty from 'vue-json-pretty'
 import 'vue-json-pretty/lib/styles.css'
 import '@/styles/colors.css'
-import type { Recipe, Role } from '@/types'
+import type { Recipe, Role, Slot } from '@/types'
 import { useRecipeIndexStore } from '@/stores/recipeIndex'
 import SlotDisplay from './SlotDisplay.vue'
 

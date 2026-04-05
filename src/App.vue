@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import TextItemListPanel from './components/TextItemListPanel.vue'
-import RecipeTextDisplay from './components/RecipeTextDisplay.vue'
+import RecipeDisplay from './components/RecipeDisplay.vue'
 import Toast from './components/Toast.vue'
 import '@/styles/colors.css'
 import { onMounted, ref, computed, watch } from 'vue'
@@ -133,12 +133,12 @@ watch(
         <p class="item-info">{{ selectedItem }} · {{ selectedRole }}</p>
         <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
         <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
-        <RecipeTextDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
+        <RecipeDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
       </div>
       <div v-else-if="selectedRecipeType" class="main-content">
         <p class="recipe-type-info">Recipe Type: {{ selectedRecipeType }}</p>
         <div v-if="loadingRecipes" class="loading">Loading recipes...</div>
-        <RecipeTextDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
+        <RecipeDisplay v-else :recipes="currentRecipes" @select-output="handleItemSelectedOutput" @select-input="handleItemSelectedInput" />
       </div>
       <div v-else-if="selectedItem" class="main-content">
         <p class="item-info">{{ selectedItem }} · {{ selectedRole }}</p>

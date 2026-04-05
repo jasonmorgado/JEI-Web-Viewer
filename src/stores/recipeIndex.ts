@@ -4,6 +4,7 @@
 import { defineStore } from 'pinia'
 import { useToastStore } from './toast'
 import type { RecipeIndex, RecipeTypeIndex, ItemDetails, ItemId, RecipeType, Role, Recipe } from '../types'
+import { calculateObjectSize, formatBytes } from '../utils/fileSize'
 import { file } from '@babel/types';
 
 export const useRecipeIndexStore = defineStore('recipeIndex', {
@@ -110,6 +111,18 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
                 if (!state.items) return undefined
                 return state.items.find(item => item.id === itemId)
             }
+        },
+
+        // Calculate total size of loaded JSON data
+        totalDataSize: (state) => {
+            let totalBytes = 0
+            if (state.typeIndex) totalBytes += calculateObjectSize(state.typeIndex)
+            if (state.recipeIndex) totalBytes += calculateObjectSize(state.recipeIndex)
+            if (state.items) totalBytes += calculateObjectSize(state.items)
+            state.recipeCache.forEach(recipes => {
+                totalBytes += calculateObjectSize(recipes)
+            })
+            return formatBytes(totalBytes)
         }
     }
 });

@@ -77,7 +77,8 @@ watch(
   <Toast />
   <div class="layout">
     <aside class="sidebar-left">
-      <h2 class="sidebar-title">Placeholder</h2>
+      <h2 class="sidebar-title">Data Size</h2>
+      <p class="data-size-info">{{ store.totalDataSize }}</p>
     </aside>
     <main class="main">
       <h2 class="main-title">Main</h2>
@@ -128,6 +129,13 @@ watch(
 .sidebar-title {
   margin: 0 0 16px 0;
   font-size: 16px;
+}
+
+.data-size-info {
+  margin: 0;
+  font-size: 13px;
+  color: var(--color-text-secondary);
+  font-family: monospace;
 }
 .main {
   flex: 2;

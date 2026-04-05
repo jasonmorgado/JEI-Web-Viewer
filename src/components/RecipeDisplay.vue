@@ -9,10 +9,6 @@
         :key="index"
         class="recipe-item"
       >
-        <div class="recipe-header">
-          <span class="recipe-title">Recipe {{ index + 1 }}</span>
-        </div>
-
         <div class="recipe-slots">
           <div class="slots-container">
             <div class="slots-section">
@@ -45,36 +41,25 @@
               </div>
             </div>
           </div>
-        </div>
 
-        <button
-          :class="['json-toggle', { expanded: expandedIndex === index }]"
-          @click="toggleRecipe(index)"
-        >
-          <span class="toggle-icon">{{ expandedIndex === index ? '▼' : '▶' }}</span>
-          View Recipe JSON
-        </button>
-        <div v-if="expandedIndex === index" class="recipe-json">
-          <VueJsonPretty
-            :data="recipe"
-            :deep="3"
-            :show-length="true"
-            show-line-numbers
-          />
+          <button class="json-button" @click="openJsonModal(recipe)">
+            {...}
+          </button>
         </div>
       </div>
     </div>
+
+    <JsonModal :is-open="isModalOpen" :data="modalRecipe" @close="closeJsonModal" />
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref, onMounted, onBeforeUnmount } from 'vue'
-import VueJsonPretty from 'vue-json-pretty'
-import 'vue-json-pretty/lib/styles.css'
 import '@/styles/colors.css'
 import type { Recipe, Role, Slot } from '@/types'
 import { useRecipeIndexStore } from '@/stores/recipeIndex'
 import SlotDisplay from './SlotDisplay.vue'
+import JsonModal from './JsonModal.vue'
 
 const store = useRecipeIndexStore()
 
@@ -87,9 +72,10 @@ defineEmits<{
   'select-output': [itemId: string]
 }>()
 
-const expandedIndex = ref<number | null>(null)
 const currentItemIndex = ref(0)
 let itemCycleInterval: ReturnType<typeof setInterval> | null = null
+const isModalOpen = ref(false)
+const modalRecipe = ref<Recipe | null>(null)
 
 const getSlotsByRole = (recipe: Recipe, role: Role): Slot[] => {
   return recipe.slots.filter(slot => slot.role === role)
@@ -110,8 +96,14 @@ const getFullItemId = (shortId: string) => {
   return item?.id || shortId
 }
 
-const toggleRecipe = (index: number) => {
-  expandedIndex.value = expandedIndex.value === index ? null : index
+const openJsonModal = (recipe: Recipe) => {
+  modalRecipe.value = recipe
+  isModalOpen.value = true
+}
+
+const closeJsonModal = () => {
+  isModalOpen.value = false
+  modalRecipe.value = null
 }
 
 onMounted(() => {
@@ -151,27 +143,11 @@ onBeforeUnmount(() => {
   overflow: hidden;
 }
 
-.recipe-header {
-  width: 100%;
-  padding: 12px 16px;
-  background: var(--color-bg-primary);
-  color: var(--color-text-primary);
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 13px;
-  text-align: left;
-  border-bottom: 1px solid var(--color-border);
-}
-
-.recipe-title {
-  font-weight: 600;
-}
-
 .recipe-slots {
   padding: 16px;
   background: var(--color-bg-secondary);
   border-bottom: 1px solid var(--color-border);
+  position: relative;
 }
 
 .slots-container {
@@ -201,78 +177,24 @@ onBeforeUnmount(() => {
   gap: 8px;
 }
 
-.json-toggle {
-  width: 100%;
-  padding: 12px 16px;
+.json-button {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  padding: 8px 12px;
   background: var(--color-bg-primary);
-  border: none;
+  border: 1px solid var(--color-border);
   color: var(--color-text-primary);
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 13px;
-  transition: background-color 0.2s;
-  text-align: left;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s;
 }
 
-.json-toggle:hover {
+.json-button:hover {
   background: var(--color-bg-hover);
   color: var(--color-text-white);
-}
-
-.json-toggle.expanded {
-  background: var(--color-bg-active);
-  color: var(--color-text-white);
-}
-
-.toggle-icon {
-  display: inline-block;
-  font-size: 10px;
-  min-width: 12px;
-}
-
-.recipe-json {
-  background: var(--color-bg-secondary);
-  border-top: 1px solid var(--color-border);
-  padding: 16px;
-  overflow-x: auto;
-}
-</style>
-
-<style>
-/* Override vue-json-pretty styles for dark theme */
-:deep(.vjs-tree) {
-  font-size: 12px;
-  font-family: 'Courier New', monospace;
-  color: var(--color-text-secondary);
-}
-
-:deep(.vjs-key) {
-  color: var(--color-json-key);
-}
-
-:deep(.vjs-value.vjs-string) {
-  color: var(--color-json-string);
-}
-
-:deep(.vjs-value.vjs-number) {
-  color: var(--color-json-number);
-}
-
-:deep(.vjs-value.vjs-boolean) {
-  color: var(--color-json-boolean);
-}
-
-:deep(.vjs-value.vjs-null) {
-  color: var(--color-json-boolean);
-}
-
-:deep(.vjs-line-number) {
-  color: var(--color-text-muted);
-}
-
-:deep(.vjs-indent) {
-  background-color: transparent;
+  border-color: var(--color-border-dark);
 }
 </style>

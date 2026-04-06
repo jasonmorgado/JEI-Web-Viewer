@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# JEI Display
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Displays extracted JEI data from the JEI Extractor.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+TODO
+- Look into differenciating Potions in the itemlist
+  - Problem: namespace:item_id not unique, need NBT related hash in the unique ID to properly handle it. Like JEI.
+    - TODO investigate in Extractor. 
+    - Also pass this on root-level for Recipe's ingredients.
+- Test against modded recipes
+- Look into extracting item icons
+- Research extracting backgrounds and positioning slots with x,y coords.
+- Paginate Recipe list.

@@ -5,12 +5,15 @@ export type RecipeClass = string; // "ShapedRecipe"
 
 // items.json is a list of ItemDetails
 export interface ItemDetails {
-  id: string;
+  uid: ItemId;
+  resourceLocation: string;
   name: string;
   mod: string;
 }
 
 export interface ItemStack {
+  uid: ItemId;
+  resourceLocation: string;
   damage: number;
   item: string;
   capNBT: Record<string, any>;

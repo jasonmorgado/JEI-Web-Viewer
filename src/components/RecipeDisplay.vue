@@ -19,7 +19,6 @@
                   :key="slotIndex"
                   :slot="slot"
                   :current-item-index="currentItemIndex"
-                  :get-full-item-id="getFullItemId"
                   @select-output="$emit('select-output', $event)"
                   @select-input="$emit('select-input', $event)"
                 />
@@ -34,7 +33,6 @@
                   :key="slotIndex"
                   :slot="slot"
                   :current-item-index="currentItemIndex"
-                  :get-full-item-id="getFullItemId"
                   @select-output="$emit('select-output', $event)"
                   @select-input="$emit('select-input', $event)"
                 />
@@ -57,11 +55,8 @@
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 import '@/styles/colors.css'
 import type { Recipe, Role, Slot } from '@/types'
-import { useRecipeIndexStore } from '@/stores/recipeIndex'
 import SlotDisplay from './SlotDisplay.vue'
 import JsonModal from './JsonModal.vue'
-
-const store = useRecipeIndexStore()
 
 defineProps<{
   recipes: Recipe[]
@@ -88,12 +83,6 @@ const getGridStyle = (recipe: Recipe) => {
     return { gridTemplateColumns: `repeat(${maxWidth}, minmax(80px, 1fr))` }
   }
   return {}
-}
-
-const getFullItemId = (shortId: string) => {
-  // Try to find the full item ID from the items list
-  const item = store.items?.find(item => item.id.endsWith(':' + shortId) || item.id === shortId)
-  return item?.id || shortId
 }
 
 const openJsonModal = (recipe: Recipe) => {

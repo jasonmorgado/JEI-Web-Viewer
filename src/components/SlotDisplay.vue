@@ -20,7 +20,6 @@ import type { Slot } from '@/types'
 const props = defineProps<{
   slot: Slot
   currentItemIndex: number
-  getFullItemId: (shortId: string) => string
 }>()
 
 const emit = defineEmits<{
@@ -36,14 +35,14 @@ const getCurrentItem = () => {
 const handleClick = () => {
   if (props.slot.items.length > 0) {
     const item = getCurrentItem()!
-    emit('select-output', props.getFullItemId(item.item))
+    emit('select-output', item.uid)
   }
 }
 
 const handleContextMenu = () => {
   if (props.slot.items.length > 0) {
     const item = getCurrentItem()!
-    emit('select-input', props.getFullItemId(item.item))
+    emit('select-input', item.uid)
   }
 }
 </script>

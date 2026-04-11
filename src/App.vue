@@ -45,11 +45,11 @@ const handleRecipeTypeSelected = (recipeType: string) => {
   }
 }
 
-function getRecipeList(recipeType: string, itemId: ItemId | null, role: Role | null, allRecipes: Recipe[]): Recipe[] {
-  if (!itemId || !role) {
+function getRecipeList(recipeType: string, itemUid: ItemId | null, role: Role | null, allRecipes: Recipe[]): Recipe[] {
+  if (!itemUid || !role) {
     return allRecipes
   }
-  const recipeIndices = store.recipeIndex?.[recipeType]?.[itemId]?.[role] ?? []
+  const recipeIndices = store.recipeIndex?.[recipeType]?.[itemUid]?.[role] ?? []
   return recipeIndices
     .map(idx => allRecipes[idx])
     .filter((r): r is Recipe => r !== undefined)

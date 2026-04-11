@@ -7,6 +7,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__bamboo",
             "damage": 0,
             "item": "bamboo",
             "capNBT": {
@@ -16,7 +17,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Bamboo",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:bamboo"
           }
         ],
         "fluids": []
@@ -24,6 +26,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__bamboo",
         "damage": 0,
         "item": "bamboo",
         "capNBT": {
@@ -33,7 +36,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Bamboo",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:bamboo"
       }
     ],
     "burnTime": "50",
@@ -47,6 +51,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__scaffolding",
             "damage": 0,
             "item": "scaffolding",
             "capNBT": {
@@ -56,7 +61,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Scaffolding",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:scaffolding"
           }
         ],
         "fluids": []
@@ -64,6 +70,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__scaffolding",
         "damage": 0,
         "item": "scaffolding",
         "capNBT": {
@@ -73,7 +80,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Scaffolding",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:scaffolding"
       }
     ],
     "burnTime": "50",
@@ -87,6 +95,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__white_carpet",
             "damage": 0,
             "item": "white_carpet",
             "capNBT": {
@@ -96,7 +105,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "White Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:white_carpet"
           }
         ],
         "fluids": []
@@ -104,6 +114,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__white_carpet",
         "damage": 0,
         "item": "white_carpet",
         "capNBT": {
@@ -113,7 +124,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "White Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:white_carpet"
       }
     ],
     "burnTime": "67",
@@ -127,6 +139,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__orange_carpet",
             "damage": 0,
             "item": "orange_carpet",
             "capNBT": {
@@ -136,7 +149,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Orange Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:orange_carpet"
           }
         ],
         "fluids": []
@@ -144,6 +158,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__orange_carpet",
         "damage": 0,
         "item": "orange_carpet",
         "capNBT": {
@@ -153,7 +168,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Orange Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:orange_carpet"
       }
     ],
     "burnTime": "67",
@@ -167,6 +183,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__magenta_carpet",
             "damage": 0,
             "item": "magenta_carpet",
             "capNBT": {
@@ -176,7 +193,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Magenta Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:magenta_carpet"
           }
         ],
         "fluids": []
@@ -184,6 +202,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__magenta_carpet",
         "damage": 0,
         "item": "magenta_carpet",
         "capNBT": {
@@ -193,7 +212,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Magenta Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:magenta_carpet"
       }
     ],
     "burnTime": "67",
@@ -207,6 +227,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_blue_carpet",
             "damage": 0,
             "item": "light_blue_carpet",
             "capNBT": {
@@ -216,7 +237,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Blue Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_blue_carpet"
           }
         ],
         "fluids": []
@@ -224,6 +246,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_blue_carpet",
         "damage": 0,
         "item": "light_blue_carpet",
         "capNBT": {
@@ -233,7 +256,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Blue Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_blue_carpet"
       }
     ],
     "burnTime": "67",
@@ -247,6 +271,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__yellow_carpet",
             "damage": 0,
             "item": "yellow_carpet",
             "capNBT": {
@@ -256,7 +281,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Yellow Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:yellow_carpet"
           }
         ],
         "fluids": []
@@ -264,6 +290,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__yellow_carpet",
         "damage": 0,
         "item": "yellow_carpet",
         "capNBT": {
@@ -273,7 +300,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Yellow Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:yellow_carpet"
       }
     ],
     "burnTime": "67",
@@ -287,6 +315,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__lime_carpet",
             "damage": 0,
             "item": "lime_carpet",
             "capNBT": {
@@ -296,7 +325,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lime Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lime_carpet"
           }
         ],
         "fluids": []
@@ -304,6 +334,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__lime_carpet",
         "damage": 0,
         "item": "lime_carpet",
         "capNBT": {
@@ -313,7 +344,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Lime Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:lime_carpet"
       }
     ],
     "burnTime": "67",
@@ -327,6 +359,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__pink_carpet",
             "damage": 0,
             "item": "pink_carpet",
             "capNBT": {
@@ -336,7 +369,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Pink Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:pink_carpet"
           }
         ],
         "fluids": []
@@ -344,6 +378,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__pink_carpet",
         "damage": 0,
         "item": "pink_carpet",
         "capNBT": {
@@ -353,7 +388,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Pink Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:pink_carpet"
       }
     ],
     "burnTime": "67",
@@ -367,6 +403,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__gray_carpet",
             "damage": 0,
             "item": "gray_carpet",
             "capNBT": {
@@ -376,7 +413,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gray Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gray_carpet"
           }
         ],
         "fluids": []
@@ -384,6 +422,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__gray_carpet",
         "damage": 0,
         "item": "gray_carpet",
         "capNBT": {
@@ -393,7 +432,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Gray Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:gray_carpet"
       }
     ],
     "burnTime": "67",
@@ -407,6 +447,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_gray_carpet",
             "damage": 0,
             "item": "light_gray_carpet",
             "capNBT": {
@@ -416,7 +457,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Gray Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_gray_carpet"
           }
         ],
         "fluids": []
@@ -424,6 +466,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_gray_carpet",
         "damage": 0,
         "item": "light_gray_carpet",
         "capNBT": {
@@ -433,7 +476,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Gray Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_gray_carpet"
       }
     ],
     "burnTime": "67",
@@ -447,6 +491,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__cyan_carpet",
             "damage": 0,
             "item": "cyan_carpet",
             "capNBT": {
@@ -456,7 +501,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cyan Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cyan_carpet"
           }
         ],
         "fluids": []
@@ -464,6 +510,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__cyan_carpet",
         "damage": 0,
         "item": "cyan_carpet",
         "capNBT": {
@@ -473,7 +520,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Cyan Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:cyan_carpet"
       }
     ],
     "burnTime": "67",
@@ -487,6 +535,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__purple_carpet",
             "damage": 0,
             "item": "purple_carpet",
             "capNBT": {
@@ -496,7 +545,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Purple Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:purple_carpet"
           }
         ],
         "fluids": []
@@ -504,6 +554,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__purple_carpet",
         "damage": 0,
         "item": "purple_carpet",
         "capNBT": {
@@ -513,7 +564,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Purple Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:purple_carpet"
       }
     ],
     "burnTime": "67",
@@ -527,6 +579,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__blue_carpet",
             "damage": 0,
             "item": "blue_carpet",
             "capNBT": {
@@ -536,7 +589,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Blue Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:blue_carpet"
           }
         ],
         "fluids": []
@@ -544,6 +598,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__blue_carpet",
         "damage": 0,
         "item": "blue_carpet",
         "capNBT": {
@@ -553,7 +608,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Blue Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:blue_carpet"
       }
     ],
     "burnTime": "67",
@@ -567,6 +623,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__brown_carpet",
             "damage": 0,
             "item": "brown_carpet",
             "capNBT": {
@@ -576,7 +633,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Brown Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:brown_carpet"
           }
         ],
         "fluids": []
@@ -584,6 +642,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__brown_carpet",
         "damage": 0,
         "item": "brown_carpet",
         "capNBT": {
@@ -593,7 +652,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Brown Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:brown_carpet"
       }
     ],
     "burnTime": "67",
@@ -607,6 +667,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__green_carpet",
             "damage": 0,
             "item": "green_carpet",
             "capNBT": {
@@ -616,7 +677,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Green Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:green_carpet"
           }
         ],
         "fluids": []
@@ -624,6 +686,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__green_carpet",
         "damage": 0,
         "item": "green_carpet",
         "capNBT": {
@@ -633,7 +696,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Green Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:green_carpet"
       }
     ],
     "burnTime": "67",
@@ -647,6 +711,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__red_carpet",
             "damage": 0,
             "item": "red_carpet",
             "capNBT": {
@@ -656,7 +721,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Red Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:red_carpet"
           }
         ],
         "fluids": []
@@ -664,6 +730,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__red_carpet",
         "damage": 0,
         "item": "red_carpet",
         "capNBT": {
@@ -673,7 +740,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Red Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:red_carpet"
       }
     ],
     "burnTime": "67",
@@ -687,6 +755,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__black_carpet",
             "damage": 0,
             "item": "black_carpet",
             "capNBT": {
@@ -696,7 +765,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Black Carpet",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:black_carpet"
           }
         ],
         "fluids": []
@@ -704,6 +774,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__black_carpet",
         "damage": 0,
         "item": "black_carpet",
         "capNBT": {
@@ -713,7 +784,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Black Carpet",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:black_carpet"
       }
     ],
     "burnTime": "67",
@@ -727,6 +799,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__white_wool",
             "damage": 0,
             "item": "white_wool",
             "capNBT": {
@@ -736,7 +809,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "White Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:white_wool"
           }
         ],
         "fluids": []
@@ -744,6 +818,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__white_wool",
         "damage": 0,
         "item": "white_wool",
         "capNBT": {
@@ -753,7 +828,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "White Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:white_wool"
       }
     ],
     "burnTime": "100",
@@ -767,6 +843,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__orange_wool",
             "damage": 0,
             "item": "orange_wool",
             "capNBT": {
@@ -776,7 +853,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Orange Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:orange_wool"
           }
         ],
         "fluids": []
@@ -784,6 +862,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__orange_wool",
         "damage": 0,
         "item": "orange_wool",
         "capNBT": {
@@ -793,7 +872,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Orange Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:orange_wool"
       }
     ],
     "burnTime": "100",
@@ -807,6 +887,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__magenta_wool",
             "damage": 0,
             "item": "magenta_wool",
             "capNBT": {
@@ -816,7 +897,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Magenta Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:magenta_wool"
           }
         ],
         "fluids": []
@@ -824,6 +906,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__magenta_wool",
         "damage": 0,
         "item": "magenta_wool",
         "capNBT": {
@@ -833,7 +916,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Magenta Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:magenta_wool"
       }
     ],
     "burnTime": "100",
@@ -847,6 +931,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_blue_wool",
             "damage": 0,
             "item": "light_blue_wool",
             "capNBT": {
@@ -856,7 +941,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Blue Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_blue_wool"
           }
         ],
         "fluids": []
@@ -864,6 +950,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_blue_wool",
         "damage": 0,
         "item": "light_blue_wool",
         "capNBT": {
@@ -873,7 +960,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Blue Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_blue_wool"
       }
     ],
     "burnTime": "100",
@@ -887,6 +975,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__yellow_wool",
             "damage": 0,
             "item": "yellow_wool",
             "capNBT": {
@@ -896,7 +985,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Yellow Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:yellow_wool"
           }
         ],
         "fluids": []
@@ -904,6 +994,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__yellow_wool",
         "damage": 0,
         "item": "yellow_wool",
         "capNBT": {
@@ -913,7 +1004,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Yellow Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:yellow_wool"
       }
     ],
     "burnTime": "100",
@@ -927,6 +1019,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__lime_wool",
             "damage": 0,
             "item": "lime_wool",
             "capNBT": {
@@ -936,7 +1029,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lime Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lime_wool"
           }
         ],
         "fluids": []
@@ -944,6 +1038,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__lime_wool",
         "damage": 0,
         "item": "lime_wool",
         "capNBT": {
@@ -953,7 +1048,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Lime Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:lime_wool"
       }
     ],
     "burnTime": "100",
@@ -967,6 +1063,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__pink_wool",
             "damage": 0,
             "item": "pink_wool",
             "capNBT": {
@@ -976,7 +1073,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Pink Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:pink_wool"
           }
         ],
         "fluids": []
@@ -984,6 +1082,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__pink_wool",
         "damage": 0,
         "item": "pink_wool",
         "capNBT": {
@@ -993,7 +1092,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Pink Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:pink_wool"
       }
     ],
     "burnTime": "100",
@@ -1007,6 +1107,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__gray_wool",
             "damage": 0,
             "item": "gray_wool",
             "capNBT": {
@@ -1016,7 +1117,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gray Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gray_wool"
           }
         ],
         "fluids": []
@@ -1024,6 +1126,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__gray_wool",
         "damage": 0,
         "item": "gray_wool",
         "capNBT": {
@@ -1033,7 +1136,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Gray Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:gray_wool"
       }
     ],
     "burnTime": "100",
@@ -1047,6 +1151,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_gray_wool",
             "damage": 0,
             "item": "light_gray_wool",
             "capNBT": {
@@ -1056,7 +1161,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Gray Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_gray_wool"
           }
         ],
         "fluids": []
@@ -1064,6 +1170,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_gray_wool",
         "damage": 0,
         "item": "light_gray_wool",
         "capNBT": {
@@ -1073,7 +1180,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Gray Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_gray_wool"
       }
     ],
     "burnTime": "100",
@@ -1087,6 +1195,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__cyan_wool",
             "damage": 0,
             "item": "cyan_wool",
             "capNBT": {
@@ -1096,7 +1205,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cyan Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cyan_wool"
           }
         ],
         "fluids": []
@@ -1104,6 +1214,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__cyan_wool",
         "damage": 0,
         "item": "cyan_wool",
         "capNBT": {
@@ -1113,7 +1224,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Cyan Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:cyan_wool"
       }
     ],
     "burnTime": "100",
@@ -1127,6 +1239,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__purple_wool",
             "damage": 0,
             "item": "purple_wool",
             "capNBT": {
@@ -1136,7 +1249,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Purple Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:purple_wool"
           }
         ],
         "fluids": []
@@ -1144,6 +1258,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__purple_wool",
         "damage": 0,
         "item": "purple_wool",
         "capNBT": {
@@ -1153,7 +1268,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Purple Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:purple_wool"
       }
     ],
     "burnTime": "100",
@@ -1167,6 +1283,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__blue_wool",
             "damage": 0,
             "item": "blue_wool",
             "capNBT": {
@@ -1176,7 +1293,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Blue Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:blue_wool"
           }
         ],
         "fluids": []
@@ -1184,6 +1302,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__blue_wool",
         "damage": 0,
         "item": "blue_wool",
         "capNBT": {
@@ -1193,7 +1312,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Blue Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:blue_wool"
       }
     ],
     "burnTime": "100",
@@ -1207,6 +1327,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__brown_wool",
             "damage": 0,
             "item": "brown_wool",
             "capNBT": {
@@ -1216,7 +1337,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Brown Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:brown_wool"
           }
         ],
         "fluids": []
@@ -1224,6 +1346,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__brown_wool",
         "damage": 0,
         "item": "brown_wool",
         "capNBT": {
@@ -1233,7 +1356,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Brown Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:brown_wool"
       }
     ],
     "burnTime": "100",
@@ -1247,6 +1371,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__green_wool",
             "damage": 0,
             "item": "green_wool",
             "capNBT": {
@@ -1256,7 +1381,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Green Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:green_wool"
           }
         ],
         "fluids": []
@@ -1264,6 +1390,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__green_wool",
         "damage": 0,
         "item": "green_wool",
         "capNBT": {
@@ -1273,7 +1400,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Green Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:green_wool"
       }
     ],
     "burnTime": "100",
@@ -1287,6 +1415,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__red_wool",
             "damage": 0,
             "item": "red_wool",
             "capNBT": {
@@ -1296,7 +1425,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Red Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:red_wool"
           }
         ],
         "fluids": []
@@ -1304,6 +1434,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__red_wool",
         "damage": 0,
         "item": "red_wool",
         "capNBT": {
@@ -1313,7 +1444,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Red Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:red_wool"
       }
     ],
     "burnTime": "100",
@@ -1327,6 +1459,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__black_wool",
             "damage": 0,
             "item": "black_wool",
             "capNBT": {
@@ -1336,7 +1469,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Black Wool",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:black_wool"
           }
         ],
         "fluids": []
@@ -1344,6 +1478,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__black_wool",
         "damage": 0,
         "item": "black_wool",
         "capNBT": {
@@ -1353,7 +1488,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Black Wool",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:black_wool"
       }
     ],
     "burnTime": "100",
@@ -1367,6 +1503,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_sapling",
             "damage": 0,
             "item": "oak_sapling",
             "capNBT": {
@@ -1376,7 +1513,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_sapling"
           }
         ],
         "fluids": []
@@ -1384,6 +1522,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_sapling",
         "damage": 0,
         "item": "oak_sapling",
         "capNBT": {
@@ -1393,7 +1532,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_sapling"
       }
     ],
     "burnTime": "100",
@@ -1407,6 +1547,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_sapling",
             "damage": 0,
             "item": "spruce_sapling",
             "capNBT": {
@@ -1416,7 +1557,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_sapling"
           }
         ],
         "fluids": []
@@ -1424,6 +1566,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_sapling",
         "damage": 0,
         "item": "spruce_sapling",
         "capNBT": {
@@ -1433,7 +1576,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_sapling"
       }
     ],
     "burnTime": "100",
@@ -1447,6 +1591,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_sapling",
             "damage": 0,
             "item": "birch_sapling",
             "capNBT": {
@@ -1456,7 +1601,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_sapling"
           }
         ],
         "fluids": []
@@ -1464,6 +1610,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_sapling",
         "damage": 0,
         "item": "birch_sapling",
         "capNBT": {
@@ -1473,7 +1620,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_sapling"
       }
     ],
     "burnTime": "100",
@@ -1487,6 +1635,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_sapling",
             "damage": 0,
             "item": "jungle_sapling",
             "capNBT": {
@@ -1496,7 +1645,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_sapling"
           }
         ],
         "fluids": []
@@ -1504,6 +1654,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_sapling",
         "damage": 0,
         "item": "jungle_sapling",
         "capNBT": {
@@ -1513,7 +1664,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_sapling"
       }
     ],
     "burnTime": "100",
@@ -1527,6 +1679,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_sapling",
             "damage": 0,
             "item": "acacia_sapling",
             "capNBT": {
@@ -1536,7 +1689,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_sapling"
           }
         ],
         "fluids": []
@@ -1544,6 +1698,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_sapling",
         "damage": 0,
         "item": "acacia_sapling",
         "capNBT": {
@@ -1553,7 +1708,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_sapling"
       }
     ],
     "burnTime": "100",
@@ -1567,6 +1723,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_sapling",
             "damage": 0,
             "item": "dark_oak_sapling",
             "capNBT": {
@@ -1576,7 +1733,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Sapling",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_sapling"
           }
         ],
         "fluids": []
@@ -1584,6 +1742,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_sapling",
         "damage": 0,
         "item": "dark_oak_sapling",
         "capNBT": {
@@ -1593,7 +1752,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Sapling",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_sapling"
       }
     ],
     "burnTime": "100",
@@ -1607,6 +1767,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_propagule",
             "damage": 0,
             "item": "mangrove_propagule",
             "capNBT": {
@@ -1616,7 +1777,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Propagule",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_propagule"
           }
         ],
         "fluids": []
@@ -1624,6 +1786,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_propagule",
         "damage": 0,
         "item": "mangrove_propagule",
         "capNBT": {
@@ -1633,7 +1796,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Propagule",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_propagule"
       }
     ],
     "burnTime": "100",
@@ -1647,6 +1811,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__azalea",
             "damage": 0,
             "item": "azalea",
             "capNBT": {
@@ -1656,7 +1821,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Azalea",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:azalea"
           }
         ],
         "fluids": []
@@ -1664,6 +1830,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__azalea",
         "damage": 0,
         "item": "azalea",
         "capNBT": {
@@ -1673,7 +1840,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Azalea",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:azalea"
       }
     ],
     "burnTime": "100",
@@ -1687,6 +1855,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__flowering_azalea",
             "damage": 0,
             "item": "flowering_azalea",
             "capNBT": {
@@ -1696,7 +1865,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Flowering Azalea",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:flowering_azalea"
           }
         ],
         "fluids": []
@@ -1704,6 +1874,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__flowering_azalea",
         "damage": 0,
         "item": "flowering_azalea",
         "capNBT": {
@@ -1713,7 +1884,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Flowering Azalea",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:flowering_azalea"
       }
     ],
     "burnTime": "100",
@@ -1727,6 +1899,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dead_bush",
             "damage": 0,
             "item": "dead_bush",
             "capNBT": {
@@ -1736,7 +1909,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dead Bush",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dead_bush"
           }
         ],
         "fluids": []
@@ -1744,6 +1918,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dead_bush",
         "damage": 0,
         "item": "dead_bush",
         "capNBT": {
@@ -1753,7 +1928,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dead Bush",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dead_bush"
       }
     ],
     "burnTime": "100",
@@ -1767,6 +1943,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_button",
             "damage": 0,
             "item": "oak_button",
             "capNBT": {
@@ -1776,7 +1953,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_button"
           }
         ],
         "fluids": []
@@ -1784,6 +1962,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_button",
         "damage": 0,
         "item": "oak_button",
         "capNBT": {
@@ -1793,7 +1972,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_button"
       }
     ],
     "burnTime": "100",
@@ -1807,6 +1987,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_button",
             "damage": 0,
             "item": "spruce_button",
             "capNBT": {
@@ -1816,7 +1997,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_button"
           }
         ],
         "fluids": []
@@ -1824,6 +2006,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_button",
         "damage": 0,
         "item": "spruce_button",
         "capNBT": {
@@ -1833,7 +2016,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_button"
       }
     ],
     "burnTime": "100",
@@ -1847,6 +2031,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_button",
             "damage": 0,
             "item": "birch_button",
             "capNBT": {
@@ -1856,7 +2041,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_button"
           }
         ],
         "fluids": []
@@ -1864,6 +2050,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_button",
         "damage": 0,
         "item": "birch_button",
         "capNBT": {
@@ -1873,7 +2060,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_button"
       }
     ],
     "burnTime": "100",
@@ -1887,6 +2075,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_button",
             "damage": 0,
             "item": "jungle_button",
             "capNBT": {
@@ -1896,7 +2085,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_button"
           }
         ],
         "fluids": []
@@ -1904,6 +2094,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_button",
         "damage": 0,
         "item": "jungle_button",
         "capNBT": {
@@ -1913,7 +2104,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_button"
       }
     ],
     "burnTime": "100",
@@ -1927,6 +2119,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_button",
             "damage": 0,
             "item": "acacia_button",
             "capNBT": {
@@ -1936,7 +2129,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_button"
           }
         ],
         "fluids": []
@@ -1944,6 +2138,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_button",
         "damage": 0,
         "item": "acacia_button",
         "capNBT": {
@@ -1953,7 +2148,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_button"
       }
     ],
     "burnTime": "100",
@@ -1967,6 +2163,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_button",
             "damage": 0,
             "item": "dark_oak_button",
             "capNBT": {
@@ -1976,7 +2173,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_button"
           }
         ],
         "fluids": []
@@ -1984,6 +2182,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_button",
         "damage": 0,
         "item": "dark_oak_button",
         "capNBT": {
@@ -1993,7 +2192,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_button"
       }
     ],
     "burnTime": "100",
@@ -2007,6 +2207,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_button",
             "damage": 0,
             "item": "mangrove_button",
             "capNBT": {
@@ -2016,7 +2217,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Button",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_button"
           }
         ],
         "fluids": []
@@ -2024,6 +2226,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_button",
         "damage": 0,
         "item": "mangrove_button",
         "capNBT": {
@@ -2033,7 +2236,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Button",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_button"
       }
     ],
     "burnTime": "100",
@@ -2047,6 +2251,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stick",
             "damage": 0,
             "item": "stick",
             "capNBT": {
@@ -2056,7 +2261,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stick",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stick"
           }
         ],
         "fluids": []
@@ -2064,6 +2270,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stick",
         "damage": 0,
         "item": "stick",
         "capNBT": {
@@ -2073,7 +2280,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stick",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stick"
       }
     ],
     "burnTime": "100",
@@ -2087,6 +2295,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__bowl",
             "damage": 0,
             "item": "bowl",
             "capNBT": {
@@ -2096,7 +2305,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Bowl",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:bowl"
           }
         ],
         "fluids": []
@@ -2104,6 +2314,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__bowl",
         "damage": 0,
         "item": "bowl",
         "capNBT": {
@@ -2113,7 +2324,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Bowl",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:bowl"
       }
     ],
     "burnTime": "100",
@@ -2127,6 +2339,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_slab",
             "damage": 0,
             "item": "oak_slab",
             "capNBT": {
@@ -2136,7 +2349,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_slab"
           }
         ],
         "fluids": []
@@ -2144,6 +2358,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_slab",
         "damage": 0,
         "item": "oak_slab",
         "capNBT": {
@@ -2153,7 +2368,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_slab"
       }
     ],
     "burnTime": "150",
@@ -2167,6 +2383,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_slab",
             "damage": 0,
             "item": "spruce_slab",
             "capNBT": {
@@ -2176,7 +2393,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_slab"
           }
         ],
         "fluids": []
@@ -2184,6 +2402,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_slab",
         "damage": 0,
         "item": "spruce_slab",
         "capNBT": {
@@ -2193,7 +2412,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_slab"
       }
     ],
     "burnTime": "150",
@@ -2207,6 +2427,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_slab",
             "damage": 0,
             "item": "birch_slab",
             "capNBT": {
@@ -2216,7 +2437,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_slab"
           }
         ],
         "fluids": []
@@ -2224,6 +2446,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_slab",
         "damage": 0,
         "item": "birch_slab",
         "capNBT": {
@@ -2233,7 +2456,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_slab"
       }
     ],
     "burnTime": "150",
@@ -2247,6 +2471,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_slab",
             "damage": 0,
             "item": "jungle_slab",
             "capNBT": {
@@ -2256,7 +2481,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_slab"
           }
         ],
         "fluids": []
@@ -2264,6 +2490,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_slab",
         "damage": 0,
         "item": "jungle_slab",
         "capNBT": {
@@ -2273,7 +2500,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_slab"
       }
     ],
     "burnTime": "150",
@@ -2287,6 +2515,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_slab",
             "damage": 0,
             "item": "acacia_slab",
             "capNBT": {
@@ -2296,7 +2525,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_slab"
           }
         ],
         "fluids": []
@@ -2304,6 +2534,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_slab",
         "damage": 0,
         "item": "acacia_slab",
         "capNBT": {
@@ -2313,7 +2544,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_slab"
       }
     ],
     "burnTime": "150",
@@ -2327,6 +2559,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_slab",
             "damage": 0,
             "item": "dark_oak_slab",
             "capNBT": {
@@ -2336,7 +2569,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_slab"
           }
         ],
         "fluids": []
@@ -2344,6 +2578,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_slab",
         "damage": 0,
         "item": "dark_oak_slab",
         "capNBT": {
@@ -2353,7 +2588,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_slab"
       }
     ],
     "burnTime": "150",
@@ -2367,6 +2603,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_slab",
             "damage": 0,
             "item": "mangrove_slab",
             "capNBT": {
@@ -2376,7 +2613,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Slab",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_slab"
           }
         ],
         "fluids": []
@@ -2384,6 +2622,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_slab",
         "damage": 0,
         "item": "mangrove_slab",
         "capNBT": {
@@ -2393,7 +2632,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Slab",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_slab"
       }
     ],
     "burnTime": "150",
@@ -2407,6 +2647,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_sign",
             "damage": 0,
             "item": "oak_sign",
             "capNBT": {
@@ -2416,7 +2657,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_sign"
           }
         ],
         "fluids": []
@@ -2424,6 +2666,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_sign",
         "damage": 0,
         "item": "oak_sign",
         "capNBT": {
@@ -2433,7 +2676,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_sign"
       }
     ],
     "burnTime": "200",
@@ -2447,6 +2691,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_sign",
             "damage": 0,
             "item": "spruce_sign",
             "capNBT": {
@@ -2456,7 +2701,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_sign"
           }
         ],
         "fluids": []
@@ -2464,6 +2710,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_sign",
         "damage": 0,
         "item": "spruce_sign",
         "capNBT": {
@@ -2473,7 +2720,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_sign"
       }
     ],
     "burnTime": "200",
@@ -2487,6 +2735,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_sign",
             "damage": 0,
             "item": "birch_sign",
             "capNBT": {
@@ -2496,7 +2745,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_sign"
           }
         ],
         "fluids": []
@@ -2504,6 +2754,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_sign",
         "damage": 0,
         "item": "birch_sign",
         "capNBT": {
@@ -2513,7 +2764,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_sign"
       }
     ],
     "burnTime": "200",
@@ -2527,6 +2779,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_sign",
             "damage": 0,
             "item": "jungle_sign",
             "capNBT": {
@@ -2536,7 +2789,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_sign"
           }
         ],
         "fluids": []
@@ -2544,6 +2798,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_sign",
         "damage": 0,
         "item": "jungle_sign",
         "capNBT": {
@@ -2553,7 +2808,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_sign"
       }
     ],
     "burnTime": "200",
@@ -2567,6 +2823,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_sign",
             "damage": 0,
             "item": "acacia_sign",
             "capNBT": {
@@ -2576,7 +2833,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_sign"
           }
         ],
         "fluids": []
@@ -2584,6 +2842,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_sign",
         "damage": 0,
         "item": "acacia_sign",
         "capNBT": {
@@ -2593,7 +2852,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_sign"
       }
     ],
     "burnTime": "200",
@@ -2607,6 +2867,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_sign",
             "damage": 0,
             "item": "dark_oak_sign",
             "capNBT": {
@@ -2616,7 +2877,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_sign"
           }
         ],
         "fluids": []
@@ -2624,6 +2886,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_sign",
         "damage": 0,
         "item": "dark_oak_sign",
         "capNBT": {
@@ -2633,7 +2896,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_sign"
       }
     ],
     "burnTime": "200",
@@ -2647,6 +2911,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_sign",
             "damage": 0,
             "item": "mangrove_sign",
             "capNBT": {
@@ -2656,7 +2921,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Sign",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_sign"
           }
         ],
         "fluids": []
@@ -2664,6 +2930,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_sign",
         "damage": 0,
         "item": "mangrove_sign",
         "capNBT": {
@@ -2673,7 +2940,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Sign",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_sign"
       }
     ],
     "burnTime": "200",
@@ -2687,6 +2955,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_door",
             "damage": 0,
             "item": "oak_door",
             "capNBT": {
@@ -2696,7 +2965,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_door"
           }
         ],
         "fluids": []
@@ -2704,6 +2974,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_door",
         "damage": 0,
         "item": "oak_door",
         "capNBT": {
@@ -2713,7 +2984,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_door"
       }
     ],
     "burnTime": "200",
@@ -2727,6 +2999,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_door",
             "damage": 0,
             "item": "spruce_door",
             "capNBT": {
@@ -2736,7 +3009,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_door"
           }
         ],
         "fluids": []
@@ -2744,6 +3018,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_door",
         "damage": 0,
         "item": "spruce_door",
         "capNBT": {
@@ -2753,7 +3028,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_door"
       }
     ],
     "burnTime": "200",
@@ -2767,6 +3043,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_door",
             "damage": 0,
             "item": "birch_door",
             "capNBT": {
@@ -2776,7 +3053,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_door"
           }
         ],
         "fluids": []
@@ -2784,6 +3062,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_door",
         "damage": 0,
         "item": "birch_door",
         "capNBT": {
@@ -2793,7 +3072,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_door"
       }
     ],
     "burnTime": "200",
@@ -2807,6 +3087,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_door",
             "damage": 0,
             "item": "jungle_door",
             "capNBT": {
@@ -2816,7 +3097,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_door"
           }
         ],
         "fluids": []
@@ -2824,6 +3106,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_door",
         "damage": 0,
         "item": "jungle_door",
         "capNBT": {
@@ -2833,7 +3116,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_door"
       }
     ],
     "burnTime": "200",
@@ -2847,6 +3131,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_door",
             "damage": 0,
             "item": "acacia_door",
             "capNBT": {
@@ -2856,7 +3141,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_door"
           }
         ],
         "fluids": []
@@ -2864,6 +3150,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_door",
         "damage": 0,
         "item": "acacia_door",
         "capNBT": {
@@ -2873,7 +3160,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_door"
       }
     ],
     "burnTime": "200",
@@ -2887,6 +3175,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_door",
             "damage": 0,
             "item": "dark_oak_door",
             "capNBT": {
@@ -2896,7 +3185,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_door"
           }
         ],
         "fluids": []
@@ -2904,6 +3194,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_door",
         "damage": 0,
         "item": "dark_oak_door",
         "capNBT": {
@@ -2913,7 +3204,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_door"
       }
     ],
     "burnTime": "200",
@@ -2927,6 +3219,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_door",
             "damage": 0,
             "item": "mangrove_door",
             "capNBT": {
@@ -2936,7 +3229,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Door",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_door"
           }
         ],
         "fluids": []
@@ -2944,6 +3238,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_door",
         "damage": 0,
         "item": "mangrove_door",
         "capNBT": {
@@ -2953,7 +3248,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Door",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_door"
       }
     ],
     "burnTime": "200",
@@ -2967,6 +3263,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__wooden_sword__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "wooden_sword",
             "capNBT": {
@@ -2982,7 +3279,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:wooden_sword"
           }
         ],
         "fluids": []
@@ -2990,6 +3288,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__wooden_sword__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "wooden_sword",
         "capNBT": {
@@ -3005,7 +3304,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:wooden_sword"
       }
     ],
     "burnTime": "200",
@@ -3019,6 +3319,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__wooden_shovel__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "wooden_shovel",
             "capNBT": {
@@ -3034,7 +3335,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:wooden_shovel"
           }
         ],
         "fluids": []
@@ -3042,6 +3344,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__wooden_shovel__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "wooden_shovel",
         "capNBT": {
@@ -3057,7 +3360,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:wooden_shovel"
       }
     ],
     "burnTime": "200",
@@ -3071,6 +3375,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__wooden_pickaxe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "wooden_pickaxe",
             "capNBT": {
@@ -3086,7 +3391,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:wooden_pickaxe"
           }
         ],
         "fluids": []
@@ -3094,6 +3400,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__wooden_pickaxe__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "wooden_pickaxe",
         "capNBT": {
@@ -3109,7 +3416,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:wooden_pickaxe"
       }
     ],
     "burnTime": "200",
@@ -3123,6 +3431,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__wooden_axe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "wooden_axe",
             "capNBT": {
@@ -3138,7 +3447,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:wooden_axe"
           }
         ],
         "fluids": []
@@ -3146,6 +3456,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__wooden_axe__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "wooden_axe",
         "capNBT": {
@@ -3161,7 +3472,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:wooden_axe"
       }
     ],
     "burnTime": "200",
@@ -3175,6 +3487,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__wooden_hoe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "wooden_hoe",
             "capNBT": {
@@ -3190,7 +3503,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:wooden_hoe"
           }
         ],
         "fluids": []
@@ -3198,6 +3512,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__wooden_hoe__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "wooden_hoe",
         "capNBT": {
@@ -3213,7 +3528,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:wooden_hoe"
       }
     ],
     "burnTime": "200",
@@ -3227,6 +3543,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_planks",
             "damage": 0,
             "item": "oak_planks",
             "capNBT": {
@@ -3236,7 +3553,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_planks"
           }
         ],
         "fluids": []
@@ -3244,6 +3562,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_planks",
         "damage": 0,
         "item": "oak_planks",
         "capNBT": {
@@ -3253,7 +3572,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_planks"
       }
     ],
     "burnTime": "300",
@@ -3267,6 +3587,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_planks",
             "damage": 0,
             "item": "spruce_planks",
             "capNBT": {
@@ -3276,7 +3597,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_planks"
           }
         ],
         "fluids": []
@@ -3284,6 +3606,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_planks",
         "damage": 0,
         "item": "spruce_planks",
         "capNBT": {
@@ -3293,7 +3616,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_planks"
       }
     ],
     "burnTime": "300",
@@ -3307,6 +3631,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_planks",
             "damage": 0,
             "item": "birch_planks",
             "capNBT": {
@@ -3316,7 +3641,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_planks"
           }
         ],
         "fluids": []
@@ -3324,6 +3650,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_planks",
         "damage": 0,
         "item": "birch_planks",
         "capNBT": {
@@ -3333,7 +3660,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_planks"
       }
     ],
     "burnTime": "300",
@@ -3347,6 +3675,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_planks",
             "damage": 0,
             "item": "jungle_planks",
             "capNBT": {
@@ -3356,7 +3685,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_planks"
           }
         ],
         "fluids": []
@@ -3364,6 +3694,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_planks",
         "damage": 0,
         "item": "jungle_planks",
         "capNBT": {
@@ -3373,7 +3704,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_planks"
       }
     ],
     "burnTime": "300",
@@ -3387,6 +3719,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_planks",
             "damage": 0,
             "item": "acacia_planks",
             "capNBT": {
@@ -3396,7 +3729,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_planks"
           }
         ],
         "fluids": []
@@ -3404,6 +3738,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_planks",
         "damage": 0,
         "item": "acacia_planks",
         "capNBT": {
@@ -3413,7 +3748,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_planks"
       }
     ],
     "burnTime": "300",
@@ -3427,6 +3763,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_planks",
             "damage": 0,
             "item": "dark_oak_planks",
             "capNBT": {
@@ -3436,7 +3773,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_planks"
           }
         ],
         "fluids": []
@@ -3444,6 +3782,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_planks",
         "damage": 0,
         "item": "dark_oak_planks",
         "capNBT": {
@@ -3453,7 +3792,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_planks"
       }
     ],
     "burnTime": "300",
@@ -3467,6 +3807,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_planks",
             "damage": 0,
             "item": "mangrove_planks",
             "capNBT": {
@@ -3476,7 +3817,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Planks",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_planks"
           }
         ],
         "fluids": []
@@ -3484,6 +3826,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_planks",
         "damage": 0,
         "item": "mangrove_planks",
         "capNBT": {
@@ -3493,7 +3836,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Planks",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_planks"
       }
     ],
     "burnTime": "300",
@@ -3507,6 +3851,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_log",
             "damage": 0,
             "item": "oak_log",
             "capNBT": {
@@ -3516,7 +3861,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_log"
           }
         ],
         "fluids": []
@@ -3524,6 +3870,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_log",
         "damage": 0,
         "item": "oak_log",
         "capNBT": {
@@ -3533,7 +3880,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_log"
       }
     ],
     "burnTime": "300",
@@ -3547,6 +3895,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_log",
             "damage": 0,
             "item": "spruce_log",
             "capNBT": {
@@ -3556,7 +3905,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_log"
           }
         ],
         "fluids": []
@@ -3564,6 +3914,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_log",
         "damage": 0,
         "item": "spruce_log",
         "capNBT": {
@@ -3573,7 +3924,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_log"
       }
     ],
     "burnTime": "300",
@@ -3587,6 +3939,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_log",
             "damage": 0,
             "item": "birch_log",
             "capNBT": {
@@ -3596,7 +3949,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_log"
           }
         ],
         "fluids": []
@@ -3604,6 +3958,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_log",
         "damage": 0,
         "item": "birch_log",
         "capNBT": {
@@ -3613,7 +3968,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_log"
       }
     ],
     "burnTime": "300",
@@ -3627,6 +3983,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_log",
             "damage": 0,
             "item": "jungle_log",
             "capNBT": {
@@ -3636,7 +3993,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_log"
           }
         ],
         "fluids": []
@@ -3644,6 +4002,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_log",
         "damage": 0,
         "item": "jungle_log",
         "capNBT": {
@@ -3653,7 +4012,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_log"
       }
     ],
     "burnTime": "300",
@@ -3667,6 +4027,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_log",
             "damage": 0,
             "item": "acacia_log",
             "capNBT": {
@@ -3676,7 +4037,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_log"
           }
         ],
         "fluids": []
@@ -3684,6 +4046,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_log",
         "damage": 0,
         "item": "acacia_log",
         "capNBT": {
@@ -3693,7 +4056,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_log"
       }
     ],
     "burnTime": "300",
@@ -3707,6 +4071,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_log",
             "damage": 0,
             "item": "dark_oak_log",
             "capNBT": {
@@ -3716,7 +4081,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_log"
           }
         ],
         "fluids": []
@@ -3724,6 +4090,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_log",
         "damage": 0,
         "item": "dark_oak_log",
         "capNBT": {
@@ -3733,7 +4100,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_log"
       }
     ],
     "burnTime": "300",
@@ -3747,6 +4115,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_log",
             "damage": 0,
             "item": "mangrove_log",
             "capNBT": {
@@ -3756,7 +4125,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_log"
           }
         ],
         "fluids": []
@@ -3764,6 +4134,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_log",
         "damage": 0,
         "item": "mangrove_log",
         "capNBT": {
@@ -3773,7 +4144,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_log"
       }
     ],
     "burnTime": "300",
@@ -3787,6 +4159,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_roots",
             "damage": 0,
             "item": "mangrove_roots",
             "capNBT": {
@@ -3796,7 +4169,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Roots",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_roots"
           }
         ],
         "fluids": []
@@ -3804,6 +4178,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_roots",
         "damage": 0,
         "item": "mangrove_roots",
         "capNBT": {
@@ -3813,7 +4188,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Roots",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_roots"
       }
     ],
     "burnTime": "300",
@@ -3827,6 +4203,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_oak_log",
             "damage": 0,
             "item": "stripped_oak_log",
             "capNBT": {
@@ -3836,7 +4213,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Oak Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_oak_log"
           }
         ],
         "fluids": []
@@ -3844,6 +4222,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_oak_log",
         "damage": 0,
         "item": "stripped_oak_log",
         "capNBT": {
@@ -3853,7 +4232,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Oak Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_oak_log"
       }
     ],
     "burnTime": "300",
@@ -3867,6 +4247,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_spruce_log",
             "damage": 0,
             "item": "stripped_spruce_log",
             "capNBT": {
@@ -3876,7 +4257,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Spruce Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_spruce_log"
           }
         ],
         "fluids": []
@@ -3884,6 +4266,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_spruce_log",
         "damage": 0,
         "item": "stripped_spruce_log",
         "capNBT": {
@@ -3893,7 +4276,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Spruce Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_spruce_log"
       }
     ],
     "burnTime": "300",
@@ -3907,6 +4291,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_birch_log",
             "damage": 0,
             "item": "stripped_birch_log",
             "capNBT": {
@@ -3916,7 +4301,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Birch Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_birch_log"
           }
         ],
         "fluids": []
@@ -3924,6 +4310,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_birch_log",
         "damage": 0,
         "item": "stripped_birch_log",
         "capNBT": {
@@ -3933,7 +4320,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Birch Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_birch_log"
       }
     ],
     "burnTime": "300",
@@ -3947,6 +4335,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_jungle_log",
             "damage": 0,
             "item": "stripped_jungle_log",
             "capNBT": {
@@ -3956,7 +4345,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Jungle Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_jungle_log"
           }
         ],
         "fluids": []
@@ -3964,6 +4354,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_jungle_log",
         "damage": 0,
         "item": "stripped_jungle_log",
         "capNBT": {
@@ -3973,7 +4364,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Jungle Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_jungle_log"
       }
     ],
     "burnTime": "300",
@@ -3987,6 +4379,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_acacia_log",
             "damage": 0,
             "item": "stripped_acacia_log",
             "capNBT": {
@@ -3996,7 +4389,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Acacia Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_acacia_log"
           }
         ],
         "fluids": []
@@ -4004,6 +4398,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_acacia_log",
         "damage": 0,
         "item": "stripped_acacia_log",
         "capNBT": {
@@ -4013,7 +4408,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Acacia Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_acacia_log"
       }
     ],
     "burnTime": "300",
@@ -4027,6 +4423,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_dark_oak_log",
             "damage": 0,
             "item": "stripped_dark_oak_log",
             "capNBT": {
@@ -4036,7 +4433,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Dark Oak Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_dark_oak_log"
           }
         ],
         "fluids": []
@@ -4044,6 +4442,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_dark_oak_log",
         "damage": 0,
         "item": "stripped_dark_oak_log",
         "capNBT": {
@@ -4053,7 +4452,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Dark Oak Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_dark_oak_log"
       }
     ],
     "burnTime": "300",
@@ -4067,6 +4467,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_mangrove_log",
             "damage": 0,
             "item": "stripped_mangrove_log",
             "capNBT": {
@@ -4076,7 +4477,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Mangrove Log",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_mangrove_log"
           }
         ],
         "fluids": []
@@ -4084,6 +4486,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_mangrove_log",
         "damage": 0,
         "item": "stripped_mangrove_log",
         "capNBT": {
@@ -4093,7 +4496,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Mangrove Log",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_mangrove_log"
       }
     ],
     "burnTime": "300",
@@ -4107,6 +4511,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_oak_wood",
             "damage": 0,
             "item": "stripped_oak_wood",
             "capNBT": {
@@ -4116,7 +4521,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Oak Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_oak_wood"
           }
         ],
         "fluids": []
@@ -4124,6 +4530,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_oak_wood",
         "damage": 0,
         "item": "stripped_oak_wood",
         "capNBT": {
@@ -4133,7 +4540,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Oak Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_oak_wood"
       }
     ],
     "burnTime": "300",
@@ -4147,6 +4555,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_spruce_wood",
             "damage": 0,
             "item": "stripped_spruce_wood",
             "capNBT": {
@@ -4156,7 +4565,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Spruce Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_spruce_wood"
           }
         ],
         "fluids": []
@@ -4164,6 +4574,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_spruce_wood",
         "damage": 0,
         "item": "stripped_spruce_wood",
         "capNBT": {
@@ -4173,7 +4584,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Spruce Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_spruce_wood"
       }
     ],
     "burnTime": "300",
@@ -4187,6 +4599,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_birch_wood",
             "damage": 0,
             "item": "stripped_birch_wood",
             "capNBT": {
@@ -4196,7 +4609,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Birch Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_birch_wood"
           }
         ],
         "fluids": []
@@ -4204,6 +4618,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_birch_wood",
         "damage": 0,
         "item": "stripped_birch_wood",
         "capNBT": {
@@ -4213,7 +4628,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Birch Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_birch_wood"
       }
     ],
     "burnTime": "300",
@@ -4227,6 +4643,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_jungle_wood",
             "damage": 0,
             "item": "stripped_jungle_wood",
             "capNBT": {
@@ -4236,7 +4653,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Jungle Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_jungle_wood"
           }
         ],
         "fluids": []
@@ -4244,6 +4662,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_jungle_wood",
         "damage": 0,
         "item": "stripped_jungle_wood",
         "capNBT": {
@@ -4253,7 +4672,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Jungle Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_jungle_wood"
       }
     ],
     "burnTime": "300",
@@ -4267,6 +4687,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_acacia_wood",
             "damage": 0,
             "item": "stripped_acacia_wood",
             "capNBT": {
@@ -4276,7 +4697,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Acacia Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_acacia_wood"
           }
         ],
         "fluids": []
@@ -4284,6 +4706,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_acacia_wood",
         "damage": 0,
         "item": "stripped_acacia_wood",
         "capNBT": {
@@ -4293,7 +4716,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Acacia Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_acacia_wood"
       }
     ],
     "burnTime": "300",
@@ -4307,6 +4731,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_dark_oak_wood",
             "damage": 0,
             "item": "stripped_dark_oak_wood",
             "capNBT": {
@@ -4316,7 +4741,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Dark Oak Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_dark_oak_wood"
           }
         ],
         "fluids": []
@@ -4324,6 +4750,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_dark_oak_wood",
         "damage": 0,
         "item": "stripped_dark_oak_wood",
         "capNBT": {
@@ -4333,7 +4760,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Dark Oak Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_dark_oak_wood"
       }
     ],
     "burnTime": "300",
@@ -4347,6 +4775,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__stripped_mangrove_wood",
             "damage": 0,
             "item": "stripped_mangrove_wood",
             "capNBT": {
@@ -4356,7 +4785,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Stripped Mangrove Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:stripped_mangrove_wood"
           }
         ],
         "fluids": []
@@ -4364,6 +4794,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__stripped_mangrove_wood",
         "damage": 0,
         "item": "stripped_mangrove_wood",
         "capNBT": {
@@ -4373,7 +4804,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Stripped Mangrove Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:stripped_mangrove_wood"
       }
     ],
     "burnTime": "300",
@@ -4387,6 +4819,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_wood",
             "damage": 0,
             "item": "oak_wood",
             "capNBT": {
@@ -4396,7 +4829,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_wood"
           }
         ],
         "fluids": []
@@ -4404,6 +4838,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_wood",
         "damage": 0,
         "item": "oak_wood",
         "capNBT": {
@@ -4413,7 +4848,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_wood"
       }
     ],
     "burnTime": "300",
@@ -4427,6 +4863,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_wood",
             "damage": 0,
             "item": "spruce_wood",
             "capNBT": {
@@ -4436,7 +4873,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_wood"
           }
         ],
         "fluids": []
@@ -4444,6 +4882,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_wood",
         "damage": 0,
         "item": "spruce_wood",
         "capNBT": {
@@ -4453,7 +4892,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_wood"
       }
     ],
     "burnTime": "300",
@@ -4467,6 +4907,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_wood",
             "damage": 0,
             "item": "birch_wood",
             "capNBT": {
@@ -4476,7 +4917,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_wood"
           }
         ],
         "fluids": []
@@ -4484,6 +4926,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_wood",
         "damage": 0,
         "item": "birch_wood",
         "capNBT": {
@@ -4493,7 +4936,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_wood"
       }
     ],
     "burnTime": "300",
@@ -4507,6 +4951,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_wood",
             "damage": 0,
             "item": "jungle_wood",
             "capNBT": {
@@ -4516,7 +4961,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_wood"
           }
         ],
         "fluids": []
@@ -4524,6 +4970,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_wood",
         "damage": 0,
         "item": "jungle_wood",
         "capNBT": {
@@ -4533,7 +4980,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_wood"
       }
     ],
     "burnTime": "300",
@@ -4547,6 +4995,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_wood",
             "damage": 0,
             "item": "acacia_wood",
             "capNBT": {
@@ -4556,7 +5005,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_wood"
           }
         ],
         "fluids": []
@@ -4564,6 +5014,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_wood",
         "damage": 0,
         "item": "acacia_wood",
         "capNBT": {
@@ -4573,7 +5024,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_wood"
       }
     ],
     "burnTime": "300",
@@ -4587,6 +5039,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_wood",
             "damage": 0,
             "item": "dark_oak_wood",
             "capNBT": {
@@ -4596,7 +5049,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_wood"
           }
         ],
         "fluids": []
@@ -4604,6 +5058,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_wood",
         "damage": 0,
         "item": "dark_oak_wood",
         "capNBT": {
@@ -4613,7 +5068,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_wood"
       }
     ],
     "burnTime": "300",
@@ -4627,6 +5083,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_wood",
             "damage": 0,
             "item": "mangrove_wood",
             "capNBT": {
@@ -4636,7 +5093,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Wood",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_wood"
           }
         ],
         "fluids": []
@@ -4644,6 +5102,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_wood",
         "damage": 0,
         "item": "mangrove_wood",
         "capNBT": {
@@ -4653,7 +5112,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Wood",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_wood"
       }
     ],
     "burnTime": "300",
@@ -4667,6 +5127,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__bookshelf",
             "damage": 0,
             "item": "bookshelf",
             "capNBT": {
@@ -4676,7 +5137,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Bookshelf",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:bookshelf"
           }
         ],
         "fluids": []
@@ -4684,6 +5146,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__bookshelf",
         "damage": 0,
         "item": "bookshelf",
         "capNBT": {
@@ -4693,7 +5156,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Bookshelf",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:bookshelf"
       }
     ],
     "burnTime": "300",
@@ -4707,6 +5171,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_stairs",
             "damage": 0,
             "item": "oak_stairs",
             "capNBT": {
@@ -4716,7 +5181,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_stairs"
           }
         ],
         "fluids": []
@@ -4724,6 +5190,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_stairs",
         "damage": 0,
         "item": "oak_stairs",
         "capNBT": {
@@ -4733,7 +5200,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_stairs"
       }
     ],
     "burnTime": "300",
@@ -4747,6 +5215,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_stairs",
             "damage": 0,
             "item": "spruce_stairs",
             "capNBT": {
@@ -4756,7 +5225,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_stairs"
           }
         ],
         "fluids": []
@@ -4764,6 +5234,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_stairs",
         "damage": 0,
         "item": "spruce_stairs",
         "capNBT": {
@@ -4773,7 +5244,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_stairs"
       }
     ],
     "burnTime": "300",
@@ -4787,6 +5259,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_stairs",
             "damage": 0,
             "item": "birch_stairs",
             "capNBT": {
@@ -4796,7 +5269,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_stairs"
           }
         ],
         "fluids": []
@@ -4804,6 +5278,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_stairs",
         "damage": 0,
         "item": "birch_stairs",
         "capNBT": {
@@ -4813,7 +5288,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_stairs"
       }
     ],
     "burnTime": "300",
@@ -4827,6 +5303,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_stairs",
             "damage": 0,
             "item": "jungle_stairs",
             "capNBT": {
@@ -4836,7 +5313,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_stairs"
           }
         ],
         "fluids": []
@@ -4844,6 +5322,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_stairs",
         "damage": 0,
         "item": "jungle_stairs",
         "capNBT": {
@@ -4853,7 +5332,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_stairs"
       }
     ],
     "burnTime": "300",
@@ -4867,6 +5347,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_stairs",
             "damage": 0,
             "item": "acacia_stairs",
             "capNBT": {
@@ -4876,7 +5357,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_stairs"
           }
         ],
         "fluids": []
@@ -4884,6 +5366,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_stairs",
         "damage": 0,
         "item": "acacia_stairs",
         "capNBT": {
@@ -4893,7 +5376,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_stairs"
       }
     ],
     "burnTime": "300",
@@ -4907,6 +5391,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_stairs",
             "damage": 0,
             "item": "dark_oak_stairs",
             "capNBT": {
@@ -4916,7 +5401,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_stairs"
           }
         ],
         "fluids": []
@@ -4924,6 +5410,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_stairs",
         "damage": 0,
         "item": "dark_oak_stairs",
         "capNBT": {
@@ -4933,7 +5420,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_stairs"
       }
     ],
     "burnTime": "300",
@@ -4947,6 +5435,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_stairs",
             "damage": 0,
             "item": "mangrove_stairs",
             "capNBT": {
@@ -4956,7 +5445,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Stairs",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_stairs"
           }
         ],
         "fluids": []
@@ -4964,6 +5454,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_stairs",
         "damage": 0,
         "item": "mangrove_stairs",
         "capNBT": {
@@ -4973,7 +5464,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Stairs",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_stairs"
       }
     ],
     "burnTime": "300",
@@ -4987,6 +5479,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__chest",
             "damage": 0,
             "item": "chest",
             "capNBT": {
@@ -4996,7 +5489,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:chest"
           }
         ],
         "fluids": []
@@ -5004,6 +5498,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__chest",
         "damage": 0,
         "item": "chest",
         "capNBT": {
@@ -5013,7 +5508,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:chest"
       }
     ],
     "burnTime": "300",
@@ -5027,6 +5523,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__crafting_table",
             "damage": 0,
             "item": "crafting_table",
             "capNBT": {
@@ -5036,7 +5533,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Crafting Table",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:crafting_table"
           }
         ],
         "fluids": []
@@ -5044,6 +5542,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__crafting_table",
         "damage": 0,
         "item": "crafting_table",
         "capNBT": {
@@ -5053,7 +5552,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Crafting Table",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:crafting_table"
       }
     ],
     "burnTime": "300",
@@ -5067,6 +5567,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__ladder",
             "damage": 0,
             "item": "ladder",
             "capNBT": {
@@ -5076,7 +5577,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Ladder",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:ladder"
           }
         ],
         "fluids": []
@@ -5084,6 +5586,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__ladder",
         "damage": 0,
         "item": "ladder",
         "capNBT": {
@@ -5093,7 +5596,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Ladder",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:ladder"
       }
     ],
     "burnTime": "300",
@@ -5107,6 +5611,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jukebox",
             "damage": 0,
             "item": "jukebox",
             "capNBT": {
@@ -5116,7 +5621,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jukebox",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jukebox"
           }
         ],
         "fluids": []
@@ -5124,6 +5630,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jukebox",
         "damage": 0,
         "item": "jukebox",
         "capNBT": {
@@ -5133,7 +5640,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jukebox",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jukebox"
       }
     ],
     "burnTime": "300",
@@ -5147,6 +5655,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_fence",
             "damage": 0,
             "item": "oak_fence",
             "capNBT": {
@@ -5156,7 +5665,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_fence"
           }
         ],
         "fluids": []
@@ -5164,6 +5674,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_fence",
         "damage": 0,
         "item": "oak_fence",
         "capNBT": {
@@ -5173,7 +5684,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_fence"
       }
     ],
     "burnTime": "300",
@@ -5187,6 +5699,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_fence",
             "damage": 0,
             "item": "spruce_fence",
             "capNBT": {
@@ -5196,7 +5709,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_fence"
           }
         ],
         "fluids": []
@@ -5204,6 +5718,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_fence",
         "damage": 0,
         "item": "spruce_fence",
         "capNBT": {
@@ -5213,7 +5728,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_fence"
       }
     ],
     "burnTime": "300",
@@ -5227,6 +5743,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_fence",
             "damage": 0,
             "item": "birch_fence",
             "capNBT": {
@@ -5236,7 +5753,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_fence"
           }
         ],
         "fluids": []
@@ -5244,6 +5762,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_fence",
         "damage": 0,
         "item": "birch_fence",
         "capNBT": {
@@ -5253,7 +5772,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_fence"
       }
     ],
     "burnTime": "300",
@@ -5267,6 +5787,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_fence",
             "damage": 0,
             "item": "jungle_fence",
             "capNBT": {
@@ -5276,7 +5797,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_fence"
           }
         ],
         "fluids": []
@@ -5284,6 +5806,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_fence",
         "damage": 0,
         "item": "jungle_fence",
         "capNBT": {
@@ -5293,7 +5816,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_fence"
       }
     ],
     "burnTime": "300",
@@ -5307,6 +5831,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_fence",
             "damage": 0,
             "item": "acacia_fence",
             "capNBT": {
@@ -5316,7 +5841,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_fence"
           }
         ],
         "fluids": []
@@ -5324,6 +5850,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_fence",
         "damage": 0,
         "item": "acacia_fence",
         "capNBT": {
@@ -5333,7 +5860,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_fence"
       }
     ],
     "burnTime": "300",
@@ -5347,6 +5875,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_fence",
             "damage": 0,
             "item": "dark_oak_fence",
             "capNBT": {
@@ -5356,7 +5885,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_fence"
           }
         ],
         "fluids": []
@@ -5364,6 +5894,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_fence",
         "damage": 0,
         "item": "dark_oak_fence",
         "capNBT": {
@@ -5373,7 +5904,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_fence"
       }
     ],
     "burnTime": "300",
@@ -5387,6 +5919,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_fence",
             "damage": 0,
             "item": "mangrove_fence",
             "capNBT": {
@@ -5396,7 +5929,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Fence",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_fence"
           }
         ],
         "fluids": []
@@ -5404,6 +5938,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_fence",
         "damage": 0,
         "item": "mangrove_fence",
         "capNBT": {
@@ -5413,7 +5948,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Fence",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_fence"
       }
     ],
     "burnTime": "300",
@@ -5427,6 +5963,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__white_banner",
             "damage": 0,
             "item": "white_banner",
             "capNBT": {
@@ -5436,7 +5973,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "White Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:white_banner"
           }
         ],
         "fluids": []
@@ -5444,6 +5982,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__white_banner",
         "damage": 0,
         "item": "white_banner",
         "capNBT": {
@@ -5453,7 +5992,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "White Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:white_banner"
       }
     ],
     "burnTime": "300",
@@ -5467,6 +6007,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__orange_banner",
             "damage": 0,
             "item": "orange_banner",
             "capNBT": {
@@ -5476,7 +6017,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Orange Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:orange_banner"
           }
         ],
         "fluids": []
@@ -5484,6 +6026,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__orange_banner",
         "damage": 0,
         "item": "orange_banner",
         "capNBT": {
@@ -5493,7 +6036,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Orange Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:orange_banner"
       }
     ],
     "burnTime": "300",
@@ -5507,6 +6051,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__magenta_banner",
             "damage": 0,
             "item": "magenta_banner",
             "capNBT": {
@@ -5516,7 +6061,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Magenta Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:magenta_banner"
           }
         ],
         "fluids": []
@@ -5524,6 +6070,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__magenta_banner",
         "damage": 0,
         "item": "magenta_banner",
         "capNBT": {
@@ -5533,7 +6080,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Magenta Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:magenta_banner"
       }
     ],
     "burnTime": "300",
@@ -5547,6 +6095,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_blue_banner",
             "damage": 0,
             "item": "light_blue_banner",
             "capNBT": {
@@ -5556,7 +6105,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Blue Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_blue_banner"
           }
         ],
         "fluids": []
@@ -5564,6 +6114,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_blue_banner",
         "damage": 0,
         "item": "light_blue_banner",
         "capNBT": {
@@ -5573,7 +6124,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Blue Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_blue_banner"
       }
     ],
     "burnTime": "300",
@@ -5587,6 +6139,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__yellow_banner",
             "damage": 0,
             "item": "yellow_banner",
             "capNBT": {
@@ -5596,7 +6149,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Yellow Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:yellow_banner"
           }
         ],
         "fluids": []
@@ -5604,6 +6158,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__yellow_banner",
         "damage": 0,
         "item": "yellow_banner",
         "capNBT": {
@@ -5613,7 +6168,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Yellow Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:yellow_banner"
       }
     ],
     "burnTime": "300",
@@ -5627,6 +6183,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__lime_banner",
             "damage": 0,
             "item": "lime_banner",
             "capNBT": {
@@ -5636,7 +6193,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lime Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lime_banner"
           }
         ],
         "fluids": []
@@ -5644,6 +6202,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__lime_banner",
         "damage": 0,
         "item": "lime_banner",
         "capNBT": {
@@ -5653,7 +6212,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Lime Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:lime_banner"
       }
     ],
     "burnTime": "300",
@@ -5667,6 +6227,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__pink_banner",
             "damage": 0,
             "item": "pink_banner",
             "capNBT": {
@@ -5676,7 +6237,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Pink Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:pink_banner"
           }
         ],
         "fluids": []
@@ -5684,6 +6246,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__pink_banner",
         "damage": 0,
         "item": "pink_banner",
         "capNBT": {
@@ -5693,7 +6256,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Pink Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:pink_banner"
       }
     ],
     "burnTime": "300",
@@ -5707,6 +6271,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__gray_banner",
             "damage": 0,
             "item": "gray_banner",
             "capNBT": {
@@ -5716,7 +6281,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gray Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gray_banner"
           }
         ],
         "fluids": []
@@ -5724,6 +6290,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__gray_banner",
         "damage": 0,
         "item": "gray_banner",
         "capNBT": {
@@ -5733,7 +6300,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Gray Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:gray_banner"
       }
     ],
     "burnTime": "300",
@@ -5747,6 +6315,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__light_gray_banner",
             "damage": 0,
             "item": "light_gray_banner",
             "capNBT": {
@@ -5756,7 +6325,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Light Gray Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:light_gray_banner"
           }
         ],
         "fluids": []
@@ -5764,6 +6334,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__light_gray_banner",
         "damage": 0,
         "item": "light_gray_banner",
         "capNBT": {
@@ -5773,7 +6344,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Light Gray Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:light_gray_banner"
       }
     ],
     "burnTime": "300",
@@ -5787,6 +6359,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__cyan_banner",
             "damage": 0,
             "item": "cyan_banner",
             "capNBT": {
@@ -5796,7 +6369,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cyan Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cyan_banner"
           }
         ],
         "fluids": []
@@ -5804,6 +6378,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__cyan_banner",
         "damage": 0,
         "item": "cyan_banner",
         "capNBT": {
@@ -5813,7 +6388,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Cyan Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:cyan_banner"
       }
     ],
     "burnTime": "300",
@@ -5827,6 +6403,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__purple_banner",
             "damage": 0,
             "item": "purple_banner",
             "capNBT": {
@@ -5836,7 +6413,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Purple Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:purple_banner"
           }
         ],
         "fluids": []
@@ -5844,6 +6422,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__purple_banner",
         "damage": 0,
         "item": "purple_banner",
         "capNBT": {
@@ -5853,7 +6432,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Purple Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:purple_banner"
       }
     ],
     "burnTime": "300",
@@ -5867,6 +6447,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__blue_banner",
             "damage": 0,
             "item": "blue_banner",
             "capNBT": {
@@ -5876,7 +6457,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Blue Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:blue_banner"
           }
         ],
         "fluids": []
@@ -5884,6 +6466,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__blue_banner",
         "damage": 0,
         "item": "blue_banner",
         "capNBT": {
@@ -5893,7 +6476,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Blue Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:blue_banner"
       }
     ],
     "burnTime": "300",
@@ -5907,6 +6491,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__brown_banner",
             "damage": 0,
             "item": "brown_banner",
             "capNBT": {
@@ -5916,7 +6501,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Brown Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:brown_banner"
           }
         ],
         "fluids": []
@@ -5924,6 +6510,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__brown_banner",
         "damage": 0,
         "item": "brown_banner",
         "capNBT": {
@@ -5933,7 +6520,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Brown Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:brown_banner"
       }
     ],
     "burnTime": "300",
@@ -5947,6 +6535,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__green_banner",
             "damage": 0,
             "item": "green_banner",
             "capNBT": {
@@ -5956,7 +6545,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Green Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:green_banner"
           }
         ],
         "fluids": []
@@ -5964,6 +6554,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__green_banner",
         "damage": 0,
         "item": "green_banner",
         "capNBT": {
@@ -5973,7 +6564,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Green Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:green_banner"
       }
     ],
     "burnTime": "300",
@@ -5987,6 +6579,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__red_banner",
             "damage": 0,
             "item": "red_banner",
             "capNBT": {
@@ -5996,7 +6589,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Red Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:red_banner"
           }
         ],
         "fluids": []
@@ -6004,6 +6598,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__red_banner",
         "damage": 0,
         "item": "red_banner",
         "capNBT": {
@@ -6013,7 +6608,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Red Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:red_banner"
       }
     ],
     "burnTime": "300",
@@ -6027,6 +6623,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__black_banner",
             "damage": 0,
             "item": "black_banner",
             "capNBT": {
@@ -6036,7 +6633,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Black Banner",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:black_banner"
           }
         ],
         "fluids": []
@@ -6044,6 +6642,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__black_banner",
         "damage": 0,
         "item": "black_banner",
         "capNBT": {
@@ -6053,7 +6652,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Black Banner",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:black_banner"
       }
     ],
     "burnTime": "300",
@@ -6067,6 +6667,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__loom",
             "damage": 0,
             "item": "loom",
             "capNBT": {
@@ -6076,7 +6677,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Loom",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:loom"
           }
         ],
         "fluids": []
@@ -6084,6 +6686,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__loom",
         "damage": 0,
         "item": "loom",
         "capNBT": {
@@ -6093,7 +6696,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Loom",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:loom"
       }
     ],
     "burnTime": "300",
@@ -6107,6 +6711,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__composter",
             "damage": 0,
             "item": "composter",
             "capNBT": {
@@ -6116,7 +6721,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Composter",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:composter"
           }
         ],
         "fluids": []
@@ -6124,6 +6730,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__composter",
         "damage": 0,
         "item": "composter",
         "capNBT": {
@@ -6133,7 +6740,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Composter",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:composter"
       }
     ],
     "burnTime": "300",
@@ -6147,6 +6755,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__barrel",
             "damage": 0,
             "item": "barrel",
             "capNBT": {
@@ -6156,7 +6765,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Barrel",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:barrel"
           }
         ],
         "fluids": []
@@ -6164,6 +6774,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__barrel",
         "damage": 0,
         "item": "barrel",
         "capNBT": {
@@ -6173,7 +6784,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Barrel",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:barrel"
       }
     ],
     "burnTime": "300",
@@ -6187,6 +6799,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__cartography_table",
             "damage": 0,
             "item": "cartography_table",
             "capNBT": {
@@ -6196,7 +6809,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cartography Table",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cartography_table"
           }
         ],
         "fluids": []
@@ -6204,6 +6818,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__cartography_table",
         "damage": 0,
         "item": "cartography_table",
         "capNBT": {
@@ -6213,7 +6828,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Cartography Table",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:cartography_table"
       }
     ],
     "burnTime": "300",
@@ -6227,6 +6843,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__fletching_table",
             "damage": 0,
             "item": "fletching_table",
             "capNBT": {
@@ -6236,7 +6853,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Fletching Table",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:fletching_table"
           }
         ],
         "fluids": []
@@ -6244,6 +6862,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__fletching_table",
         "damage": 0,
         "item": "fletching_table",
         "capNBT": {
@@ -6253,7 +6872,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Fletching Table",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:fletching_table"
       }
     ],
     "burnTime": "300",
@@ -6267,6 +6887,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__smithing_table",
             "damage": 0,
             "item": "smithing_table",
             "capNBT": {
@@ -6276,7 +6897,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Smithing Table",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:smithing_table"
           }
         ],
         "fluids": []
@@ -6284,6 +6906,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__smithing_table",
         "damage": 0,
         "item": "smithing_table",
         "capNBT": {
@@ -6293,7 +6916,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Smithing Table",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:smithing_table"
       }
     ],
     "burnTime": "300",
@@ -6307,6 +6931,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__lectern",
             "damage": 0,
             "item": "lectern",
             "capNBT": {
@@ -6316,7 +6941,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lectern",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lectern"
           }
         ],
         "fluids": []
@@ -6324,6 +6950,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__lectern",
         "damage": 0,
         "item": "lectern",
         "capNBT": {
@@ -6333,7 +6960,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Lectern",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:lectern"
       }
     ],
     "burnTime": "300",
@@ -6347,6 +6975,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__daylight_detector",
             "damage": 0,
             "item": "daylight_detector",
             "capNBT": {
@@ -6356,7 +6985,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Daylight Detector",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:daylight_detector"
           }
         ],
         "fluids": []
@@ -6364,6 +6994,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__daylight_detector",
         "damage": 0,
         "item": "daylight_detector",
         "capNBT": {
@@ -6373,7 +7004,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Daylight Detector",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:daylight_detector"
       }
     ],
     "burnTime": "300",
@@ -6387,6 +7019,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__trapped_chest",
             "damage": 0,
             "item": "trapped_chest",
             "capNBT": {
@@ -6396,7 +7029,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Trapped Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:trapped_chest"
           }
         ],
         "fluids": []
@@ -6404,6 +7038,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__trapped_chest",
         "damage": 0,
         "item": "trapped_chest",
         "capNBT": {
@@ -6413,7 +7048,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Trapped Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:trapped_chest"
       }
     ],
     "burnTime": "300",
@@ -6427,6 +7063,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__note_block",
             "damage": 0,
             "item": "note_block",
             "capNBT": {
@@ -6436,7 +7073,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Note Block",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:note_block"
           }
         ],
         "fluids": []
@@ -6444,6 +7082,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__note_block",
         "damage": 0,
         "item": "note_block",
         "capNBT": {
@@ -6453,7 +7092,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Note Block",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:note_block"
       }
     ],
     "burnTime": "300",
@@ -6467,6 +7107,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_pressure_plate",
             "damage": 0,
             "item": "oak_pressure_plate",
             "capNBT": {
@@ -6476,7 +7117,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_pressure_plate"
           }
         ],
         "fluids": []
@@ -6484,6 +7126,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_pressure_plate",
         "damage": 0,
         "item": "oak_pressure_plate",
         "capNBT": {
@@ -6493,7 +7136,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6507,6 +7151,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_pressure_plate",
             "damage": 0,
             "item": "spruce_pressure_plate",
             "capNBT": {
@@ -6516,7 +7161,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_pressure_plate"
           }
         ],
         "fluids": []
@@ -6524,6 +7170,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_pressure_plate",
         "damage": 0,
         "item": "spruce_pressure_plate",
         "capNBT": {
@@ -6533,7 +7180,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6547,6 +7195,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_pressure_plate",
             "damage": 0,
             "item": "birch_pressure_plate",
             "capNBT": {
@@ -6556,7 +7205,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_pressure_plate"
           }
         ],
         "fluids": []
@@ -6564,6 +7214,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_pressure_plate",
         "damage": 0,
         "item": "birch_pressure_plate",
         "capNBT": {
@@ -6573,7 +7224,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6587,6 +7239,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_pressure_plate",
             "damage": 0,
             "item": "jungle_pressure_plate",
             "capNBT": {
@@ -6596,7 +7249,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_pressure_plate"
           }
         ],
         "fluids": []
@@ -6604,6 +7258,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_pressure_plate",
         "damage": 0,
         "item": "jungle_pressure_plate",
         "capNBT": {
@@ -6613,7 +7268,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6627,6 +7283,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_pressure_plate",
             "damage": 0,
             "item": "acacia_pressure_plate",
             "capNBT": {
@@ -6636,7 +7293,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_pressure_plate"
           }
         ],
         "fluids": []
@@ -6644,6 +7302,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_pressure_plate",
         "damage": 0,
         "item": "acacia_pressure_plate",
         "capNBT": {
@@ -6653,7 +7312,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6667,6 +7327,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_pressure_plate",
             "damage": 0,
             "item": "dark_oak_pressure_plate",
             "capNBT": {
@@ -6676,7 +7337,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_pressure_plate"
           }
         ],
         "fluids": []
@@ -6684,6 +7346,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_pressure_plate",
         "damage": 0,
         "item": "dark_oak_pressure_plate",
         "capNBT": {
@@ -6693,7 +7356,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6707,6 +7371,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_pressure_plate",
             "damage": 0,
             "item": "mangrove_pressure_plate",
             "capNBT": {
@@ -6716,7 +7381,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Pressure Plate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_pressure_plate"
           }
         ],
         "fluids": []
@@ -6724,6 +7390,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_pressure_plate",
         "damage": 0,
         "item": "mangrove_pressure_plate",
         "capNBT": {
@@ -6733,7 +7400,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Pressure Plate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_pressure_plate"
       }
     ],
     "burnTime": "300",
@@ -6747,6 +7415,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_trapdoor",
             "damage": 0,
             "item": "oak_trapdoor",
             "capNBT": {
@@ -6756,7 +7425,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_trapdoor"
           }
         ],
         "fluids": []
@@ -6764,6 +7434,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_trapdoor",
         "damage": 0,
         "item": "oak_trapdoor",
         "capNBT": {
@@ -6773,7 +7444,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6787,6 +7459,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_trapdoor",
             "damage": 0,
             "item": "spruce_trapdoor",
             "capNBT": {
@@ -6796,7 +7469,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_trapdoor"
           }
         ],
         "fluids": []
@@ -6804,6 +7478,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_trapdoor",
         "damage": 0,
         "item": "spruce_trapdoor",
         "capNBT": {
@@ -6813,7 +7488,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6827,6 +7503,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_trapdoor",
             "damage": 0,
             "item": "birch_trapdoor",
             "capNBT": {
@@ -6836,7 +7513,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_trapdoor"
           }
         ],
         "fluids": []
@@ -6844,6 +7522,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_trapdoor",
         "damage": 0,
         "item": "birch_trapdoor",
         "capNBT": {
@@ -6853,7 +7532,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6867,6 +7547,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_trapdoor",
             "damage": 0,
             "item": "jungle_trapdoor",
             "capNBT": {
@@ -6876,7 +7557,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_trapdoor"
           }
         ],
         "fluids": []
@@ -6884,6 +7566,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_trapdoor",
         "damage": 0,
         "item": "jungle_trapdoor",
         "capNBT": {
@@ -6893,7 +7576,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6907,6 +7591,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_trapdoor",
             "damage": 0,
             "item": "acacia_trapdoor",
             "capNBT": {
@@ -6916,7 +7601,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_trapdoor"
           }
         ],
         "fluids": []
@@ -6924,6 +7610,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_trapdoor",
         "damage": 0,
         "item": "acacia_trapdoor",
         "capNBT": {
@@ -6933,7 +7620,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6947,6 +7635,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_trapdoor",
             "damage": 0,
             "item": "dark_oak_trapdoor",
             "capNBT": {
@@ -6956,7 +7645,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_trapdoor"
           }
         ],
         "fluids": []
@@ -6964,6 +7654,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_trapdoor",
         "damage": 0,
         "item": "dark_oak_trapdoor",
         "capNBT": {
@@ -6973,7 +7664,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -6987,6 +7679,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_trapdoor",
             "damage": 0,
             "item": "mangrove_trapdoor",
             "capNBT": {
@@ -6996,7 +7689,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Trapdoor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_trapdoor"
           }
         ],
         "fluids": []
@@ -7004,6 +7698,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_trapdoor",
         "damage": 0,
         "item": "mangrove_trapdoor",
         "capNBT": {
@@ -7013,7 +7708,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Trapdoor",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_trapdoor"
       }
     ],
     "burnTime": "300",
@@ -7027,6 +7723,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_fence_gate",
             "damage": 0,
             "item": "oak_fence_gate",
             "capNBT": {
@@ -7036,7 +7733,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_fence_gate"
           }
         ],
         "fluids": []
@@ -7044,6 +7742,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_fence_gate",
         "damage": 0,
         "item": "oak_fence_gate",
         "capNBT": {
@@ -7053,7 +7752,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7067,6 +7767,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_fence_gate",
             "damage": 0,
             "item": "spruce_fence_gate",
             "capNBT": {
@@ -7076,7 +7777,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_fence_gate"
           }
         ],
         "fluids": []
@@ -7084,6 +7786,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_fence_gate",
         "damage": 0,
         "item": "spruce_fence_gate",
         "capNBT": {
@@ -7093,7 +7796,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7107,6 +7811,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_fence_gate",
             "damage": 0,
             "item": "birch_fence_gate",
             "capNBT": {
@@ -7116,7 +7821,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_fence_gate"
           }
         ],
         "fluids": []
@@ -7124,6 +7830,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_fence_gate",
         "damage": 0,
         "item": "birch_fence_gate",
         "capNBT": {
@@ -7133,7 +7840,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7147,6 +7855,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_fence_gate",
             "damage": 0,
             "item": "jungle_fence_gate",
             "capNBT": {
@@ -7156,7 +7865,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_fence_gate"
           }
         ],
         "fluids": []
@@ -7164,6 +7874,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_fence_gate",
         "damage": 0,
         "item": "jungle_fence_gate",
         "capNBT": {
@@ -7173,7 +7884,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7187,6 +7899,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_fence_gate",
             "damage": 0,
             "item": "acacia_fence_gate",
             "capNBT": {
@@ -7196,7 +7909,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_fence_gate"
           }
         ],
         "fluids": []
@@ -7204,6 +7918,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_fence_gate",
         "damage": 0,
         "item": "acacia_fence_gate",
         "capNBT": {
@@ -7213,7 +7928,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7227,6 +7943,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_fence_gate",
             "damage": 0,
             "item": "dark_oak_fence_gate",
             "capNBT": {
@@ -7236,7 +7953,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_fence_gate"
           }
         ],
         "fluids": []
@@ -7244,6 +7962,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_fence_gate",
         "damage": 0,
         "item": "dark_oak_fence_gate",
         "capNBT": {
@@ -7253,7 +7972,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7267,6 +7987,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_fence_gate",
             "damage": 0,
             "item": "mangrove_fence_gate",
             "capNBT": {
@@ -7276,7 +7997,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Fence Gate",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_fence_gate"
           }
         ],
         "fluids": []
@@ -7284,6 +8006,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_fence_gate",
         "damage": 0,
         "item": "mangrove_fence_gate",
         "capNBT": {
@@ -7293,7 +8016,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Fence Gate",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_fence_gate"
       }
     ],
     "burnTime": "300",
@@ -7307,6 +8031,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__bow__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "bow",
             "capNBT": {
@@ -7322,7 +8047,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:bow"
           }
         ],
         "fluids": []
@@ -7330,6 +8056,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__bow__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "bow",
         "capNBT": {
@@ -7345,7 +8072,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:bow"
       }
     ],
     "burnTime": "300",
@@ -7359,6 +8087,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__fishing_rod__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "fishing_rod",
             "capNBT": {
@@ -7374,7 +8103,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:fishing_rod"
           }
         ],
         "fluids": []
@@ -7382,6 +8112,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__fishing_rod__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "fishing_rod",
         "capNBT": {
@@ -7397,7 +8128,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:fishing_rod"
       }
     ],
     "burnTime": "300",
@@ -7411,6 +8143,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__crossbow__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "crossbow",
             "capNBT": {
@@ -7426,7 +8159,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:crossbow"
           }
         ],
         "fluids": []
@@ -7434,6 +8168,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__crossbow__f615bddfb62eda0c5d44ad803d556908",
         "damage": 0,
         "item": "crossbow",
         "capNBT": {
@@ -7449,7 +8184,8 @@
         "count": 1,
         "tag": {
           "Damage": 0.0
-        }
+        },
+        "resourceLocation": "minecraft:crossbow"
       }
     ],
     "burnTime": "300",
@@ -7463,6 +8199,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_boat",
             "damage": 0,
             "item": "oak_boat",
             "capNBT": {
@@ -7472,7 +8209,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_boat"
           }
         ],
         "fluids": []
@@ -7480,6 +8218,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_boat",
         "damage": 0,
         "item": "oak_boat",
         "capNBT": {
@@ -7489,7 +8228,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_boat"
       }
     ],
     "burnTime": "1200",
@@ -7503,6 +8243,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__oak_chest_boat",
             "damage": 0,
             "item": "oak_chest_boat",
             "capNBT": {
@@ -7512,7 +8253,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Oak Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:oak_chest_boat"
           }
         ],
         "fluids": []
@@ -7520,6 +8262,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__oak_chest_boat",
         "damage": 0,
         "item": "oak_chest_boat",
         "capNBT": {
@@ -7529,7 +8272,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Oak Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:oak_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7543,6 +8287,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_boat",
             "damage": 0,
             "item": "spruce_boat",
             "capNBT": {
@@ -7552,7 +8297,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_boat"
           }
         ],
         "fluids": []
@@ -7560,6 +8306,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_boat",
         "damage": 0,
         "item": "spruce_boat",
         "capNBT": {
@@ -7569,7 +8316,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_boat"
       }
     ],
     "burnTime": "1200",
@@ -7583,6 +8331,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__spruce_chest_boat",
             "damage": 0,
             "item": "spruce_chest_boat",
             "capNBT": {
@@ -7592,7 +8341,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Spruce Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:spruce_chest_boat"
           }
         ],
         "fluids": []
@@ -7600,6 +8350,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__spruce_chest_boat",
         "damage": 0,
         "item": "spruce_chest_boat",
         "capNBT": {
@@ -7609,7 +8360,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Spruce Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:spruce_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7623,6 +8375,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_boat",
             "damage": 0,
             "item": "birch_boat",
             "capNBT": {
@@ -7632,7 +8385,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_boat"
           }
         ],
         "fluids": []
@@ -7640,6 +8394,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_boat",
         "damage": 0,
         "item": "birch_boat",
         "capNBT": {
@@ -7649,7 +8404,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_boat"
       }
     ],
     "burnTime": "1200",
@@ -7663,6 +8419,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__birch_chest_boat",
             "damage": 0,
             "item": "birch_chest_boat",
             "capNBT": {
@@ -7672,7 +8429,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Birch Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:birch_chest_boat"
           }
         ],
         "fluids": []
@@ -7680,6 +8438,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__birch_chest_boat",
         "damage": 0,
         "item": "birch_chest_boat",
         "capNBT": {
@@ -7689,7 +8448,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Birch Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:birch_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7703,6 +8463,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_boat",
             "damage": 0,
             "item": "jungle_boat",
             "capNBT": {
@@ -7712,7 +8473,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_boat"
           }
         ],
         "fluids": []
@@ -7720,6 +8482,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_boat",
         "damage": 0,
         "item": "jungle_boat",
         "capNBT": {
@@ -7729,7 +8492,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_boat"
       }
     ],
     "burnTime": "1200",
@@ -7743,6 +8507,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__jungle_chest_boat",
             "damage": 0,
             "item": "jungle_chest_boat",
             "capNBT": {
@@ -7752,7 +8517,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Jungle Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:jungle_chest_boat"
           }
         ],
         "fluids": []
@@ -7760,6 +8526,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__jungle_chest_boat",
         "damage": 0,
         "item": "jungle_chest_boat",
         "capNBT": {
@@ -7769,7 +8536,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Jungle Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:jungle_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7783,6 +8551,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_boat",
             "damage": 0,
             "item": "acacia_boat",
             "capNBT": {
@@ -7792,7 +8561,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_boat"
           }
         ],
         "fluids": []
@@ -7800,6 +8570,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_boat",
         "damage": 0,
         "item": "acacia_boat",
         "capNBT": {
@@ -7809,7 +8580,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_boat"
       }
     ],
     "burnTime": "1200",
@@ -7823,6 +8595,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__acacia_chest_boat",
             "damage": 0,
             "item": "acacia_chest_boat",
             "capNBT": {
@@ -7832,7 +8605,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Acacia Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:acacia_chest_boat"
           }
         ],
         "fluids": []
@@ -7840,6 +8614,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__acacia_chest_boat",
         "damage": 0,
         "item": "acacia_chest_boat",
         "capNBT": {
@@ -7849,7 +8624,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Acacia Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:acacia_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7863,6 +8639,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_boat",
             "damage": 0,
             "item": "dark_oak_boat",
             "capNBT": {
@@ -7872,7 +8649,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_boat"
           }
         ],
         "fluids": []
@@ -7880,6 +8658,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_boat",
         "damage": 0,
         "item": "dark_oak_boat",
         "capNBT": {
@@ -7889,7 +8668,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_boat"
       }
     ],
     "burnTime": "1200",
@@ -7903,6 +8683,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dark_oak_chest_boat",
             "damage": 0,
             "item": "dark_oak_chest_boat",
             "capNBT": {
@@ -7912,7 +8693,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dark Oak Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dark_oak_chest_boat"
           }
         ],
         "fluids": []
@@ -7920,6 +8702,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dark_oak_chest_boat",
         "damage": 0,
         "item": "dark_oak_chest_boat",
         "capNBT": {
@@ -7929,7 +8712,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dark Oak Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dark_oak_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -7943,6 +8727,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_boat",
             "damage": 0,
             "item": "mangrove_boat",
             "capNBT": {
@@ -7952,7 +8737,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Boat",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_boat"
           }
         ],
         "fluids": []
@@ -7960,6 +8746,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_boat",
         "damage": 0,
         "item": "mangrove_boat",
         "capNBT": {
@@ -7969,7 +8756,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Boat",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_boat"
       }
     ],
     "burnTime": "1200",
@@ -7983,6 +8771,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__mangrove_chest_boat",
             "damage": 0,
             "item": "mangrove_chest_boat",
             "capNBT": {
@@ -7992,7 +8781,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Mangrove Boat with Chest",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mangrove_chest_boat"
           }
         ],
         "fluids": []
@@ -8000,6 +8790,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__mangrove_chest_boat",
         "damage": 0,
         "item": "mangrove_chest_boat",
         "capNBT": {
@@ -8009,7 +8800,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Mangrove Boat with Chest",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:mangrove_chest_boat"
       }
     ],
     "burnTime": "1200",
@@ -8023,6 +8815,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__coal",
             "damage": 0,
             "item": "coal",
             "capNBT": {
@@ -8032,7 +8825,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Coal",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:coal"
           }
         ],
         "fluids": []
@@ -8040,6 +8834,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__coal",
         "damage": 0,
         "item": "coal",
         "capNBT": {
@@ -8049,7 +8844,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Coal",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:coal"
       }
     ],
     "burnTime": "1600",
@@ -8063,6 +8859,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__charcoal",
             "damage": 0,
             "item": "charcoal",
             "capNBT": {
@@ -8072,7 +8869,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Charcoal",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:charcoal"
           }
         ],
         "fluids": []
@@ -8080,6 +8878,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__charcoal",
         "damage": 0,
         "item": "charcoal",
         "capNBT": {
@@ -8089,7 +8888,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Charcoal",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:charcoal"
       }
     ],
     "burnTime": "1600",
@@ -8103,6 +8903,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__blaze_rod",
             "damage": 0,
             "item": "blaze_rod",
             "capNBT": {
@@ -8112,7 +8913,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Blaze Rod",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:blaze_rod"
           }
         ],
         "fluids": []
@@ -8120,6 +8922,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__blaze_rod",
         "damage": 0,
         "item": "blaze_rod",
         "capNBT": {
@@ -8129,7 +8932,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Blaze Rod",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:blaze_rod"
       }
     ],
     "burnTime": "2400",
@@ -8143,6 +8947,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__dried_kelp_block",
             "damage": 0,
             "item": "dried_kelp_block",
             "capNBT": {
@@ -8152,7 +8957,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dried Kelp Block",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dried_kelp_block"
           }
         ],
         "fluids": []
@@ -8160,6 +8966,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__dried_kelp_block",
         "damage": 0,
         "item": "dried_kelp_block",
         "capNBT": {
@@ -8169,7 +8976,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Dried Kelp Block",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:dried_kelp_block"
       }
     ],
     "burnTime": "4001",
@@ -8183,6 +8991,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__coal_block",
             "damage": 0,
             "item": "coal_block",
             "capNBT": {
@@ -8192,7 +9001,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Block of Coal",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:coal_block"
           }
         ],
         "fluids": []
@@ -8200,6 +9010,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__coal_block",
         "damage": 0,
         "item": "coal_block",
         "capNBT": {
@@ -8209,7 +9020,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Block of Coal",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:coal_block"
       }
     ],
     "burnTime": "16000",
@@ -8223,6 +9035,7 @@
         "y": 17,
         "items": [
           {
+            "uid": "minecraft__lava_bucket",
             "damage": 0,
             "item": "lava_bucket",
             "capNBT": {
@@ -8232,7 +9045,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lava Bucket",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lava_bucket"
           }
         ],
         "fluids": []
@@ -8240,6 +9054,7 @@
     ],
     "inputs": [
       {
+        "uid": "minecraft__lava_bucket",
         "damage": 0,
         "item": "lava_bucket",
         "capNBT": {
@@ -8249,7 +9064,8 @@
         "maxDamage": 0,
         "_type": "ItemStack",
         "name": "Lava Bucket",
-        "count": 1
+        "count": 1,
+        "resourceLocation": "minecraft:lava_bucket"
       }
     ],
     "burnTime": "20000",

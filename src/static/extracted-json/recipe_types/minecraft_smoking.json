@@ -1,6 +1,7 @@
 [
   {
     "result": {
+      "uid": "minecraft__cooked_chicken",
       "damage": 0,
       "item": "cooked_chicken",
       "capNBT": {
@@ -10,7 +11,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Cooked Chicken",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_chicken"
     },
     "slots": [
       {
@@ -19,6 +21,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__chicken",
             "damage": 0,
             "item": "chicken",
             "capNBT": {
@@ -28,7 +31,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Chicken",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:chicken"
           }
         ],
         "fluids": []
@@ -39,6 +43,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_chicken",
             "damage": 0,
             "item": "cooked_chicken",
             "capNBT": {
@@ -48,7 +53,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cooked Chicken",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_chicken"
           }
         ],
         "fluids": []
@@ -58,6 +64,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__chicken",
           "damage": 0,
           "item": "chicken",
           "capNBT": {
@@ -67,7 +74,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Chicken",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:chicken"
         }
       ]
     },
@@ -80,6 +88,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__cooked_salmon",
       "damage": 0,
       "item": "cooked_salmon",
       "capNBT": {
@@ -89,7 +98,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Cooked Salmon",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_salmon"
     },
     "slots": [
       {
@@ -98,6 +108,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__salmon",
             "damage": 0,
             "item": "salmon",
             "capNBT": {
@@ -107,7 +118,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Salmon",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:salmon"
           }
         ],
         "fluids": []
@@ -118,6 +130,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_salmon",
             "damage": 0,
             "item": "cooked_salmon",
             "capNBT": {
@@ -127,7 +140,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cooked Salmon",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_salmon"
           }
         ],
         "fluids": []
@@ -137,6 +151,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__salmon",
           "damage": 0,
           "item": "salmon",
           "capNBT": {
@@ -146,7 +161,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Salmon",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:salmon"
         }
       ]
     },
@@ -159,6 +175,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__dried_kelp",
       "damage": 0,
       "item": "dried_kelp",
       "capNBT": {
@@ -168,7 +185,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Dried Kelp",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:dried_kelp"
     },
     "slots": [
       {
@@ -177,6 +195,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__kelp",
             "damage": 0,
             "item": "kelp",
             "capNBT": {
@@ -186,7 +205,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Kelp",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:kelp"
           }
         ],
         "fluids": []
@@ -197,6 +217,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__dried_kelp",
             "damage": 0,
             "item": "dried_kelp",
             "capNBT": {
@@ -206,7 +227,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Dried Kelp",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:dried_kelp"
           }
         ],
         "fluids": []
@@ -216,6 +238,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__kelp",
           "damage": 0,
           "item": "kelp",
           "capNBT": {
@@ -225,7 +248,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Kelp",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:kelp"
         }
       ]
     },
@@ -238,6 +262,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__cooked_beef",
       "damage": 0,
       "item": "cooked_beef",
       "capNBT": {
@@ -247,7 +272,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Steak",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_beef"
     },
     "slots": [
       {
@@ -256,6 +282,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__beef",
             "damage": 0,
             "item": "beef",
             "capNBT": {
@@ -265,7 +292,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Beef",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:beef"
           }
         ],
         "fluids": []
@@ -276,6 +304,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_beef",
             "damage": 0,
             "item": "cooked_beef",
             "capNBT": {
@@ -285,7 +314,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Steak",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_beef"
           }
         ],
         "fluids": []
@@ -295,6 +325,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__beef",
           "damage": 0,
           "item": "beef",
           "capNBT": {
@@ -304,7 +335,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Beef",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:beef"
         }
       ]
     },
@@ -317,85 +349,7 @@
   },
   {
     "result": {
-      "damage": 0,
-      "item": "cooked_rabbit",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:cooked_rabbit"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Cooked Rabbit",
-      "count": 1
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "damage": 0,
-            "item": "rabbit",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:rabbit"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Raw Rabbit",
-            "count": 1
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "damage": 0,
-            "item": "cooked_rabbit",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cooked_rabbit"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cooked Rabbit",
-            "count": 1
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "damage": 0,
-          "item": "rabbit",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:rabbit"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Raw Rabbit",
-          "count": 1
-        }
-      ]
-    },
-    "_type": "SmokingRecipe",
-    "id": "minecraft:cooked_rabbit_from_smoking",
-    "type": "smoking",
-    "experience": "0.35",
-    "cookingTime": "100",
-    "group": ""
-  },
-  {
-    "result": {
+      "uid": "minecraft__baked_potato",
       "damage": 0,
       "item": "baked_potato",
       "capNBT": {
@@ -405,7 +359,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Baked Potato",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:baked_potato"
     },
     "slots": [
       {
@@ -414,6 +369,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__potato",
             "damage": 0,
             "item": "potato",
             "capNBT": {
@@ -423,7 +379,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Potato",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:potato"
           }
         ],
         "fluids": []
@@ -434,6 +391,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__baked_potato",
             "damage": 0,
             "item": "baked_potato",
             "capNBT": {
@@ -443,7 +401,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Baked Potato",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:baked_potato"
           }
         ],
         "fluids": []
@@ -453,6 +412,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__potato",
           "damage": 0,
           "item": "potato",
           "capNBT": {
@@ -462,7 +422,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Potato",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:potato"
         }
       ]
     },
@@ -475,16 +436,18 @@
   },
   {
     "result": {
+      "uid": "minecraft__cooked_rabbit",
       "damage": 0,
-      "item": "cooked_porkchop",
+      "item": "cooked_rabbit",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:cooked_porkchop"
+        "id": "minecraft:cooked_rabbit"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Cooked Porkchop",
-      "count": 1
+      "name": "Cooked Rabbit",
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_rabbit"
     },
     "slots": [
       {
@@ -493,16 +456,18 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__rabbit",
             "damage": 0,
-            "item": "porkchop",
+            "item": "rabbit",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:porkchop"
+              "id": "minecraft:rabbit"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Raw Porkchop",
-            "count": 1
+            "name": "Raw Rabbit",
+            "count": 1,
+            "resourceLocation": "minecraft:rabbit"
           }
         ],
         "fluids": []
@@ -513,16 +478,18 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_rabbit",
             "damage": 0,
-            "item": "cooked_porkchop",
+            "item": "cooked_rabbit",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:cooked_porkchop"
+              "id": "minecraft:cooked_rabbit"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Cooked Porkchop",
-            "count": 1
+            "name": "Cooked Rabbit",
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_rabbit"
           }
         ],
         "fluids": []
@@ -532,6 +499,94 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__rabbit",
+          "damage": 0,
+          "item": "rabbit",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:rabbit"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Raw Rabbit",
+          "count": 1,
+          "resourceLocation": "minecraft:rabbit"
+        }
+      ]
+    },
+    "_type": "SmokingRecipe",
+    "id": "minecraft:cooked_rabbit_from_smoking",
+    "type": "smoking",
+    "experience": "0.35",
+    "cookingTime": "100",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__cooked_porkchop",
+      "damage": 0,
+      "item": "cooked_porkchop",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:cooked_porkchop"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Cooked Porkchop",
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_porkchop"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__porkchop",
+            "damage": 0,
+            "item": "porkchop",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:porkchop"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Raw Porkchop",
+            "count": 1,
+            "resourceLocation": "minecraft:porkchop"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__cooked_porkchop",
+            "damage": 0,
+            "item": "cooked_porkchop",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cooked_porkchop"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cooked Porkchop",
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_porkchop"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__porkchop",
           "damage": 0,
           "item": "porkchop",
           "capNBT": {
@@ -541,7 +596,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Porkchop",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:porkchop"
         }
       ]
     },
@@ -554,6 +610,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__cooked_cod",
       "damage": 0,
       "item": "cooked_cod",
       "capNBT": {
@@ -563,7 +620,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Cooked Cod",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_cod"
     },
     "slots": [
       {
@@ -572,6 +630,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__cod",
             "damage": 0,
             "item": "cod",
             "capNBT": {
@@ -581,7 +640,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Cod",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cod"
           }
         ],
         "fluids": []
@@ -592,6 +652,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_cod",
             "damage": 0,
             "item": "cooked_cod",
             "capNBT": {
@@ -601,7 +662,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cooked Cod",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_cod"
           }
         ],
         "fluids": []
@@ -611,6 +673,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__cod",
           "damage": 0,
           "item": "cod",
           "capNBT": {
@@ -620,7 +683,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Cod",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:cod"
         }
       ]
     },
@@ -633,6 +697,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__cooked_mutton",
       "damage": 0,
       "item": "cooked_mutton",
       "capNBT": {
@@ -642,7 +707,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Cooked Mutton",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:cooked_mutton"
     },
     "slots": [
       {
@@ -651,6 +717,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__mutton",
             "damage": 0,
             "item": "mutton",
             "capNBT": {
@@ -660,7 +727,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Mutton",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:mutton"
           }
         ],
         "fluids": []
@@ -671,6 +739,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__cooked_mutton",
             "damage": 0,
             "item": "cooked_mutton",
             "capNBT": {
@@ -680,7 +749,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Cooked Mutton",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:cooked_mutton"
           }
         ],
         "fluids": []
@@ -690,6 +760,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__mutton",
           "damage": 0,
           "item": "mutton",
           "capNBT": {
@@ -699,7 +770,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Mutton",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:mutton"
         }
       ]
     },

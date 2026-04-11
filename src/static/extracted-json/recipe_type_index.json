@@ -1768,11 +1768,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:blue_bed": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:yellow_dye": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -1784,6 +1779,11 @@
   "minecraft:dandelion": {
     "INPUT": [
       "minecraft:compostable",
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:blue_bed": {
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -1802,27 +1802,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:magenta_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:glass_pane": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:magenta_dye": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:end_crystal": {
@@ -1849,6 +1828,27 @@
   "minecraft:ghast_tear": {
     "INPUT": [
       "minecraft:brewing",
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:magenta_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:glass_pane": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:magenta_dye": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -1903,6 +1903,14 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:red_dye": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:rabbit_stew": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -1941,12 +1949,19 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:red_dye": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
+  "minecraft:stonecutter": {
     "OUTPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft:stone": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:furnace",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:furnace"
     ]
   },
   "minecraft:stone_pickaxe": {
@@ -1971,21 +1986,6 @@
       "minecraft:crafting",
       "minecraft:furnace",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:stonecutter": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:stone": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:furnace",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:furnace"
     ]
   },
   "minecraft:shulker_box": {
@@ -2078,24 +2078,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:raw_iron": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:blasting",
-      "minecraft:crafting",
-      "minecraft:furnace"
-    ]
-  },
-  "minecraft:raw_iron_block": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:quartz_stairs": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2128,6 +2110,24 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:raw_iron": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:blasting",
+      "minecraft:crafting",
+      "minecraft:furnace"
+    ]
+  },
+  "minecraft:raw_iron_block": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:diorite_wall": {
@@ -2230,6 +2230,16 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:polished_blackstone": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft:purpur_slab": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2277,21 +2287,6 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:polished_blackstone": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:warped_fence_gate": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:mossy_cobblestone": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -2304,6 +2299,11 @@
   "minecraft:moss_block": {
     "INPUT": [
       "minecraft:compostable",
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:warped_fence_gate": {
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -2357,6 +2357,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:lantern": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:raw_gold": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -2371,11 +2376,6 @@
     "INPUT": [
       "minecraft:crafting"
     ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:lantern": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2397,6 +2397,19 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:lime_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:lime_stained_glass": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:black_dye": {
@@ -2424,19 +2437,6 @@
     ],
     "INPUT": [
       "minecraft:compostable",
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:lime_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:lime_stained_glass": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -2484,6 +2484,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:iron_bars": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:waxed_cut_copper_slab": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2498,11 +2503,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:iron_bars": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:beetroot_soup": {
@@ -2569,6 +2569,19 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:cyan_bed": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:cyan_dye": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:deepslate_brick_wall": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2584,19 +2597,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:cyan_bed": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:cyan_dye": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:lime_terracotta": {
@@ -2640,17 +2640,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:iron_helmet": {
-    "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:blasting",
-      "minecraft:furnace"
-    ]
-  },
   "minecraft:diamond_axe": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -2672,6 +2661,17 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft:iron_helmet": {
+    "OUTPUT": [
+      "minecraft:anvil",
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:blasting",
+      "minecraft:furnace"
+    ]
+  },
   "minecraft:leather_chestplate": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -2690,16 +2690,16 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:yellow_bed": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:waxed_oxidized_copper": {
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
     ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:yellow_bed": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2717,6 +2717,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:gray_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:iron_block": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -2725,12 +2730,12 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:gray_stained_glass_pane": {
+  "minecraft:beehive": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
   },
-  "minecraft:beehive": {
+  "minecraft:white_stained_glass_pane": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2743,11 +2748,6 @@
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:white_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:stone_slab": {
@@ -2804,22 +2804,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft:polished_andesite_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:polished_andesite": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft:glow_item_frame": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -2836,6 +2820,22 @@
   "minecraft:glow_ink_sac": {
     "INPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft:polished_andesite_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:polished_andesite": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft:leather_helmet": {
@@ -2886,16 +2886,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:diamond_pickaxe": {
-    "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:smithing"
-    ]
-  },
   "minecraft:chiseled_nether_bricks": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2924,22 +2914,19 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft:lilac": {
-    "INPUT": [
-      "minecraft:compostable",
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:light_blue_stained_glass_pane": {
+  "minecraft:diamond_pickaxe": {
     "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:light_blue_dye": {
-    "INPUT": [
+      "minecraft:anvil",
       "minecraft:crafting"
     ],
-    "OUTPUT": [
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:smithing"
+    ]
+  },
+  "minecraft:oxeye_daisy": {
+    "INPUT": [
+      "minecraft:compostable",
       "minecraft:crafting"
     ]
   },
@@ -2963,7 +2950,20 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:oxeye_daisy": {
+  "minecraft:light_blue_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:light_blue_dye": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:lilac": {
     "INPUT": [
       "minecraft:compostable",
       "minecraft:crafting"
@@ -3062,6 +3062,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:magenta_bed": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:chiseled_polished_blackstone": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -3075,11 +3080,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:magenta_bed": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:iron_sword": {
@@ -3286,6 +3286,14 @@
       "minecraft:stonecutting"
     ]
   },
+  "minecraft:pink_stained_glass": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:stone_shovel": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -3293,14 +3301,6 @@
     ],
     "INPUT": [
       "minecraft:anvil"
-    ]
-  },
-  "minecraft:pink_stained_glass": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:golden_leggings": {
@@ -3330,13 +3330,13 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:smooth_red_sandstone_slab": {
+  "minecraft:waxed_oxidized_cut_copper_slab": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:waxed_oxidized_cut_copper_slab": {
+  "minecraft:smooth_red_sandstone_slab": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
@@ -3371,11 +3371,6 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:dropper": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:waxed_weathered_copper": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3391,15 +3386,7 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:yellow_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:yellow_stained_glass": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
+  "minecraft:dropper": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -3410,6 +3397,19 @@
     ]
   },
   "minecraft:glowstone": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:yellow_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:yellow_stained_glass": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -3485,6 +3485,16 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:mojang_banner_pattern": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:enchanted_golden_apple": {
+    "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:golden_helmet": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -3508,22 +3518,6 @@
   },
   "minecraft:heart_of_the_sea": {
     "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:mojang_banner_pattern": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:enchanted_golden_apple": {
-    "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:blue_orchid": {
-    "INPUT": [
-      "minecraft:compostable",
       "minecraft:crafting"
     ]
   },
@@ -3552,6 +3546,12 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:blue_orchid": {
+    "INPUT": [
+      "minecraft:compostable",
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:warped_button": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3564,6 +3564,11 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:sticky_piston": {
+    "OUTPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:fire_charge": {
@@ -3597,7 +3602,10 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft:sticky_piston": {
+  "minecraft:redstone_block": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -3610,14 +3618,6 @@
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:redstone_block": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:bread": {
@@ -3675,16 +3675,16 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:map": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:brown_stained_glass": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:map": {
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -3708,6 +3708,14 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:blue_terracotta": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:furnace"
+    ]
+  },
   "minecraft:shield": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -3716,14 +3724,6 @@
     "INPUT": [
       "minecraft:anvil",
       "minecraft:crafting"
-    ]
-  },
-  "minecraft:blue_terracotta": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:furnace"
     ]
   },
   "minecraft:sandstone": {
@@ -3741,18 +3741,18 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:blackstone_slab": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft:gray_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
-    ]
-  },
-  "minecraft:blackstone_slab": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft:crimson_sign": {
@@ -3866,6 +3866,17 @@
       "minecraft:stonecutting"
     ]
   },
+  "minecraft:iron_leggings": {
+    "OUTPUT": [
+      "minecraft:anvil",
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:blasting",
+      "minecraft:furnace"
+    ]
+  },
   "minecraft:red_sandstone_wall": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -3880,6 +3891,12 @@
     ],
     "OUTPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft:polished_deepslate_slab": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft:end_stone_brick_stairs": {
@@ -3898,26 +3915,9 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:iron_leggings": {
-    "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:blasting",
-      "minecraft:furnace"
-    ]
-  },
   "minecraft:green_stained_glass_pane": {
     "OUTPUT": [
       "minecraft:crafting"
-    ]
-  },
-  "minecraft:polished_deepslate_slab": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft:cut_copper_slab": {
@@ -4019,18 +4019,18 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:mossy_stone_brick_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft:cyan_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
-    ]
-  },
-  "minecraft:mossy_stone_brick_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft:cut_red_sandstone": {
@@ -4145,13 +4145,13 @@
       "minecraft:anvil"
     ]
   },
-  "minecraft:bone": {
-    "INPUT": [
+  "minecraft:red_candle": {
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
-  "minecraft:red_candle": {
-    "OUTPUT": [
+  "minecraft:bone": {
+    "INPUT": [
       "minecraft:crafting"
     ]
   },
@@ -4176,7 +4176,12 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:glass_bottle": {
+  "minecraft:black_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:black_stained_glass": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -4184,12 +4189,7 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:black_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:black_stained_glass": {
+  "minecraft:glass_bottle": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -4303,14 +4303,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:white_stained_glass": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:cookie": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -4322,6 +4314,14 @@
   "minecraft:cocoa_beans": {
     "INPUT": [
       "minecraft:compostable",
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:white_stained_glass": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -4337,14 +4337,6 @@
     ]
   },
   "minecraft:crimson_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:light_blue_stained_glass": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -4367,6 +4359,14 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:light_blue_stained_glass": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:lightning_rod": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -4377,15 +4377,15 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:brown_concrete_powder": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:granite_wall": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft:brown_concrete_powder": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:orange_concrete_powder": {
@@ -4411,13 +4411,10 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:stone_sword": {
+  "minecraft:stone_brick_stairs": {
     "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil"
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft:sunflower": {
@@ -4426,10 +4423,13 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:stone_brick_stairs": {
+  "minecraft:stone_sword": {
     "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
+      "minecraft:anvil",
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil"
     ]
   },
   "minecraft:honeycomb_block": {
@@ -4465,14 +4465,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:glistering_melon_slice": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft:dripstone_block": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -4481,6 +4473,14 @@
   "minecraft:pointed_dripstone": {
     "INPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft:glistering_melon_slice": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
     ]
   },
   "minecraft:diamond_helmet": {
@@ -4493,17 +4493,17 @@
       "minecraft:smithing"
     ]
   },
-  "minecraft:warped_door": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:crimson_button": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
   },
   "minecraft:warped_fence": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft:warped_door": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -4637,6 +4637,17 @@
       "minecraft:stonecutting"
     ]
   },
+  "minecraft:golden_pickaxe": {
+    "OUTPUT": [
+      "minecraft:anvil",
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:blasting",
+      "minecraft:furnace"
+    ]
+  },
   "minecraft:clay": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -4648,17 +4659,6 @@
   "minecraft:clay_ball": {
     "INPUT": [
       "minecraft:crafting",
-      "minecraft:furnace"
-    ]
-  },
-  "minecraft:golden_pickaxe": {
-    "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:blasting",
       "minecraft:furnace"
     ]
   },
@@ -4677,18 +4677,18 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:allium": {
+    "INPUT": [
+      "minecraft:compostable",
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:melon_seeds": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:compostable"
-    ]
-  },
-  "minecraft:allium": {
-    "INPUT": [
-      "minecraft:compostable",
-      "minecraft:crafting"
     ]
   },
   "minecraft:smooth_stone_slab": {
@@ -4852,13 +4852,13 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:granite_slab": {
+  "minecraft:waxed_exposed_cut_copper_slab": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:waxed_exposed_cut_copper_slab": {
+  "minecraft:granite_slab": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
@@ -4878,6 +4878,12 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft:red_nether_brick_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft:leather_boots": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -4887,13 +4893,12 @@
       "minecraft:anvil"
     ]
   },
-  "minecraft:red_nether_brick_stairs": {
+  "minecraft:brewing_stand": {
     "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
+      "minecraft:crafting"
     ]
   },
-  "minecraft:brewing_stand": {
+  "minecraft:white_candle": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -4902,11 +4907,6 @@
     "INPUT": [
       "minecraft:crafting"
     ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft:white_candle": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -5036,13 +5036,13 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:deepslate_brick_slab": {
+  "minecraft:cobbled_deepslate_wall": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
     ]
   },
-  "minecraft:cobbled_deepslate_wall": {
+  "minecraft:deepslate_brick_slab": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
@@ -5084,18 +5084,18 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:blackstone_wall": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft:purple_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
+    ]
+  },
+  "minecraft:blackstone_wall": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft:cauldron": {
@@ -5207,15 +5207,15 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:ender_pearl": {
-    "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:sandstone_stairs": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:ender_pearl": {
+    "INPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:light_gray_terracotta": {
@@ -5321,6 +5321,15 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft:stone_hoe": {
+    "OUTPUT": [
+      "minecraft:anvil",
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil"
+    ]
+  },
   "minecraft:diamond_sword": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -5329,15 +5338,6 @@
     "INPUT": [
       "minecraft:anvil",
       "minecraft:smithing"
-    ]
-  },
-  "minecraft:stone_hoe": {
-    "OUTPUT": [
-      "minecraft:anvil",
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil"
     ]
   },
   "minecraft:red_terracotta": {
@@ -5384,6 +5384,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft:light_weighted_pressure_plate": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft:golden_shovel": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -5393,11 +5398,6 @@
       "minecraft:anvil",
       "minecraft:blasting",
       "minecraft:furnace"
-    ]
-  },
-  "minecraft:light_weighted_pressure_plate": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft:deepslate_tile_stairs": {
@@ -5509,12 +5509,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:prismarine_brick_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft:iron_boots": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -5526,6 +5520,18 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft:prismarine_brick_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft:diamond_chestplate": {
     "OUTPUT": [
       "minecraft:anvil",
@@ -5534,12 +5540,6 @@
     "INPUT": [
       "minecraft:anvil",
       "minecraft:smithing"
-    ]
-  },
-  "minecraft:waxed_oxidized_cut_copper_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft:golden_chestplate": {
@@ -5700,17 +5700,17 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:tnt_minecart": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:green_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
+    ]
+  },
+  "minecraft:tnt_minecart": {
+    "OUTPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:lead": {
@@ -5729,15 +5729,15 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft:campfire": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft:polished_deepslate_wall": {
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
+    ]
+  },
+  "minecraft:campfire": {
+    "OUTPUT": [
+      "minecraft:crafting"
     ]
   },
   "minecraft:packed_mud": {
@@ -6325,14 +6325,14 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft:diamond_ore": {
-    "INPUT": [
-      "minecraft:blasting",
+  "minecraft:magenta_glazed_terracotta": {
+    "OUTPUT": [
       "minecraft:furnace"
     ]
   },
-  "minecraft:magenta_glazed_terracotta": {
-    "OUTPUT": [
+  "minecraft:diamond_ore": {
+    "INPUT": [
+      "minecraft:blasting",
       "minecraft:furnace"
     ]
   },
@@ -6597,6 +6597,12 @@
       "minecraft:brewing"
     ]
   },
+  "minecraft:phantom_membrane": {
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:brewing"
+    ]
+  },
   "minecraft:dragon_breath": {
     "INPUT": [
       "minecraft:brewing"
@@ -6604,12 +6610,6 @@
   },
   "minecraft:pufferfish": {
     "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft:phantom_membrane": {
-    "INPUT": [
-      "minecraft:anvil",
       "minecraft:brewing"
     ]
   },

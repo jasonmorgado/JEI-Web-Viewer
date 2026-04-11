@@ -1,6 +1,7 @@
 [
   {
     "result": {
+      "uid": "minecraft__copper_ingot",
       "damage": 0,
       "item": "copper_ingot",
       "capNBT": {
@@ -10,7 +11,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Copper Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:copper_ingot"
     },
     "slots": [
       {
@@ -19,6 +21,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_copper_ore",
             "damage": 0,
             "item": "deepslate_copper_ore",
             "capNBT": {
@@ -28,7 +31,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Copper Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_copper_ore"
           }
         ],
         "fluids": []
@@ -39,6 +43,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__copper_ingot",
             "damage": 0,
             "item": "copper_ingot",
             "capNBT": {
@@ -48,7 +53,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Copper Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ingot"
           }
         ],
         "fluids": []
@@ -58,6 +64,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_copper_ore",
           "damage": 0,
           "item": "deepslate_copper_ore",
           "capNBT": {
@@ -67,7 +74,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Copper Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_copper_ore"
         }
       ]
     },
@@ -80,6 +88,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__coal",
       "damage": 0,
       "item": "coal",
       "capNBT": {
@@ -89,7 +98,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Coal",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:coal"
     },
     "slots": [
       {
@@ -98,6 +108,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__coal_ore",
             "damage": 0,
             "item": "coal_ore",
             "capNBT": {
@@ -107,7 +118,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Coal Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:coal_ore"
           }
         ],
         "fluids": []
@@ -118,6 +130,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__coal",
             "damage": 0,
             "item": "coal",
             "capNBT": {
@@ -127,7 +140,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Coal",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:coal"
           }
         ],
         "fluids": []
@@ -137,6 +151,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__coal_ore",
           "damage": 0,
           "item": "coal_ore",
           "capNBT": {
@@ -146,7 +161,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Coal Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:coal_ore"
         }
       ]
     },
@@ -159,6 +175,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__iron_ingot",
       "damage": 0,
       "item": "iron_ingot",
       "capNBT": {
@@ -168,7 +185,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Iron Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:iron_ingot"
     },
     "slots": [
       {
@@ -177,6 +195,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__iron_ore",
             "damage": 0,
             "item": "iron_ore",
             "capNBT": {
@@ -186,7 +205,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_ore"
           }
         ],
         "fluids": []
@@ -197,6 +217,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__iron_ingot",
             "damage": 0,
             "item": "iron_ingot",
             "capNBT": {
@@ -206,7 +227,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_ingot"
           }
         ],
         "fluids": []
@@ -216,6 +238,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__iron_ore",
           "damage": 0,
           "item": "iron_ore",
           "capNBT": {
@@ -225,7 +248,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Iron Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:iron_ore"
         }
       ]
     },
@@ -238,6 +262,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__diamond",
       "damage": 0,
       "item": "diamond",
       "capNBT": {
@@ -247,7 +272,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Diamond",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:diamond"
     },
     "slots": [
       {
@@ -256,6 +282,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_diamond_ore",
             "damage": 0,
             "item": "deepslate_diamond_ore",
             "capNBT": {
@@ -265,7 +292,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Diamond Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_diamond_ore"
           }
         ],
         "fluids": []
@@ -276,6 +304,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__diamond",
             "damage": 0,
             "item": "diamond",
             "capNBT": {
@@ -285,7 +314,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Diamond",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:diamond"
           }
         ],
         "fluids": []
@@ -295,6 +325,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_diamond_ore",
           "damage": 0,
           "item": "deepslate_diamond_ore",
           "capNBT": {
@@ -304,7 +335,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Diamond Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_diamond_ore"
         }
       ]
     },
@@ -317,6 +349,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__quartz",
       "damage": 0,
       "item": "quartz",
       "capNBT": {
@@ -326,7 +359,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Nether Quartz",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:quartz"
     },
     "slots": [
       {
@@ -335,6 +369,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__nether_quartz_ore",
             "damage": 0,
             "item": "nether_quartz_ore",
             "capNBT": {
@@ -344,7 +379,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Nether Quartz Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:nether_quartz_ore"
           }
         ],
         "fluids": []
@@ -355,6 +391,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__quartz",
             "damage": 0,
             "item": "quartz",
             "capNBT": {
@@ -364,7 +401,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Nether Quartz",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:quartz"
           }
         ],
         "fluids": []
@@ -374,6 +412,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__nether_quartz_ore",
           "damage": 0,
           "item": "nether_quartz_ore",
           "capNBT": {
@@ -383,7 +422,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Nether Quartz Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:nether_quartz_ore"
         }
       ]
     },
@@ -396,6 +436,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__redstone",
       "damage": 0,
       "item": "redstone",
       "capNBT": {
@@ -405,7 +446,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Redstone Dust",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:redstone"
     },
     "slots": [
       {
@@ -414,6 +456,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_redstone_ore",
             "damage": 0,
             "item": "deepslate_redstone_ore",
             "capNBT": {
@@ -423,7 +466,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Redstone Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_redstone_ore"
           }
         ],
         "fluids": []
@@ -434,6 +478,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__redstone",
             "damage": 0,
             "item": "redstone",
             "capNBT": {
@@ -443,7 +488,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Redstone Dust",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:redstone"
           }
         ],
         "fluids": []
@@ -453,6 +499,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_redstone_ore",
           "damage": 0,
           "item": "deepslate_redstone_ore",
           "capNBT": {
@@ -462,7 +509,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Redstone Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_redstone_ore"
         }
       ]
     },
@@ -475,6 +523,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__iron_ingot",
       "damage": 0,
       "item": "iron_ingot",
       "capNBT": {
@@ -484,7 +533,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Iron Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:iron_ingot"
     },
     "slots": [
       {
@@ -493,6 +543,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__raw_iron",
             "damage": 0,
             "item": "raw_iron",
             "capNBT": {
@@ -502,7 +553,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Iron",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:raw_iron"
           }
         ],
         "fluids": []
@@ -513,6 +565,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__iron_ingot",
             "damage": 0,
             "item": "iron_ingot",
             "capNBT": {
@@ -522,7 +575,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_ingot"
           }
         ],
         "fluids": []
@@ -532,6 +586,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__raw_iron",
           "damage": 0,
           "item": "raw_iron",
           "capNBT": {
@@ -541,7 +596,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Iron",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:raw_iron"
         }
       ]
     },
@@ -554,6 +610,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__emerald",
       "damage": 0,
       "item": "emerald",
       "capNBT": {
@@ -563,7 +620,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Emerald",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:emerald"
     },
     "slots": [
       {
@@ -572,6 +630,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_emerald_ore",
             "damage": 0,
             "item": "deepslate_emerald_ore",
             "capNBT": {
@@ -581,7 +640,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Emerald Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_emerald_ore"
           }
         ],
         "fluids": []
@@ -592,6 +652,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__emerald",
             "damage": 0,
             "item": "emerald",
             "capNBT": {
@@ -601,7 +662,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Emerald",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:emerald"
           }
         ],
         "fluids": []
@@ -611,6 +673,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_emerald_ore",
           "damage": 0,
           "item": "deepslate_emerald_ore",
           "capNBT": {
@@ -620,7 +683,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Emerald Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_emerald_ore"
         }
       ]
     },
@@ -633,6 +697,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__redstone",
       "damage": 0,
       "item": "redstone",
       "capNBT": {
@@ -642,7 +707,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Redstone Dust",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:redstone"
     },
     "slots": [
       {
@@ -651,6 +717,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__redstone_ore",
             "damage": 0,
             "item": "redstone_ore",
             "capNBT": {
@@ -660,7 +727,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Redstone Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:redstone_ore"
           }
         ],
         "fluids": []
@@ -671,6 +739,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__redstone",
             "damage": 0,
             "item": "redstone",
             "capNBT": {
@@ -680,7 +749,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Redstone Dust",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:redstone"
           }
         ],
         "fluids": []
@@ -690,6 +760,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__redstone_ore",
           "damage": 0,
           "item": "redstone_ore",
           "capNBT": {
@@ -699,7 +770,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Redstone Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:redstone_ore"
         }
       ]
     },
@@ -712,6 +784,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__netherite_scrap",
       "damage": 0,
       "item": "netherite_scrap",
       "capNBT": {
@@ -721,7 +794,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Netherite Scrap",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:netherite_scrap"
     },
     "slots": [
       {
@@ -730,6 +804,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__ancient_debris",
             "damage": 0,
             "item": "ancient_debris",
             "capNBT": {
@@ -739,7 +814,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Ancient Debris",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:ancient_debris"
           }
         ],
         "fluids": []
@@ -750,6 +826,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__netherite_scrap",
             "damage": 0,
             "item": "netherite_scrap",
             "capNBT": {
@@ -759,7 +836,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Netherite Scrap",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:netherite_scrap"
           }
         ],
         "fluids": []
@@ -769,6 +847,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__ancient_debris",
           "damage": 0,
           "item": "ancient_debris",
           "capNBT": {
@@ -778,7 +857,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Ancient Debris",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:ancient_debris"
         }
       ]
     },
@@ -791,6 +871,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__lapis_lazuli",
       "damage": 0,
       "item": "lapis_lazuli",
       "capNBT": {
@@ -800,7 +881,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Lapis Lazuli",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:lapis_lazuli"
     },
     "slots": [
       {
@@ -809,6 +891,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_lapis_ore",
             "damage": 0,
             "item": "deepslate_lapis_ore",
             "capNBT": {
@@ -818,7 +901,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Lapis Lazuli Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_lapis_ore"
           }
         ],
         "fluids": []
@@ -829,6 +913,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__lapis_lazuli",
             "damage": 0,
             "item": "lapis_lazuli",
             "capNBT": {
@@ -838,7 +923,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Lapis Lazuli",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:lapis_lazuli"
           }
         ],
         "fluids": []
@@ -848,6 +934,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_lapis_ore",
           "damage": 0,
           "item": "deepslate_lapis_ore",
           "capNBT": {
@@ -857,7 +944,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Lapis Lazuli Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_lapis_ore"
         }
       ]
     },
@@ -870,6 +958,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__gold_ingot",
       "damage": 0,
       "item": "gold_ingot",
       "capNBT": {
@@ -879,7 +968,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Gold Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:gold_ingot"
     },
     "slots": [
       {
@@ -888,6 +978,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__raw_gold",
             "damage": 0,
             "item": "raw_gold",
             "capNBT": {
@@ -897,7 +988,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Gold",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:raw_gold"
           }
         ],
         "fluids": []
@@ -908,6 +1000,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__gold_ingot",
             "damage": 0,
             "item": "gold_ingot",
             "capNBT": {
@@ -917,7 +1010,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gold Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gold_ingot"
           }
         ],
         "fluids": []
@@ -927,6 +1021,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__raw_gold",
           "damage": 0,
           "item": "raw_gold",
           "capNBT": {
@@ -936,7 +1031,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Gold",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:raw_gold"
         }
       ]
     },
@@ -949,6 +1045,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__diamond",
       "damage": 0,
       "item": "diamond",
       "capNBT": {
@@ -958,7 +1055,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Diamond",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:diamond"
     },
     "slots": [
       {
@@ -967,6 +1065,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__diamond_ore",
             "damage": 0,
             "item": "diamond_ore",
             "capNBT": {
@@ -976,7 +1075,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Diamond Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:diamond_ore"
           }
         ],
         "fluids": []
@@ -987,6 +1087,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__diamond",
             "damage": 0,
             "item": "diamond",
             "capNBT": {
@@ -996,7 +1097,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Diamond",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:diamond"
           }
         ],
         "fluids": []
@@ -1006,6 +1108,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__diamond_ore",
           "damage": 0,
           "item": "diamond_ore",
           "capNBT": {
@@ -1015,7 +1118,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Diamond Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:diamond_ore"
         }
       ]
     },
@@ -1028,6 +1132,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__iron_nugget",
       "damage": 0,
       "item": "iron_nugget",
       "capNBT": {
@@ -1037,7 +1142,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Iron Nugget",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:iron_nugget"
     },
     "slots": [
       {
@@ -1046,6 +1152,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__iron_pickaxe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_pickaxe",
             "capNBT": {
@@ -1061,9 +1168,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_pickaxe"
           },
           {
+            "uid": "minecraft__iron_shovel__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_shovel",
             "capNBT": {
@@ -1079,9 +1188,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_shovel"
           },
           {
+            "uid": "minecraft__iron_axe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_axe",
             "capNBT": {
@@ -1097,9 +1208,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_axe"
           },
           {
+            "uid": "minecraft__iron_hoe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_hoe",
             "capNBT": {
@@ -1115,9 +1228,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_hoe"
           },
           {
+            "uid": "minecraft__iron_sword__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_sword",
             "capNBT": {
@@ -1133,9 +1248,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_sword"
           },
           {
+            "uid": "minecraft__iron_helmet__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_helmet",
             "capNBT": {
@@ -1151,9 +1268,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_helmet"
           },
           {
+            "uid": "minecraft__iron_chestplate__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_chestplate",
             "capNBT": {
@@ -1169,9 +1288,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_chestplate"
           },
           {
+            "uid": "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_leggings",
             "capNBT": {
@@ -1187,9 +1308,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_leggings"
           },
           {
+            "uid": "minecraft__iron_boots__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "iron_boots",
             "capNBT": {
@@ -1205,9 +1328,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:iron_boots"
           },
           {
+            "uid": "minecraft__iron_horse_armor",
             "damage": 0,
             "item": "iron_horse_armor",
             "capNBT": {
@@ -1217,9 +1342,11 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Horse Armor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_horse_armor"
           },
           {
+            "uid": "minecraft__chainmail_helmet__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "chainmail_helmet",
             "capNBT": {
@@ -1235,9 +1362,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:chainmail_helmet"
           },
           {
+            "uid": "minecraft__chainmail_chestplate__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "chainmail_chestplate",
             "capNBT": {
@@ -1253,9 +1382,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:chainmail_chestplate"
           },
           {
+            "uid": "minecraft__chainmail_leggings__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "chainmail_leggings",
             "capNBT": {
@@ -1271,9 +1402,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:chainmail_leggings"
           },
           {
+            "uid": "minecraft__chainmail_boots__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "chainmail_boots",
             "capNBT": {
@@ -1289,7 +1422,8 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:chainmail_boots"
           }
         ],
         "fluids": []
@@ -1300,6 +1434,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__iron_nugget",
             "damage": 0,
             "item": "iron_nugget",
             "capNBT": {
@@ -1309,7 +1444,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Nugget",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_nugget"
           }
         ],
         "fluids": []
@@ -1319,6 +1455,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__iron_pickaxe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_pickaxe",
           "capNBT": {
@@ -1334,9 +1471,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_pickaxe"
         },
         {
+          "uid": "minecraft__iron_shovel__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_shovel",
           "capNBT": {
@@ -1352,9 +1491,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_shovel"
         },
         {
+          "uid": "minecraft__iron_axe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_axe",
           "capNBT": {
@@ -1370,9 +1511,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_axe"
         },
         {
+          "uid": "minecraft__iron_hoe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_hoe",
           "capNBT": {
@@ -1388,9 +1531,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_hoe"
         },
         {
+          "uid": "minecraft__iron_sword__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_sword",
           "capNBT": {
@@ -1406,9 +1551,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_sword"
         },
         {
+          "uid": "minecraft__iron_helmet__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_helmet",
           "capNBT": {
@@ -1424,9 +1571,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_helmet"
         },
         {
+          "uid": "minecraft__iron_chestplate__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_chestplate",
           "capNBT": {
@@ -1442,9 +1591,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_chestplate"
         },
         {
+          "uid": "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_leggings",
           "capNBT": {
@@ -1460,9 +1611,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_leggings"
         },
         {
+          "uid": "minecraft__iron_boots__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "iron_boots",
           "capNBT": {
@@ -1478,9 +1631,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:iron_boots"
         },
         {
+          "uid": "minecraft__iron_horse_armor",
           "damage": 0,
           "item": "iron_horse_armor",
           "capNBT": {
@@ -1490,9 +1645,11 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Iron Horse Armor",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:iron_horse_armor"
         },
         {
+          "uid": "minecraft__chainmail_helmet__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "chainmail_helmet",
           "capNBT": {
@@ -1508,9 +1665,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:chainmail_helmet"
         },
         {
+          "uid": "minecraft__chainmail_chestplate__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "chainmail_chestplate",
           "capNBT": {
@@ -1526,9 +1685,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:chainmail_chestplate"
         },
         {
+          "uid": "minecraft__chainmail_leggings__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "chainmail_leggings",
           "capNBT": {
@@ -1544,9 +1705,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:chainmail_leggings"
         },
         {
+          "uid": "minecraft__chainmail_boots__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "chainmail_boots",
           "capNBT": {
@@ -1562,7 +1725,8 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:chainmail_boots"
         }
       ]
     },
@@ -1575,6 +1739,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__emerald",
       "damage": 0,
       "item": "emerald",
       "capNBT": {
@@ -1584,7 +1749,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Emerald",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:emerald"
     },
     "slots": [
       {
@@ -1593,6 +1759,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__emerald_ore",
             "damage": 0,
             "item": "emerald_ore",
             "capNBT": {
@@ -1602,7 +1769,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Emerald Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:emerald_ore"
           }
         ],
         "fluids": []
@@ -1613,6 +1781,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__emerald",
             "damage": 0,
             "item": "emerald",
             "capNBT": {
@@ -1622,7 +1791,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Emerald",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:emerald"
           }
         ],
         "fluids": []
@@ -1632,6 +1802,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__emerald_ore",
           "damage": 0,
           "item": "emerald_ore",
           "capNBT": {
@@ -1641,7 +1812,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Emerald Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:emerald_ore"
         }
       ]
     },
@@ -1654,6 +1826,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__gold_ingot",
       "damage": 0,
       "item": "gold_ingot",
       "capNBT": {
@@ -1663,7 +1836,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Gold Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:gold_ingot"
     },
     "slots": [
       {
@@ -1672,6 +1846,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__nether_gold_ore",
             "damage": 0,
             "item": "nether_gold_ore",
             "capNBT": {
@@ -1681,7 +1856,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Nether Gold Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:nether_gold_ore"
           }
         ],
         "fluids": []
@@ -1692,6 +1868,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__gold_ingot",
             "damage": 0,
             "item": "gold_ingot",
             "capNBT": {
@@ -1701,7 +1878,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gold Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gold_ingot"
           }
         ],
         "fluids": []
@@ -1711,6 +1889,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__nether_gold_ore",
           "damage": 0,
           "item": "nether_gold_ore",
           "capNBT": {
@@ -1720,7 +1899,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Nether Gold Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:nether_gold_ore"
         }
       ]
     },
@@ -1733,6 +1913,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__gold_nugget",
       "damage": 0,
       "item": "gold_nugget",
       "capNBT": {
@@ -1742,7 +1923,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Gold Nugget",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:gold_nugget"
     },
     "slots": [
       {
@@ -1751,6 +1933,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__golden_pickaxe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_pickaxe",
             "capNBT": {
@@ -1766,9 +1949,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_pickaxe"
           },
           {
+            "uid": "minecraft__golden_shovel__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_shovel",
             "capNBT": {
@@ -1784,9 +1969,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_shovel"
           },
           {
+            "uid": "minecraft__golden_axe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_axe",
             "capNBT": {
@@ -1802,9 +1989,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_axe"
           },
           {
+            "uid": "minecraft__golden_hoe__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_hoe",
             "capNBT": {
@@ -1820,9 +2009,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_hoe"
           },
           {
+            "uid": "minecraft__golden_sword__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_sword",
             "capNBT": {
@@ -1838,9 +2029,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_sword"
           },
           {
+            "uid": "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_helmet",
             "capNBT": {
@@ -1856,9 +2049,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_helmet"
           },
           {
+            "uid": "minecraft__golden_chestplate__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_chestplate",
             "capNBT": {
@@ -1874,9 +2069,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_chestplate"
           },
           {
+            "uid": "minecraft__golden_leggings__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_leggings",
             "capNBT": {
@@ -1892,9 +2089,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_leggings"
           },
           {
+            "uid": "minecraft__golden_boots__f615bddfb62eda0c5d44ad803d556908",
             "damage": 0,
             "item": "golden_boots",
             "capNBT": {
@@ -1910,9 +2109,11 @@
             "count": 1,
             "tag": {
               "Damage": 0.0
-            }
+            },
+            "resourceLocation": "minecraft:golden_boots"
           },
           {
+            "uid": "minecraft__golden_horse_armor",
             "damage": 0,
             "item": "golden_horse_armor",
             "capNBT": {
@@ -1922,7 +2123,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Golden Horse Armor",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:golden_horse_armor"
           }
         ],
         "fluids": []
@@ -1933,6 +2135,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__gold_nugget",
             "damage": 0,
             "item": "gold_nugget",
             "capNBT": {
@@ -1942,7 +2145,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gold Nugget",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gold_nugget"
           }
         ],
         "fluids": []
@@ -1952,6 +2156,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__golden_pickaxe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_pickaxe",
           "capNBT": {
@@ -1967,9 +2172,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_pickaxe"
         },
         {
+          "uid": "minecraft__golden_shovel__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_shovel",
           "capNBT": {
@@ -1985,9 +2192,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_shovel"
         },
         {
+          "uid": "minecraft__golden_axe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_axe",
           "capNBT": {
@@ -2003,9 +2212,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_axe"
         },
         {
+          "uid": "minecraft__golden_hoe__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_hoe",
           "capNBT": {
@@ -2021,9 +2232,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_hoe"
         },
         {
+          "uid": "minecraft__golden_sword__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_sword",
           "capNBT": {
@@ -2039,9 +2252,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_sword"
         },
         {
+          "uid": "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_helmet",
           "capNBT": {
@@ -2057,9 +2272,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_helmet"
         },
         {
+          "uid": "minecraft__golden_chestplate__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_chestplate",
           "capNBT": {
@@ -2075,9 +2292,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_chestplate"
         },
         {
+          "uid": "minecraft__golden_leggings__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_leggings",
           "capNBT": {
@@ -2093,9 +2312,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_leggings"
         },
         {
+          "uid": "minecraft__golden_boots__f615bddfb62eda0c5d44ad803d556908",
           "damage": 0,
           "item": "golden_boots",
           "capNBT": {
@@ -2111,9 +2332,11 @@
           "count": 1,
           "tag": {
             "Damage": 0.0
-          }
+          },
+          "resourceLocation": "minecraft:golden_boots"
         },
         {
+          "uid": "minecraft__golden_horse_armor",
           "damage": 0,
           "item": "golden_horse_armor",
           "capNBT": {
@@ -2123,7 +2346,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Golden Horse Armor",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:golden_horse_armor"
         }
       ]
     },
@@ -2136,85 +2360,7 @@
   },
   {
     "result": {
-      "damage": 0,
-      "item": "lapis_lazuli",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:lapis_lazuli"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Lapis Lazuli",
-      "count": 1
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "damage": 0,
-            "item": "lapis_ore",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:lapis_ore"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Lapis Lazuli Ore",
-            "count": 1
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "damage": 0,
-            "item": "lapis_lazuli",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:lapis_lazuli"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Lapis Lazuli",
-            "count": 1
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "damage": 0,
-          "item": "lapis_ore",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:lapis_ore"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Lapis Lazuli Ore",
-          "count": 1
-        }
-      ]
-    },
-    "_type": "BlastingRecipe",
-    "id": "minecraft:lapis_lazuli_from_blasting_lapis_ore",
-    "type": "blasting",
-    "experience": "0.2",
-    "cookingTime": "100",
-    "group": "lapis_lazuli"
-  },
-  {
-    "result": {
+      "uid": "minecraft__copper_ingot",
       "damage": 0,
       "item": "copper_ingot",
       "capNBT": {
@@ -2224,7 +2370,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Copper Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:copper_ingot"
     },
     "slots": [
       {
@@ -2233,6 +2380,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__raw_copper",
             "damage": 0,
             "item": "raw_copper",
             "capNBT": {
@@ -2242,7 +2390,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Raw Copper",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:raw_copper"
           }
         ],
         "fluids": []
@@ -2253,6 +2402,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__copper_ingot",
             "damage": 0,
             "item": "copper_ingot",
             "capNBT": {
@@ -2262,7 +2412,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Copper Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ingot"
           }
         ],
         "fluids": []
@@ -2272,6 +2423,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__raw_copper",
           "damage": 0,
           "item": "raw_copper",
           "capNBT": {
@@ -2281,7 +2433,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Raw Copper",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:raw_copper"
         }
       ]
     },
@@ -2294,16 +2447,18 @@
   },
   {
     "result": {
+      "uid": "minecraft__lapis_lazuli",
       "damage": 0,
-      "item": "gold_ingot",
+      "item": "lapis_lazuli",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:gold_ingot"
+        "id": "minecraft:lapis_lazuli"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Gold Ingot",
-      "count": 1
+      "name": "Lapis Lazuli",
+      "count": 1,
+      "resourceLocation": "minecraft:lapis_lazuli"
     },
     "slots": [
       {
@@ -2312,16 +2467,18 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__lapis_ore",
             "damage": 0,
-            "item": "gold_ore",
+            "item": "lapis_ore",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:gold_ore"
+              "id": "minecraft:lapis_ore"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Gold Ore",
-            "count": 1
+            "name": "Lapis Lazuli Ore",
+            "count": 1,
+            "resourceLocation": "minecraft:lapis_ore"
           }
         ],
         "fluids": []
@@ -2332,16 +2489,18 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__lapis_lazuli",
             "damage": 0,
-            "item": "gold_ingot",
+            "item": "lapis_lazuli",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:gold_ingot"
+              "id": "minecraft:lapis_lazuli"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Gold Ingot",
-            "count": 1
+            "name": "Lapis Lazuli",
+            "count": 1,
+            "resourceLocation": "minecraft:lapis_lazuli"
           }
         ],
         "fluids": []
@@ -2351,6 +2510,94 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__lapis_ore",
+          "damage": 0,
+          "item": "lapis_ore",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:lapis_ore"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Lapis Lazuli Ore",
+          "count": 1,
+          "resourceLocation": "minecraft:lapis_ore"
+        }
+      ]
+    },
+    "_type": "BlastingRecipe",
+    "id": "minecraft:lapis_lazuli_from_blasting_lapis_ore",
+    "type": "blasting",
+    "experience": "0.2",
+    "cookingTime": "100",
+    "group": "lapis_lazuli"
+  },
+  {
+    "result": {
+      "uid": "minecraft__gold_ingot",
+      "damage": 0,
+      "item": "gold_ingot",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:gold_ingot"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Gold Ingot",
+      "count": 1,
+      "resourceLocation": "minecraft:gold_ingot"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__gold_ore",
+            "damage": 0,
+            "item": "gold_ore",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:gold_ore"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Gold Ore",
+            "count": 1,
+            "resourceLocation": "minecraft:gold_ore"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__gold_ingot",
+            "damage": 0,
+            "item": "gold_ingot",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:gold_ingot"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Gold Ingot",
+            "count": 1,
+            "resourceLocation": "minecraft:gold_ingot"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__gold_ore",
           "damage": 0,
           "item": "gold_ore",
           "capNBT": {
@@ -2360,7 +2607,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Gold Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:gold_ore"
         }
       ]
     },
@@ -2373,6 +2621,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__coal",
       "damage": 0,
       "item": "coal",
       "capNBT": {
@@ -2382,7 +2631,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Coal",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:coal"
     },
     "slots": [
       {
@@ -2391,6 +2641,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_coal_ore",
             "damage": 0,
             "item": "deepslate_coal_ore",
             "capNBT": {
@@ -2400,7 +2651,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Coal Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_coal_ore"
           }
         ],
         "fluids": []
@@ -2411,6 +2663,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__coal",
             "damage": 0,
             "item": "coal",
             "capNBT": {
@@ -2420,7 +2673,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Coal",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:coal"
           }
         ],
         "fluids": []
@@ -2430,6 +2684,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_coal_ore",
           "damage": 0,
           "item": "deepslate_coal_ore",
           "capNBT": {
@@ -2439,7 +2694,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Coal Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_coal_ore"
         }
       ]
     },
@@ -2452,6 +2708,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__gold_ingot",
       "damage": 0,
       "item": "gold_ingot",
       "capNBT": {
@@ -2461,7 +2718,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Gold Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:gold_ingot"
     },
     "slots": [
       {
@@ -2470,6 +2728,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_gold_ore",
             "damage": 0,
             "item": "deepslate_gold_ore",
             "capNBT": {
@@ -2479,7 +2738,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Gold Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_gold_ore"
           }
         ],
         "fluids": []
@@ -2490,6 +2750,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__gold_ingot",
             "damage": 0,
             "item": "gold_ingot",
             "capNBT": {
@@ -2499,7 +2760,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Gold Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:gold_ingot"
           }
         ],
         "fluids": []
@@ -2509,6 +2771,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_gold_ore",
           "damage": 0,
           "item": "deepslate_gold_ore",
           "capNBT": {
@@ -2518,7 +2781,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Gold Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_gold_ore"
         }
       ]
     },
@@ -2531,6 +2795,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__copper_ingot",
       "damage": 0,
       "item": "copper_ingot",
       "capNBT": {
@@ -2540,7 +2805,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Copper Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:copper_ingot"
     },
     "slots": [
       {
@@ -2549,6 +2815,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__copper_ore",
             "damage": 0,
             "item": "copper_ore",
             "capNBT": {
@@ -2558,7 +2825,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Copper Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ore"
           }
         ],
         "fluids": []
@@ -2569,6 +2837,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__copper_ingot",
             "damage": 0,
             "item": "copper_ingot",
             "capNBT": {
@@ -2578,7 +2847,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Copper Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ingot"
           }
         ],
         "fluids": []
@@ -2588,6 +2858,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__copper_ore",
           "damage": 0,
           "item": "copper_ore",
           "capNBT": {
@@ -2597,7 +2868,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Copper Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:copper_ore"
         }
       ]
     },
@@ -2610,6 +2882,7 @@
   },
   {
     "result": {
+      "uid": "minecraft__iron_ingot",
       "damage": 0,
       "item": "iron_ingot",
       "capNBT": {
@@ -2619,7 +2892,8 @@
       "maxDamage": 0,
       "_type": "ItemStack",
       "name": "Iron Ingot",
-      "count": 1
+      "count": 1,
+      "resourceLocation": "minecraft:iron_ingot"
     },
     "slots": [
       {
@@ -2628,6 +2902,7 @@
         "y": 1,
         "items": [
           {
+            "uid": "minecraft__deepslate_iron_ore",
             "damage": 0,
             "item": "deepslate_iron_ore",
             "capNBT": {
@@ -2637,7 +2912,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Deepslate Iron Ore",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_iron_ore"
           }
         ],
         "fluids": []
@@ -2648,6 +2924,7 @@
         "y": 19,
         "items": [
           {
+            "uid": "minecraft__iron_ingot",
             "damage": 0,
             "item": "iron_ingot",
             "capNBT": {
@@ -2657,7 +2934,8 @@
             "maxDamage": 0,
             "_type": "ItemStack",
             "name": "Iron Ingot",
-            "count": 1
+            "count": 1,
+            "resourceLocation": "minecraft:iron_ingot"
           }
         ],
         "fluids": []
@@ -2667,6 +2945,7 @@
       "_type": "Ingredient",
       "items": [
         {
+          "uid": "minecraft__deepslate_iron_ore",
           "damage": 0,
           "item": "deepslate_iron_ore",
           "capNBT": {
@@ -2676,7 +2955,8 @@
           "maxDamage": 0,
           "_type": "ItemStack",
           "name": "Deepslate Iron Ore",
-          "count": 1
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_iron_ore"
         }
       ]
     },

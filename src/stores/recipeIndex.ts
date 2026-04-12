@@ -14,6 +14,7 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
     recipeIndex: null as RecipeIndex | null,
     items: null as ItemDetails[] | null,
     recipeCache: new Map<RecipeType, Recipe[]>(),
+    iconCache: new Map<string, number>(),
   }),
 
     actions: {
@@ -78,6 +79,10 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
                 }
                 return []
             }
+        },
+
+        registerIconSize(uid: string, size: number) {
+            this.iconCache.set(uid, size)
         }
     },
 
@@ -121,7 +126,7 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
             }
         },
 
-        // Calculate total size of loaded JSON data
+        // Calculate total size of loaded JSON data and icons
         totalDataSize: (state) => {
             let totalBytes = 0
             if (state.typeIndex) totalBytes += calculateObjectSize(state.typeIndex)
@@ -129,6 +134,9 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
             if (state.items) totalBytes += calculateObjectSize(state.items)
             state.recipeCache.forEach(recipes => {
                 totalBytes += calculateObjectSize(recipes)
+            })
+            state.iconCache.forEach(size => {
+                totalBytes += size
             })
             return formatBytes(totalBytes)
         },

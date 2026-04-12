@@ -349,93 +349,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__baked_potato",
-      "damage": 0,
-      "item": "baked_potato",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:baked_potato"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Baked Potato",
-      "count": 1,
-      "resourceLocation": "minecraft:baked_potato"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__potato",
-            "damage": 0,
-            "item": "potato",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:potato"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Potato",
-            "count": 1,
-            "resourceLocation": "minecraft:potato"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__baked_potato",
-            "damage": 0,
-            "item": "baked_potato",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:baked_potato"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Baked Potato",
-            "count": 1,
-            "resourceLocation": "minecraft:baked_potato"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__potato",
-          "damage": 0,
-          "item": "potato",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:potato"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Potato",
-          "count": 1,
-          "resourceLocation": "minecraft:potato"
-        }
-      ]
-    },
-    "_type": "SmokingRecipe",
-    "id": "minecraft:baked_potato_from_smoking",
-    "type": "smoking",
-    "experience": "0.35",
-    "cookingTime": "100",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__cooked_rabbit",
       "damage": 0,
       "item": "cooked_rabbit",
@@ -516,6 +429,93 @@
     },
     "_type": "SmokingRecipe",
     "id": "minecraft:cooked_rabbit_from_smoking",
+    "type": "smoking",
+    "experience": "0.35",
+    "cookingTime": "100",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__baked_potato",
+      "damage": 0,
+      "item": "baked_potato",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:baked_potato"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Baked Potato",
+      "count": 1,
+      "resourceLocation": "minecraft:baked_potato"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__potato",
+            "damage": 0,
+            "item": "potato",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:potato"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Potato",
+            "count": 1,
+            "resourceLocation": "minecraft:potato"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__baked_potato",
+            "damage": 0,
+            "item": "baked_potato",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:baked_potato"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Baked Potato",
+            "count": 1,
+            "resourceLocation": "minecraft:baked_potato"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__potato",
+          "damage": 0,
+          "item": "potato",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:potato"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Potato",
+          "count": 1,
+          "resourceLocation": "minecraft:potato"
+        }
+      ]
+    },
+    "_type": "SmokingRecipe",
+    "id": "minecraft:baked_potato_from_smoking",
     "type": "smoking",
     "experience": "0.35",
     "cookingTime": "100",

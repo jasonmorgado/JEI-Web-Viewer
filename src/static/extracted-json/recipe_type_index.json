@@ -1817,21 +1817,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__smooth_red_sandstone_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__smooth_red_sandstone": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:furnace"
-    ]
-  },
   "minecraft__end_crystal": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -1857,6 +1842,21 @@
     "INPUT": [
       "minecraft:brewing",
       "minecraft:crafting"
+    ]
+  },
+  "minecraft__smooth_red_sandstone_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft__smooth_red_sandstone": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:furnace"
     ]
   },
   "minecraft__chiseled_deepslate": {
@@ -1888,6 +1888,14 @@
     ]
   },
   "minecraft__gray_dye": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__red_dye": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -1930,14 +1938,6 @@
   "minecraft__brown_mushroom": {
     "INPUT": [
       "minecraft:compostable",
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__red_dye": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
       "minecraft:crafting"
     ]
   },
@@ -2028,22 +2028,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__bone_block": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__bone_meal": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__quartz": {
     "INPUT": [
       "minecraft:crafting"
@@ -2062,6 +2046,40 @@
     ]
   },
   "minecraft__warped_slab": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__bone_block": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__bone_meal": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__raw_iron": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:blasting",
+      "minecraft:crafting",
+      "minecraft:furnace"
+    ]
+  },
+  "minecraft__raw_iron_block": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -2101,24 +2119,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__raw_iron": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:blasting",
-      "minecraft:crafting",
-      "minecraft:furnace"
-    ]
-  },
-  "minecraft__raw_iron_block": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft__diorite_wall": {
@@ -2181,21 +2181,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__red_nether_brick_slab": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__red_nether_bricks": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__waxed_oxidized_cut_copper": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2219,6 +2204,41 @@
   "minecraft__honeycomb": {
     "INPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft__red_nether_brick_slab": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft__red_nether_bricks": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__waxed_exposed_cut_copper": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft__exposed_cut_copper": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft__purpur_slab": {
@@ -2249,26 +2269,6 @@
     ]
   },
   "minecraft__polished_blackstone": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__waxed_exposed_cut_copper": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ],
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__exposed_cut_copper": {
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
@@ -2390,18 +2390,6 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft__dried_kelp": {
-    "OUTPUT": [
-      "minecraft:campfire",
-      "minecraft:crafting",
-      "minecraft:furnace",
-      "minecraft:smoking"
-    ],
-    "INPUT": [
-      "minecraft:compostable",
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__black_dye": {
     "INPUT": [
       "minecraft:crafting"
@@ -2431,13 +2419,15 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__ender_chest": {
+  "minecraft__dried_kelp": {
     "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__obsidian": {
+      "minecraft:campfire",
+      "minecraft:crafting",
+      "minecraft:furnace",
+      "minecraft:smoking"
+    ],
     "INPUT": [
+      "minecraft:compostable",
       "minecraft:crafting"
     ]
   },
@@ -2445,6 +2435,16 @@
     "OUTPUT": [
       "minecraft:crafting"
     ],
+    "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__ender_chest": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__obsidian": {
     "INPUT": [
       "minecraft:crafting"
     ]
@@ -2507,19 +2507,7 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__sugar": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:brewing",
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__honey_bottle": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
+  "minecraft__iron_trapdoor": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2542,9 +2530,38 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__iron_trapdoor": {
+  "minecraft__sugar": {
     "OUTPUT": [
       "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:brewing",
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__honey_bottle": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__deepslate_brick_wall": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
+  "minecraft__deepslate_bricks": {
+    "INPUT": [
+      "minecraft:crafting",
+      "minecraft:furnace",
+      "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft__cyan_bed": {
@@ -2571,23 +2588,6 @@
     ],
     "OUTPUT": [
       "minecraft:crafting"
-    ]
-  },
-  "minecraft__deepslate_brick_wall": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__deepslate_bricks": {
-    "INPUT": [
-      "minecraft:crafting",
-      "minecraft:furnace",
-      "minecraft:stonecutting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft__lime_terracotta": {
@@ -2678,16 +2678,16 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__yellow_bed": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__waxed_oxidized_copper": {
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
     ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__yellow_bed": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2705,6 +2705,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft__gray_stained_glass_pane": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft__iron_block": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -2713,12 +2718,12 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__gray_stained_glass_pane": {
+  "minecraft__beehive": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
   },
-  "minecraft__beehive": {
+  "minecraft__white_stained_glass_pane": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -2731,11 +2736,6 @@
     "INPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__white_stained_glass_pane": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft__stone_slab": {
@@ -2792,14 +2792,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__leather_helmet__f615bddfb62eda0c5d44ad803d556908": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil"
-    ]
-  },
   "minecraft__polished_andesite_stairs": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2832,6 +2824,14 @@
   "minecraft__glow_ink_sac": {
     "INPUT": [
       "minecraft:crafting"
+    ]
+  },
+  "minecraft__leather_helmet__f615bddfb62eda0c5d44ad803d556908": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil"
     ]
   },
   "minecraft__light_blue_bed": {
@@ -2873,6 +2873,15 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft__diamond_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:smithing"
+    ]
+  },
   "minecraft__chiseled_nether_bricks": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2886,15 +2895,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__diamond_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:smithing"
     ]
   },
   "minecraft__flower_pot": {
@@ -2974,19 +2974,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__purple_bed": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__purple_dye": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__nether_brick_stairs": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -2998,6 +2985,19 @@
       "minecraft:crafting",
       "minecraft:furnace",
       "minecraft:stonecutting"
+    ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__purple_bed": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__purple_dye": {
+    "INPUT": [
+      "minecraft:crafting"
     ],
     "OUTPUT": [
       "minecraft:crafting"
@@ -3247,6 +3247,22 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft__stone_shovel__f615bddfb62eda0c5d44ad803d556908": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil"
+    ]
+  },
+  "minecraft__pink_stained_glass": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft__deepslate_tile_slab": {
     "OUTPUT": [
       "minecraft:crafting",
@@ -3262,22 +3278,6 @@
     "OUTPUT": [
       "minecraft:crafting",
       "minecraft:stonecutting"
-    ]
-  },
-  "minecraft__pink_stained_glass": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__stone_shovel__f615bddfb62eda0c5d44ad803d556908": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil"
     ]
   },
   "minecraft__cobblestone_stairs": {
@@ -3353,6 +3353,11 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft__dropper": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft__waxed_weathered_copper": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3368,7 +3373,15 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft__dropper": {
+  "minecraft__redstone_lamp": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__glowstone": {
+    "INPUT": [
+      "minecraft:crafting"
+    ],
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -3379,19 +3392,6 @@
     ]
   },
   "minecraft__yellow_stained_glass": {
-    "INPUT": [
-      "minecraft:crafting"
-    ],
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__redstone_lamp": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__glowstone": {
     "INPUT": [
       "minecraft:crafting"
     ],
@@ -3481,16 +3481,6 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__mojang_banner_pattern": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
-  "minecraft__enchanted_golden_apple": {
-    "INPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3501,9 +3491,13 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__blue_orchid": {
+  "minecraft__mojang_banner_pattern": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__enchanted_golden_apple": {
     "INPUT": [
-      "minecraft:compostable",
       "minecraft:crafting"
     ]
   },
@@ -3513,6 +3507,12 @@
       "minecraft:stonecutting"
     ],
     "INPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__blue_orchid": {
+    "INPUT": [
+      "minecraft:compostable",
       "minecraft:crafting"
     ]
   },
@@ -3556,11 +3556,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__sticky_piston": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__fire_charge": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3577,6 +3572,11 @@
       "minecraft:brewing",
       "minecraft:crafting"
     ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__sticky_piston": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -3599,6 +3599,12 @@
       "minecraft:stonecutting"
     ]
   },
+  "minecraft__polished_andesite_slab": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft__bread": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -3614,12 +3620,6 @@
     ],
     "OUTPUT": [
       "minecraft:crafting"
-    ]
-  },
-  "minecraft__polished_andesite_slab": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft__powered_rail": {
@@ -3682,12 +3682,8 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__shield__f615bddfb62eda0c5d44ad803d556908": {
+  "minecraft__yellow_candle": {
     "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
       "minecraft:crafting"
     ]
   },
@@ -3699,8 +3695,12 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__yellow_candle": {
+  "minecraft__shield__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
       "minecraft:crafting"
     ]
   },
@@ -3875,14 +3875,9 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908": {
+  "minecraft__green_stained_glass_pane": {
     "OUTPUT": [
       "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil",
-      "minecraft:blasting",
-      "minecraft:furnace"
     ]
   },
   "minecraft__polished_deepslate_slab": {
@@ -3891,9 +3886,14 @@
       "minecraft:stonecutting"
     ]
   },
-  "minecraft__green_stained_glass_pane": {
+  "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
       "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:blasting",
+      "minecraft:furnace"
     ]
   },
   "minecraft__cut_copper_slab": {
@@ -3995,18 +3995,18 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__mossy_stone_brick_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft__cyan_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
+    ]
+  },
+  "minecraft__mossy_stone_brick_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft__cut_red_sandstone": {
@@ -4136,14 +4136,16 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__black_stained_glass_pane": {
+  "minecraft__prismarine_brick_slab": {
     "OUTPUT": [
-      "minecraft:crafting"
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
-  "minecraft__black_stained_glass": {
+  "minecraft__prismarine_bricks": {
     "INPUT": [
-      "minecraft:crafting"
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ],
     "OUTPUT": [
       "minecraft:crafting"
@@ -4157,16 +4159,14 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__prismarine_brick_slab": {
+  "minecraft__black_stained_glass_pane": {
     "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
+      "minecraft:crafting"
     ]
   },
-  "minecraft__prismarine_bricks": {
+  "minecraft__black_stained_glass": {
     "INPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
+      "minecraft:crafting"
     ],
     "OUTPUT": [
       "minecraft:crafting"
@@ -4467,12 +4467,12 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__crimson_button": {
+  "minecraft__warped_fence": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
   },
-  "minecraft__warped_fence": {
+  "minecraft__crimson_button": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -4642,6 +4642,14 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft__melon_seeds": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:compostable"
+    ]
+  },
   "minecraft__allium": {
     "INPUT": [
       "minecraft:compostable",
@@ -4655,14 +4663,6 @@
     ],
     "INPUT": [
       "minecraft:crafting"
-    ]
-  },
-  "minecraft__melon_seeds": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:compostable"
     ]
   },
   "minecraft__exposed_cut_copper_stairs": {
@@ -4842,12 +4842,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__red_nether_brick_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft__leather_boots__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -4856,12 +4850,13 @@
       "minecraft:anvil"
     ]
   },
-  "minecraft__brewing_stand": {
+  "minecraft__red_nether_brick_stairs": {
     "OUTPUT": [
-      "minecraft:crafting"
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
-  "minecraft__white_candle": {
+  "minecraft__brewing_stand": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -4870,6 +4865,11 @@
     "INPUT": [
       "minecraft:crafting"
     ],
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
+  "minecraft__white_candle": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
@@ -5045,18 +5045,18 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__blackstone_wall": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
-    ]
-  },
   "minecraft__purple_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
+    ]
+  },
+  "minecraft__blackstone_wall": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
     ]
   },
   "minecraft__cauldron": {
@@ -5080,24 +5080,15 @@
       "minecraft:crafting"
     ]
   },
-  "minecraft__poppy": {
-    "INPUT": [
-      "minecraft:compostable",
-      "minecraft:crafting"
-    ]
-  },
   "minecraft__magenta_concrete_powder": {
     "OUTPUT": [
       "minecraft:crafting"
     ]
   },
-  "minecraft__diamond_shovel__f615bddfb62eda0c5d44ad803d556908": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
+  "minecraft__poppy": {
     "INPUT": [
-      "minecraft:anvil",
-      "minecraft:smithing"
+      "minecraft:compostable",
+      "minecraft:crafting"
     ]
   },
   "minecraft__warped_fungus_on_a_stick__f615bddfb62eda0c5d44ad803d556908": {
@@ -5112,6 +5103,15 @@
     "INPUT": [
       "minecraft:compostable",
       "minecraft:crafting"
+    ]
+  },
+  "minecraft__diamond_shovel__f615bddfb62eda0c5d44ad803d556908": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil",
+      "minecraft:smithing"
     ]
   },
   "minecraft__waxed_weathered_cut_copper_slab": {
@@ -5279,14 +5279,6 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__stone_hoe__f615bddfb62eda0c5d44ad803d556908": {
-    "OUTPUT": [
-      "minecraft:crafting"
-    ],
-    "INPUT": [
-      "minecraft:anvil"
-    ]
-  },
   "minecraft__diamond_sword__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -5294,6 +5286,14 @@
     "INPUT": [
       "minecraft:anvil",
       "minecraft:smithing"
+    ]
+  },
+  "minecraft__stone_hoe__f615bddfb62eda0c5d44ad803d556908": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ],
+    "INPUT": [
+      "minecraft:anvil"
     ]
   },
   "minecraft__red_terracotta": {
@@ -5479,6 +5479,12 @@
       "minecraft:furnace"
     ]
   },
+  "minecraft__waxed_oxidized_cut_copper_stairs": {
+    "OUTPUT": [
+      "minecraft:crafting",
+      "minecraft:stonecutting"
+    ]
+  },
   "minecraft__diamond_chestplate__f615bddfb62eda0c5d44ad803d556908": {
     "OUTPUT": [
       "minecraft:crafting"
@@ -5486,12 +5492,6 @@
     "INPUT": [
       "minecraft:anvil",
       "minecraft:smithing"
-    ]
-  },
-  "minecraft__waxed_oxidized_cut_copper_stairs": {
-    "OUTPUT": [
-      "minecraft:crafting",
-      "minecraft:stonecutting"
     ]
   },
   "minecraft__golden_chestplate__f615bddfb62eda0c5d44ad803d556908": {
@@ -5645,17 +5645,17 @@
       "minecraft:crafting"
     ]
   },
+  "minecraft__enchanting_table": {
+    "OUTPUT": [
+      "minecraft:crafting"
+    ]
+  },
   "minecraft__green_terracotta": {
     "OUTPUT": [
       "minecraft:crafting"
     ],
     "INPUT": [
       "minecraft:furnace"
-    ]
-  },
-  "minecraft__enchanting_table": {
-    "OUTPUT": [
-      "minecraft:crafting"
     ]
   },
   "minecraft__tnt_minecart": {
@@ -6929,12 +6929,12 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__cracked_deepslate_bricks": {
+  "minecraft__black_glazed_terracotta": {
     "OUTPUT": [
       "minecraft:furnace"
     ]
   },
-  "minecraft__black_glazed_terracotta": {
+  "minecraft__cracked_deepslate_bricks": {
     "OUTPUT": [
       "minecraft:furnace"
     ]
@@ -6951,14 +6951,14 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__diamond_ore": {
-    "INPUT": [
-      "minecraft:blasting",
+  "minecraft__magenta_glazed_terracotta": {
+    "OUTPUT": [
       "minecraft:furnace"
     ]
   },
-  "minecraft__magenta_glazed_terracotta": {
-    "OUTPUT": [
+  "minecraft__diamond_ore": {
+    "INPUT": [
+      "minecraft:blasting",
       "minecraft:furnace"
     ]
   },
@@ -7103,12 +7103,12 @@
       "minecraft:furnace"
     ]
   },
-  "minecraft__gray_glazed_terracotta": {
+  "minecraft__lime_glazed_terracotta": {
     "OUTPUT": [
       "minecraft:furnace"
     ]
   },
-  "minecraft__lime_glazed_terracotta": {
+  "minecraft__gray_glazed_terracotta": {
     "OUTPUT": [
       "minecraft:furnace"
     ]
@@ -7195,14 +7195,6 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__99dec161587086ae39d37c7eb7cadcff": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft__potion__9f5d78b02501fd542e054caed194b991": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7211,20 +7203,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__rabbit_foot": {
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft__potion__e38ba718c99f3e9f4e08294893e080a8": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7240,7 +7219,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__9f5d78b02501fd542e054caed194b991": {
+  "minecraft__splash_potion__99dec161587086ae39d37c7eb7cadcff": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7248,55 +7227,12 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__e38ba718c99f3e9f4e08294893e080a8": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
+  "minecraft__rabbit_foot": {
     "INPUT": [
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__4152983c62650be831e926e155f5d25e": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__ce9215195206227574c4af88f33fc344": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__b0eea8660c245c4b3e33dea1d6665a54": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__d4272645c61d50de18ce399e7093de8f": {
+  "minecraft__potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7312,7 +7248,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__05225fd13a3c6fd285a5983fd4ec3c77": {
+  "minecraft__potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7320,7 +7256,20 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__e2d7c109e844b10fdc71a6d3901e4186": {
+  "minecraft__splash_potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__dragon_breath": {
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__e38ba718c99f3e9f4e08294893e080a8": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7329,14 +7278,6 @@
     ]
   },
   "minecraft__potion__5128ca07542e53743d6e85944faccd95": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__a6770248a7df811fb23a8934660c3ad0": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7357,7 +7298,74 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__dragon_breath": {
+  "minecraft__splash_potion__9f5d78b02501fd542e054caed194b991": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__b0eea8660c245c4b3e33dea1d6665a54": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__05225fd13a3c6fd285a5983fd4ec3c77": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__4a6ae0edf296eff78ba669a84bc371b4": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__4152983c62650be831e926e155f5d25e": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__a6770248a7df811fb23a8934660c3ad0": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__e2d7c109e844b10fdc71a6d3901e4186": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__d4272645c61d50de18ce399e7093de8f": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__ce9215195206227574c4af88f33fc344": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
     "INPUT": [
       "minecraft:brewing"
     ]
@@ -7376,54 +7384,6 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__4a6ae0edf296eff78ba669a84bc371b4": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__4a6ae0edf296eff78ba669a84bc371b4": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__d4272645c61d50de18ce399e7093de8f": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__5128ca07542e53743d6e85944faccd95": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft__splash_potion__05225fd13a3c6fd285a5983fd4ec3c77": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7432,47 +7392,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__a6770248a7df811fb23a8934660c3ad0": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__aa6e75b63442a779201fc666c662190e": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__a8afe48529a0fd9c53b80fde95556192": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__b0eea8660c245c4b3e33dea1d6665a54": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__e2d7c109e844b10fdc71a6d3901e4186": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__ce9215195206227574c4af88f33fc344": {
+  "minecraft__potion__1822a5cc6e8c0dcef393ed63be983b65": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7481,6 +7401,14 @@
     ]
   },
   "minecraft__potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__ff24d0419d0e166ddfe2180c4332b934": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7504,14 +7432,6 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__ff24d0419d0e166ddfe2180c4332b934": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft__potion__5d0fea03e8823c628163ffd08b8260b2": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7520,7 +7440,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__1822a5cc6e8c0dcef393ed63be983b65": {
+  "minecraft__potion__2dde18d159df07886c07d6c3359660f2": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7528,7 +7448,167 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__2dde18d159df07886c07d6c3359660f2": {
+  "minecraft__splash_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__41d6b157fe1146afc9861d4ed39597af": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__2ab263caa028ef2cb5f011203446a75b": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__96903724c233810c71678fc2cc582388": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__33b3d5408af1cba6d2ae43376e6f436c": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__d98ea99c3df2eb0508cfc212b966782c": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__c5ce9f3a7bb3efede7631b11769ff677": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__8a3ef662e94010f388e0dfeea82cfe77": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__5bfb814833db76e3df1ad0d1cb761702": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__4a84d5cb813f822eac725971dfd6cd1e": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__d4272645c61d50de18ce399e7093de8f": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__ce9215195206227574c4af88f33fc344": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__a6770248a7df811fb23a8934660c3ad0": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__a8afe48529a0fd9c53b80fde95556192": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__5128ca07542e53743d6e85944faccd95": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__e2d7c109e844b10fdc71a6d3901e4186": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__4a6ae0edf296eff78ba669a84bc371b4": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__aa6e75b63442a779201fc666c662190e": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__b0eea8660c245c4b3e33dea1d6665a54": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7560,15 +7640,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__4a84d5cb813f822eac725971dfd6cd1e": {
-    "INPUT": [
-      "minecraft:brewing"
-    ],
-    "OUTPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__96903724c233810c71678fc2cc582388": {
+  "minecraft__splash_potion__da09584e8c12b381ba8a8feeab7a6902": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7576,7 +7648,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__8a3ef662e94010f388e0dfeea82cfe77": {
+  "minecraft__splash_potion__d2e0c6224cabcefd39daff8fbf2b579c": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7584,95 +7656,7 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__5bfb814833db76e3df1ad0d1cb761702": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__2ab263caa028ef2cb5f011203446a75b": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__33b3d5408af1cba6d2ae43376e6f436c": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__41d6b157fe1146afc9861d4ed39597af": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__d98ea99c3df2eb0508cfc212b966782c": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__potion__c5ce9f3a7bb3efede7631b11769ff677": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__2ab263caa028ef2cb5f011203446a75b": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__41d6b157fe1146afc9861d4ed39597af": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__c5ce9f3a7bb3efede7631b11769ff677": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__96903724c233810c71678fc2cc582388": {
+  "minecraft__splash_potion__f062acae657b052d75f1f4f1fd87923a": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7681,38 +7665,14 @@
     ]
   },
   "minecraft__splash_potion__4a84d5cb813f822eac725971dfd6cd1e": {
-    "OUTPUT": [
+    "INPUT": [
       "minecraft:brewing"
     ],
-    "INPUT": [
+    "OUTPUT": [
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__8a3ef662e94010f388e0dfeea82cfe77": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__5bfb814833db76e3df1ad0d1cb761702": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__33b3d5408af1cba6d2ae43376e6f436c": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__d98ea99c3df2eb0508cfc212b966782c": {
+  "minecraft__splash_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7736,6 +7696,22 @@
       "minecraft:brewing"
     ]
   },
+  "minecraft__splash_potion__5d0fea03e8823c628163ffd08b8260b2": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__ff24d0419d0e166ddfe2180c4332b934": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
   "minecraft__splash_potion__1822a5cc6e8c0dcef393ed63be983b65": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7745,54 +7721,6 @@
     ]
   },
   "minecraft__splash_potion__2dde18d159df07886c07d6c3359660f2": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__5d0fea03e8823c628163ffd08b8260b2": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__f062acae657b052d75f1f4f1fd87923a": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__da09584e8c12b381ba8a8feeab7a6902": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__d2e0c6224cabcefd39daff8fbf2b579c": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
-  "minecraft__splash_potion__ff24d0419d0e166ddfe2180c4332b934": {
     "OUTPUT": [
       "minecraft:brewing"
     ],
@@ -7832,6 +7760,78 @@
       "minecraft:brewing"
     ]
   },
+  "minecraft__splash_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__96903724c233810c71678fc2cc582388": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__41d6b157fe1146afc9861d4ed39597af": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__5bfb814833db76e3df1ad0d1cb761702": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__c5ce9f3a7bb3efede7631b11769ff677": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__2ab263caa028ef2cb5f011203446a75b": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__8a3ef662e94010f388e0dfeea82cfe77": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__33b3d5408af1cba6d2ae43376e6f436c": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__splash_potion__d98ea99c3df2eb0508cfc212b966782c": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
+    "INPUT": [
+      "minecraft:brewing"
+    ]
+  },
   "minecraft__splash_potion__e921377df71f4486b55c6e0d07897eba": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7848,14 +7848,6 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__splash_potion__adb34d0ab4189bbd9c657da41841c2c2": {
-    "OUTPUT": [
-      "minecraft:brewing"
-    ],
-    "INPUT": [
-      "minecraft:brewing"
-    ]
-  },
   "minecraft__splash_potion__65785875cf30774daea49b653cc17d05": {
     "OUTPUT": [
       "minecraft:brewing"
@@ -7864,15 +7856,23 @@
       "minecraft:brewing"
     ]
   },
-  "minecraft__potion__37fa2f80a4147473c47310b57963d610": {
+  "minecraft__splash_potion__adb34d0ab4189bbd9c657da41841c2c2": {
+    "OUTPUT": [
+      "minecraft:brewing"
+    ],
     "INPUT": [
       "minecraft:brewing"
     ]
   },
   "minecraft__splash_potion__37fa2f80a4147473c47310b57963d610": {
-    "OUTPUT": [
+    "INPUT": [
       "minecraft:brewing"
     ],
+    "OUTPUT": [
+      "minecraft:brewing"
+    ]
+  },
+  "minecraft__potion__37fa2f80a4147473c47310b57963d610": {
     "INPUT": [
       "minecraft:brewing"
     ]

@@ -1739,93 +1739,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__emerald",
-      "damage": 0,
-      "item": "emerald",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:emerald"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Emerald",
-      "count": 1,
-      "resourceLocation": "minecraft:emerald"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__emerald_ore",
-            "damage": 0,
-            "item": "emerald_ore",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:emerald_ore"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Emerald Ore",
-            "count": 1,
-            "resourceLocation": "minecraft:emerald_ore"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__emerald",
-            "damage": 0,
-            "item": "emerald",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:emerald"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Emerald",
-            "count": 1,
-            "resourceLocation": "minecraft:emerald"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__emerald_ore",
-          "damage": 0,
-          "item": "emerald_ore",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:emerald_ore"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Emerald Ore",
-          "count": 1,
-          "resourceLocation": "minecraft:emerald_ore"
-        }
-      ]
-    },
-    "_type": "BlastingRecipe",
-    "id": "minecraft:emerald_from_blasting_emerald_ore",
-    "type": "blasting",
-    "experience": "1.0",
-    "cookingTime": "100",
-    "group": "emerald"
-  },
-  {
-    "result": {
       "uid": "minecraft__gold_ingot",
       "damage": 0,
       "item": "gold_ingot",
@@ -1910,6 +1823,93 @@
     "experience": "1.0",
     "cookingTime": "100",
     "group": "gold_ingot"
+  },
+  {
+    "result": {
+      "uid": "minecraft__emerald",
+      "damage": 0,
+      "item": "emerald",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:emerald"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Emerald",
+      "count": 1,
+      "resourceLocation": "minecraft:emerald"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__emerald_ore",
+            "damage": 0,
+            "item": "emerald_ore",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:emerald_ore"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Emerald Ore",
+            "count": 1,
+            "resourceLocation": "minecraft:emerald_ore"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__emerald",
+            "damage": 0,
+            "item": "emerald",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:emerald"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Emerald",
+            "count": 1,
+            "resourceLocation": "minecraft:emerald"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__emerald_ore",
+          "damage": 0,
+          "item": "emerald_ore",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:emerald_ore"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Emerald Ore",
+          "count": 1,
+          "resourceLocation": "minecraft:emerald_ore"
+        }
+      ]
+    },
+    "_type": "BlastingRecipe",
+    "id": "minecraft:emerald_from_blasting_emerald_ore",
+    "type": "blasting",
+    "experience": "1.0",
+    "cookingTime": "100",
+    "group": "emerald"
   },
   {
     "result": {
@@ -2360,93 +2360,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__copper_ingot",
-      "damage": 0,
-      "item": "copper_ingot",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:copper_ingot"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Copper Ingot",
-      "count": 1,
-      "resourceLocation": "minecraft:copper_ingot"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__raw_copper",
-            "damage": 0,
-            "item": "raw_copper",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:raw_copper"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Raw Copper",
-            "count": 1,
-            "resourceLocation": "minecraft:raw_copper"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__copper_ingot",
-            "damage": 0,
-            "item": "copper_ingot",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:copper_ingot"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Copper Ingot",
-            "count": 1,
-            "resourceLocation": "minecraft:copper_ingot"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__raw_copper",
-          "damage": 0,
-          "item": "raw_copper",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:raw_copper"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Raw Copper",
-          "count": 1,
-          "resourceLocation": "minecraft:raw_copper"
-        }
-      ]
-    },
-    "_type": "BlastingRecipe",
-    "id": "minecraft:copper_ingot_from_blasting_raw_copper",
-    "type": "blasting",
-    "experience": "0.7",
-    "cookingTime": "100",
-    "group": "copper_ingot"
-  },
-  {
-    "result": {
       "uid": "minecraft__lapis_lazuli",
       "damage": 0,
       "item": "lapis_lazuli",
@@ -2531,6 +2444,93 @@
     "experience": "0.2",
     "cookingTime": "100",
     "group": "lapis_lazuli"
+  },
+  {
+    "result": {
+      "uid": "minecraft__copper_ingot",
+      "damage": 0,
+      "item": "copper_ingot",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:copper_ingot"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Copper Ingot",
+      "count": 1,
+      "resourceLocation": "minecraft:copper_ingot"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__raw_copper",
+            "damage": 0,
+            "item": "raw_copper",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:raw_copper"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Raw Copper",
+            "count": 1,
+            "resourceLocation": "minecraft:raw_copper"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__copper_ingot",
+            "damage": 0,
+            "item": "copper_ingot",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:copper_ingot"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Copper Ingot",
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ingot"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__raw_copper",
+          "damage": 0,
+          "item": "raw_copper",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:raw_copper"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Raw Copper",
+          "count": 1,
+          "resourceLocation": "minecraft:raw_copper"
+        }
+      ]
+    },
+    "_type": "BlastingRecipe",
+    "id": "minecraft:copper_ingot_from_blasting_raw_copper",
+    "type": "blasting",
+    "experience": "0.7",
+    "cookingTime": "100",
+    "group": "copper_ingot"
   },
   {
     "result": {
@@ -2795,93 +2795,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__copper_ingot",
-      "damage": 0,
-      "item": "copper_ingot",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:copper_ingot"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Copper Ingot",
-      "count": 1,
-      "resourceLocation": "minecraft:copper_ingot"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__copper_ore",
-            "damage": 0,
-            "item": "copper_ore",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:copper_ore"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Copper Ore",
-            "count": 1,
-            "resourceLocation": "minecraft:copper_ore"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__copper_ingot",
-            "damage": 0,
-            "item": "copper_ingot",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:copper_ingot"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Copper Ingot",
-            "count": 1,
-            "resourceLocation": "minecraft:copper_ingot"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__copper_ore",
-          "damage": 0,
-          "item": "copper_ore",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:copper_ore"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Copper Ore",
-          "count": 1,
-          "resourceLocation": "minecraft:copper_ore"
-        }
-      ]
-    },
-    "_type": "BlastingRecipe",
-    "id": "minecraft:copper_ingot_from_blasting_copper_ore",
-    "type": "blasting",
-    "experience": "0.7",
-    "cookingTime": "100",
-    "group": "copper_ingot"
-  },
-  {
-    "result": {
       "uid": "minecraft__iron_ingot",
       "damage": 0,
       "item": "iron_ingot",
@@ -2966,5 +2879,92 @@
     "experience": "0.7",
     "cookingTime": "100",
     "group": "iron_ingot"
+  },
+  {
+    "result": {
+      "uid": "minecraft__copper_ingot",
+      "damage": 0,
+      "item": "copper_ingot",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:copper_ingot"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Copper Ingot",
+      "count": 1,
+      "resourceLocation": "minecraft:copper_ingot"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__copper_ore",
+            "damage": 0,
+            "item": "copper_ore",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:copper_ore"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Copper Ore",
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ore"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__copper_ingot",
+            "damage": 0,
+            "item": "copper_ingot",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:copper_ingot"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Copper Ingot",
+            "count": 1,
+            "resourceLocation": "minecraft:copper_ingot"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__copper_ore",
+          "damage": 0,
+          "item": "copper_ore",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:copper_ore"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Copper Ore",
+          "count": 1,
+          "resourceLocation": "minecraft:copper_ore"
+        }
+      ]
+    },
+    "_type": "BlastingRecipe",
+    "id": "minecraft:copper_ingot_from_blasting_copper_ore",
+    "type": "blasting",
+    "experience": "0.7",
+    "cookingTime": "100",
+    "group": "copper_ingot"
   }
 ]

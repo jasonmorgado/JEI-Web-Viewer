@@ -1,93 +1,6 @@
 [
   {
     "result": {
-      "uid": "minecraft__stone",
-      "damage": 0,
-      "item": "stone",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:stone"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Stone",
-      "count": 1,
-      "resourceLocation": "minecraft:stone"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__cobblestone",
-            "damage": 0,
-            "item": "cobblestone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cobblestone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cobblestone",
-            "count": 1,
-            "resourceLocation": "minecraft:cobblestone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__stone",
-            "damage": 0,
-            "item": "stone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone",
-            "count": 1,
-            "resourceLocation": "minecraft:stone"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__cobblestone",
-          "damage": 0,
-          "item": "cobblestone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:cobblestone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Cobblestone",
-          "count": 1,
-          "resourceLocation": "minecraft:cobblestone"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:stone",
-    "type": "smelting",
-    "experience": "0.1",
-    "cookingTime": "200",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__nether_brick",
       "damage": 0,
       "item": "nether_brick",
@@ -168,6 +81,93 @@
     },
     "_type": "SmeltingRecipe",
     "id": "minecraft:nether_brick",
+    "type": "smelting",
+    "experience": "0.1",
+    "cookingTime": "200",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__stone",
+      "damage": 0,
+      "item": "stone",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:stone"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Stone",
+      "count": 1,
+      "resourceLocation": "minecraft:stone"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__cobblestone",
+            "damage": 0,
+            "item": "cobblestone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cobblestone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cobblestone",
+            "count": 1,
+            "resourceLocation": "minecraft:cobblestone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__stone",
+            "damage": 0,
+            "item": "stone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone",
+            "count": 1,
+            "resourceLocation": "minecraft:stone"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__cobblestone",
+          "damage": 0,
+          "item": "cobblestone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:cobblestone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Cobblestone",
+          "count": 1,
+          "resourceLocation": "minecraft:cobblestone"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:stone",
     "type": "smelting",
     "experience": "0.1",
     "cookingTime": "200",
@@ -1540,93 +1540,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__cracked_deepslate_bricks",
-      "damage": 0,
-      "item": "cracked_deepslate_bricks",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:cracked_deepslate_bricks"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Cracked Deepslate Bricks",
-      "count": 1,
-      "resourceLocation": "minecraft:cracked_deepslate_bricks"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__deepslate_bricks",
-            "damage": 0,
-            "item": "deepslate_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:deepslate_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Deepslate Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:deepslate_bricks"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__cracked_deepslate_bricks",
-            "damage": 0,
-            "item": "cracked_deepslate_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cracked_deepslate_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cracked Deepslate Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:cracked_deepslate_bricks"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__deepslate_bricks",
-          "damage": 0,
-          "item": "deepslate_bricks",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:deepslate_bricks"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Deepslate Bricks",
-          "count": 1,
-          "resourceLocation": "minecraft:deepslate_bricks"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:cracked_deepslate_bricks",
-    "type": "smelting",
-    "experience": "0.1",
-    "cookingTime": "200",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__black_glazed_terracotta",
       "damage": 0,
       "item": "black_glazed_terracotta",
@@ -1707,6 +1620,93 @@
     },
     "_type": "SmeltingRecipe",
     "id": "minecraft:black_glazed_terracotta",
+    "type": "smelting",
+    "experience": "0.1",
+    "cookingTime": "200",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__cracked_deepslate_bricks",
+      "damage": 0,
+      "item": "cracked_deepslate_bricks",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:cracked_deepslate_bricks"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Cracked Deepslate Bricks",
+      "count": 1,
+      "resourceLocation": "minecraft:cracked_deepslate_bricks"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__deepslate_bricks",
+            "damage": 0,
+            "item": "deepslate_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:deepslate_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Deepslate Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_bricks"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__cracked_deepslate_bricks",
+            "damage": 0,
+            "item": "cracked_deepslate_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cracked_deepslate_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cracked Deepslate Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:cracked_deepslate_bricks"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__deepslate_bricks",
+          "damage": 0,
+          "item": "deepslate_bricks",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:deepslate_bricks"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Deepslate Bricks",
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_bricks"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:cracked_deepslate_bricks",
     "type": "smelting",
     "experience": "0.1",
     "cookingTime": "200",
@@ -2410,6 +2410,93 @@
   },
   {
     "result": {
+      "uid": "minecraft__purple_glazed_terracotta",
+      "damage": 0,
+      "item": "purple_glazed_terracotta",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:purple_glazed_terracotta"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Purple Glazed Terracotta",
+      "count": 1,
+      "resourceLocation": "minecraft:purple_glazed_terracotta"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__purple_terracotta",
+            "damage": 0,
+            "item": "purple_terracotta",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:purple_terracotta"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Purple Terracotta",
+            "count": 1,
+            "resourceLocation": "minecraft:purple_terracotta"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__purple_glazed_terracotta",
+            "damage": 0,
+            "item": "purple_glazed_terracotta",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:purple_glazed_terracotta"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Purple Glazed Terracotta",
+            "count": 1,
+            "resourceLocation": "minecraft:purple_glazed_terracotta"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__purple_terracotta",
+          "damage": 0,
+          "item": "purple_terracotta",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:purple_terracotta"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Purple Terracotta",
+          "count": 1,
+          "resourceLocation": "minecraft:purple_terracotta"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:purple_glazed_terracotta",
+    "type": "smelting",
+    "experience": "0.1",
+    "cookingTime": "200",
+    "group": ""
+  },
+  {
+    "result": {
       "uid": "minecraft__netherite_scrap",
       "damage": 0,
       "item": "netherite_scrap",
@@ -2497,18 +2584,18 @@
   },
   {
     "result": {
-      "uid": "minecraft__purple_glazed_terracotta",
+      "uid": "minecraft__cooked_beef",
       "damage": 0,
-      "item": "purple_glazed_terracotta",
+      "item": "cooked_beef",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:purple_glazed_terracotta"
+        "id": "minecraft:cooked_beef"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Purple Glazed Terracotta",
+      "name": "Steak",
       "count": 1,
-      "resourceLocation": "minecraft:purple_glazed_terracotta"
+      "resourceLocation": "minecraft:cooked_beef"
     },
     "slots": [
       {
@@ -2517,18 +2604,18 @@
         "y": 1,
         "items": [
           {
-            "uid": "minecraft__purple_terracotta",
+            "uid": "minecraft__beef",
             "damage": 0,
-            "item": "purple_terracotta",
+            "item": "beef",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:purple_terracotta"
+              "id": "minecraft:beef"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Purple Terracotta",
+            "name": "Raw Beef",
             "count": 1,
-            "resourceLocation": "minecraft:purple_terracotta"
+            "resourceLocation": "minecraft:beef"
           }
         ],
         "fluids": []
@@ -2539,18 +2626,18 @@
         "y": 19,
         "items": [
           {
-            "uid": "minecraft__purple_glazed_terracotta",
+            "uid": "minecraft__cooked_beef",
             "damage": 0,
-            "item": "purple_glazed_terracotta",
+            "item": "cooked_beef",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:purple_glazed_terracotta"
+              "id": "minecraft:cooked_beef"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Purple Glazed Terracotta",
+            "name": "Steak",
             "count": 1,
-            "resourceLocation": "minecraft:purple_glazed_terracotta"
+            "resourceLocation": "minecraft:cooked_beef"
           }
         ],
         "fluids": []
@@ -2560,25 +2647,25 @@
       "_type": "Ingredient",
       "items": [
         {
-          "uid": "minecraft__purple_terracotta",
+          "uid": "minecraft__beef",
           "damage": 0,
-          "item": "purple_terracotta",
+          "item": "beef",
           "capNBT": {
             "Count": "1b",
-            "id": "minecraft:purple_terracotta"
+            "id": "minecraft:beef"
           },
           "maxDamage": 0,
           "_type": "ItemStack",
-          "name": "Purple Terracotta",
+          "name": "Raw Beef",
           "count": 1,
-          "resourceLocation": "minecraft:purple_terracotta"
+          "resourceLocation": "minecraft:beef"
         }
       ]
     },
     "_type": "SmeltingRecipe",
-    "id": "minecraft:purple_glazed_terracotta",
+    "id": "minecraft:cooked_beef",
     "type": "smelting",
-    "experience": "0.1",
+    "experience": "0.35",
     "cookingTime": "200",
     "group": ""
   },
@@ -2668,93 +2755,6 @@
     "experience": "1.0",
     "cookingTime": "200",
     "group": "gold_ingot"
-  },
-  {
-    "result": {
-      "uid": "minecraft__cooked_beef",
-      "damage": 0,
-      "item": "cooked_beef",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:cooked_beef"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Steak",
-      "count": 1,
-      "resourceLocation": "minecraft:cooked_beef"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__beef",
-            "damage": 0,
-            "item": "beef",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:beef"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Raw Beef",
-            "count": 1,
-            "resourceLocation": "minecraft:beef"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__cooked_beef",
-            "damage": 0,
-            "item": "cooked_beef",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cooked_beef"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Steak",
-            "count": 1,
-            "resourceLocation": "minecraft:cooked_beef"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__beef",
-          "damage": 0,
-          "item": "beef",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:beef"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Raw Beef",
-          "count": 1,
-          "resourceLocation": "minecraft:beef"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:cooked_beef",
-    "type": "smelting",
-    "experience": "0.35",
-    "cookingTime": "200",
-    "group": ""
   },
   {
     "result": {
@@ -4352,93 +4352,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__terracotta",
-      "damage": 0,
-      "item": "terracotta",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:terracotta"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Terracotta",
-      "count": 1,
-      "resourceLocation": "minecraft:terracotta"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__clay",
-            "damage": 0,
-            "item": "clay",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:clay"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Clay",
-            "count": 1,
-            "resourceLocation": "minecraft:clay"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__terracotta",
-            "damage": 0,
-            "item": "terracotta",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:terracotta"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Terracotta",
-            "count": 1,
-            "resourceLocation": "minecraft:terracotta"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__clay",
-          "damage": 0,
-          "item": "clay",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:clay"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Clay",
-          "count": 1,
-          "resourceLocation": "minecraft:clay"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:terracotta",
-    "type": "smelting",
-    "experience": "0.35",
-    "cookingTime": "200",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__gold_nugget",
       "damage": 0,
       "item": "gold_nugget",
@@ -4886,6 +4799,93 @@
   },
   {
     "result": {
+      "uid": "minecraft__terracotta",
+      "damage": 0,
+      "item": "terracotta",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:terracotta"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Terracotta",
+      "count": 1,
+      "resourceLocation": "minecraft:terracotta"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__clay",
+            "damage": 0,
+            "item": "clay",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:clay"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Clay",
+            "count": 1,
+            "resourceLocation": "minecraft:clay"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__terracotta",
+            "damage": 0,
+            "item": "terracotta",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:terracotta"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Terracotta",
+            "count": 1,
+            "resourceLocation": "minecraft:terracotta"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__clay",
+          "damage": 0,
+          "item": "clay",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:clay"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Clay",
+          "count": 1,
+          "resourceLocation": "minecraft:clay"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:terracotta",
+    "type": "smelting",
+    "experience": "0.35",
+    "cookingTime": "200",
+    "group": ""
+  },
+  {
+    "result": {
       "uid": "minecraft__iron_ingot",
       "damage": 0,
       "item": "iron_ingot",
@@ -5060,93 +5060,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__yellow_glazed_terracotta",
-      "damage": 0,
-      "item": "yellow_glazed_terracotta",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:yellow_glazed_terracotta"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Yellow Glazed Terracotta",
-      "count": 1,
-      "resourceLocation": "minecraft:yellow_glazed_terracotta"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__yellow_terracotta",
-            "damage": 0,
-            "item": "yellow_terracotta",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:yellow_terracotta"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Yellow Terracotta",
-            "count": 1,
-            "resourceLocation": "minecraft:yellow_terracotta"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__yellow_glazed_terracotta",
-            "damage": 0,
-            "item": "yellow_glazed_terracotta",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:yellow_glazed_terracotta"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Yellow Glazed Terracotta",
-            "count": 1,
-            "resourceLocation": "minecraft:yellow_glazed_terracotta"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__yellow_terracotta",
-          "damage": 0,
-          "item": "yellow_terracotta",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:yellow_terracotta"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Yellow Terracotta",
-          "count": 1,
-          "resourceLocation": "minecraft:yellow_terracotta"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:yellow_glazed_terracotta",
-    "type": "smelting",
-    "experience": "0.1",
-    "cookingTime": "200",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__redstone",
       "damage": 0,
       "item": "redstone",
@@ -5231,6 +5144,93 @@
     "experience": "0.7",
     "cookingTime": "200",
     "group": "redstone"
+  },
+  {
+    "result": {
+      "uid": "minecraft__yellow_glazed_terracotta",
+      "damage": 0,
+      "item": "yellow_glazed_terracotta",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:yellow_glazed_terracotta"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Yellow Glazed Terracotta",
+      "count": 1,
+      "resourceLocation": "minecraft:yellow_glazed_terracotta"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__yellow_terracotta",
+            "damage": 0,
+            "item": "yellow_terracotta",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:yellow_terracotta"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Yellow Terracotta",
+            "count": 1,
+            "resourceLocation": "minecraft:yellow_terracotta"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__yellow_glazed_terracotta",
+            "damage": 0,
+            "item": "yellow_glazed_terracotta",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:yellow_glazed_terracotta"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Yellow Glazed Terracotta",
+            "count": 1,
+            "resourceLocation": "minecraft:yellow_glazed_terracotta"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__yellow_terracotta",
+          "damage": 0,
+          "item": "yellow_terracotta",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:yellow_terracotta"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Yellow Terracotta",
+          "count": 1,
+          "resourceLocation": "minecraft:yellow_terracotta"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:yellow_glazed_terracotta",
+    "type": "smelting",
+    "experience": "0.1",
+    "cookingTime": "200",
+    "group": ""
   },
   {
     "result": {
@@ -5321,93 +5321,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__dried_kelp",
-      "damage": 0,
-      "item": "dried_kelp",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:dried_kelp"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Dried Kelp",
-      "count": 1,
-      "resourceLocation": "minecraft:dried_kelp"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__kelp",
-            "damage": 0,
-            "item": "kelp",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:kelp"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Kelp",
-            "count": 1,
-            "resourceLocation": "minecraft:kelp"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__dried_kelp",
-            "damage": 0,
-            "item": "dried_kelp",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:dried_kelp"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Dried Kelp",
-            "count": 1,
-            "resourceLocation": "minecraft:dried_kelp"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__kelp",
-          "damage": 0,
-          "item": "kelp",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:kelp"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Kelp",
-          "count": 1,
-          "resourceLocation": "minecraft:kelp"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:dried_kelp_from_smelting",
-    "type": "smelting",
-    "experience": "0.1",
-    "cookingTime": "200",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__green_glazed_terracotta",
       "damage": 0,
       "item": "green_glazed_terracotta",
@@ -5488,6 +5401,93 @@
     },
     "_type": "SmeltingRecipe",
     "id": "minecraft:green_glazed_terracotta",
+    "type": "smelting",
+    "experience": "0.1",
+    "cookingTime": "200",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__dried_kelp",
+      "damage": 0,
+      "item": "dried_kelp",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:dried_kelp"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Dried Kelp",
+      "count": 1,
+      "resourceLocation": "minecraft:dried_kelp"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__kelp",
+            "damage": 0,
+            "item": "kelp",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:kelp"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Kelp",
+            "count": 1,
+            "resourceLocation": "minecraft:kelp"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__dried_kelp",
+            "damage": 0,
+            "item": "dried_kelp",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:dried_kelp"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Dried Kelp",
+            "count": 1,
+            "resourceLocation": "minecraft:dried_kelp"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__kelp",
+          "damage": 0,
+          "item": "kelp",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:kelp"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Kelp",
+          "count": 1,
+          "resourceLocation": "minecraft:kelp"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:dried_kelp_from_smelting",
     "type": "smelting",
     "experience": "0.1",
     "cookingTime": "200",
@@ -7320,93 +7320,6 @@
   },
   {
     "result": {
-      "uid": "minecraft__diamond",
-      "damage": 0,
-      "item": "diamond",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:diamond"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Diamond",
-      "count": 1,
-      "resourceLocation": "minecraft:diamond"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__deepslate_diamond_ore",
-            "damage": 0,
-            "item": "deepslate_diamond_ore",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:deepslate_diamond_ore"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Deepslate Diamond Ore",
-            "count": 1,
-            "resourceLocation": "minecraft:deepslate_diamond_ore"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 19,
-        "items": [
-          {
-            "uid": "minecraft__diamond",
-            "damage": 0,
-            "item": "diamond",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:diamond"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Diamond",
-            "count": 1,
-            "resourceLocation": "minecraft:diamond"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__deepslate_diamond_ore",
-          "damage": 0,
-          "item": "deepslate_diamond_ore",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:deepslate_diamond_ore"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Deepslate Diamond Ore",
-          "count": 1,
-          "resourceLocation": "minecraft:deepslate_diamond_ore"
-        }
-      ]
-    },
-    "_type": "SmeltingRecipe",
-    "id": "minecraft:diamond_from_smelting_deepslate_diamond_ore",
-    "type": "smelting",
-    "experience": "1.0",
-    "cookingTime": "200",
-    "group": "diamond"
-  },
-  {
-    "result": {
       "uid": "minecraft__cooked_chicken",
       "damage": 0,
       "item": "cooked_chicken",
@@ -7491,6 +7404,93 @@
     "experience": "0.35",
     "cookingTime": "200",
     "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__diamond",
+      "damage": 0,
+      "item": "diamond",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:diamond"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Diamond",
+      "count": 1,
+      "resourceLocation": "minecraft:diamond"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__deepslate_diamond_ore",
+            "damage": 0,
+            "item": "deepslate_diamond_ore",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:deepslate_diamond_ore"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Deepslate Diamond Ore",
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_diamond_ore"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 19,
+        "items": [
+          {
+            "uid": "minecraft__diamond",
+            "damage": 0,
+            "item": "diamond",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:diamond"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Diamond",
+            "count": 1,
+            "resourceLocation": "minecraft:diamond"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__deepslate_diamond_ore",
+          "damage": 0,
+          "item": "deepslate_diamond_ore",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:deepslate_diamond_ore"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Deepslate Diamond Ore",
+          "count": 1,
+          "resourceLocation": "minecraft:deepslate_diamond_ore"
+        }
+      ]
+    },
+    "_type": "SmeltingRecipe",
+    "id": "minecraft:diamond_from_smelting_deepslate_diamond_ore",
+    "type": "smelting",
+    "experience": "1.0",
+    "cookingTime": "200",
+    "group": "diamond"
   },
   {
     "result": {

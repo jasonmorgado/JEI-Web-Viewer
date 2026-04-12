@@ -1,93 +1,6 @@
 [
   {
     "result": {
-      "uid": "minecraft__cooked_rabbit",
-      "damage": 0,
-      "item": "cooked_rabbit",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:cooked_rabbit"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Cooked Rabbit",
-      "count": 1,
-      "resourceLocation": "minecraft:cooked_rabbit"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 1,
-        "items": [
-          {
-            "uid": "minecraft__rabbit",
-            "damage": 0,
-            "item": "rabbit",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:rabbit"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Raw Rabbit",
-            "count": 1,
-            "resourceLocation": "minecraft:rabbit"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__cooked_rabbit",
-            "damage": 0,
-            "item": "cooked_rabbit",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cooked_rabbit"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cooked Rabbit",
-            "count": 1,
-            "resourceLocation": "minecraft:cooked_rabbit"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__rabbit",
-          "damage": 0,
-          "item": "rabbit",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:rabbit"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Raw Rabbit",
-          "count": 1,
-          "resourceLocation": "minecraft:rabbit"
-        }
-      ]
-    },
-    "_type": "CampfireCookingRecipe",
-    "id": "minecraft:cooked_rabbit_from_campfire_cooking",
-    "type": "campfire_cooking",
-    "experience": "0.35",
-    "cookingTime": "600",
-    "group": ""
-  },
-  {
-    "result": {
       "uid": "minecraft__dried_kelp",
       "damage": 0,
       "item": "dried_kelp",
@@ -175,18 +88,18 @@
   },
   {
     "result": {
-      "uid": "minecraft__cooked_salmon",
+      "uid": "minecraft__cooked_rabbit",
       "damage": 0,
-      "item": "cooked_salmon",
+      "item": "cooked_rabbit",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:cooked_salmon"
+        "id": "minecraft:cooked_rabbit"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Cooked Salmon",
+      "name": "Cooked Rabbit",
       "count": 1,
-      "resourceLocation": "minecraft:cooked_salmon"
+      "resourceLocation": "minecraft:cooked_rabbit"
     },
     "slots": [
       {
@@ -195,18 +108,18 @@
         "y": 1,
         "items": [
           {
-            "uid": "minecraft__salmon",
+            "uid": "minecraft__rabbit",
             "damage": 0,
-            "item": "salmon",
+            "item": "rabbit",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:salmon"
+              "id": "minecraft:rabbit"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Raw Salmon",
+            "name": "Raw Rabbit",
             "count": 1,
-            "resourceLocation": "minecraft:salmon"
+            "resourceLocation": "minecraft:rabbit"
           }
         ],
         "fluids": []
@@ -217,18 +130,18 @@
         "y": 9,
         "items": [
           {
-            "uid": "minecraft__cooked_salmon",
+            "uid": "minecraft__cooked_rabbit",
             "damage": 0,
-            "item": "cooked_salmon",
+            "item": "cooked_rabbit",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:cooked_salmon"
+              "id": "minecraft:cooked_rabbit"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Cooked Salmon",
+            "name": "Cooked Rabbit",
             "count": 1,
-            "resourceLocation": "minecraft:cooked_salmon"
+            "resourceLocation": "minecraft:cooked_rabbit"
           }
         ],
         "fluids": []
@@ -238,23 +151,110 @@
       "_type": "Ingredient",
       "items": [
         {
-          "uid": "minecraft__salmon",
+          "uid": "minecraft__rabbit",
           "damage": 0,
-          "item": "salmon",
+          "item": "rabbit",
           "capNBT": {
             "Count": "1b",
-            "id": "minecraft:salmon"
+            "id": "minecraft:rabbit"
           },
           "maxDamage": 0,
           "_type": "ItemStack",
-          "name": "Raw Salmon",
+          "name": "Raw Rabbit",
           "count": 1,
-          "resourceLocation": "minecraft:salmon"
+          "resourceLocation": "minecraft:rabbit"
         }
       ]
     },
     "_type": "CampfireCookingRecipe",
-    "id": "minecraft:cooked_salmon_from_campfire_cooking",
+    "id": "minecraft:cooked_rabbit_from_campfire_cooking",
+    "type": "campfire_cooking",
+    "experience": "0.35",
+    "cookingTime": "600",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__baked_potato",
+      "damage": 0,
+      "item": "baked_potato",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:baked_potato"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Baked Potato",
+      "count": 1,
+      "resourceLocation": "minecraft:baked_potato"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 1,
+        "items": [
+          {
+            "uid": "minecraft__potato",
+            "damage": 0,
+            "item": "potato",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:potato"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Potato",
+            "count": 1,
+            "resourceLocation": "minecraft:potato"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__baked_potato",
+            "damage": 0,
+            "item": "baked_potato",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:baked_potato"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Baked Potato",
+            "count": 1,
+            "resourceLocation": "minecraft:baked_potato"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__potato",
+          "damage": 0,
+          "item": "potato",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:potato"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Potato",
+          "count": 1,
+          "resourceLocation": "minecraft:potato"
+        }
+      ]
+    },
+    "_type": "CampfireCookingRecipe",
+    "id": "minecraft:baked_potato_from_campfire_cooking",
     "type": "campfire_cooking",
     "experience": "0.35",
     "cookingTime": "600",
@@ -349,18 +349,18 @@
   },
   {
     "result": {
-      "uid": "minecraft__baked_potato",
+      "uid": "minecraft__cooked_salmon",
       "damage": 0,
-      "item": "baked_potato",
+      "item": "cooked_salmon",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:baked_potato"
+        "id": "minecraft:cooked_salmon"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Baked Potato",
+      "name": "Cooked Salmon",
       "count": 1,
-      "resourceLocation": "minecraft:baked_potato"
+      "resourceLocation": "minecraft:cooked_salmon"
     },
     "slots": [
       {
@@ -369,18 +369,18 @@
         "y": 1,
         "items": [
           {
-            "uid": "minecraft__potato",
+            "uid": "minecraft__salmon",
             "damage": 0,
-            "item": "potato",
+            "item": "salmon",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:potato"
+              "id": "minecraft:salmon"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Potato",
+            "name": "Raw Salmon",
             "count": 1,
-            "resourceLocation": "minecraft:potato"
+            "resourceLocation": "minecraft:salmon"
           }
         ],
         "fluids": []
@@ -391,18 +391,18 @@
         "y": 9,
         "items": [
           {
-            "uid": "minecraft__baked_potato",
+            "uid": "minecraft__cooked_salmon",
             "damage": 0,
-            "item": "baked_potato",
+            "item": "cooked_salmon",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:baked_potato"
+              "id": "minecraft:cooked_salmon"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Baked Potato",
+            "name": "Cooked Salmon",
             "count": 1,
-            "resourceLocation": "minecraft:baked_potato"
+            "resourceLocation": "minecraft:cooked_salmon"
           }
         ],
         "fluids": []
@@ -412,23 +412,23 @@
       "_type": "Ingredient",
       "items": [
         {
-          "uid": "minecraft__potato",
+          "uid": "minecraft__salmon",
           "damage": 0,
-          "item": "potato",
+          "item": "salmon",
           "capNBT": {
             "Count": "1b",
-            "id": "minecraft:potato"
+            "id": "minecraft:salmon"
           },
           "maxDamage": 0,
           "_type": "ItemStack",
-          "name": "Potato",
+          "name": "Raw Salmon",
           "count": 1,
-          "resourceLocation": "minecraft:potato"
+          "resourceLocation": "minecraft:salmon"
         }
       ]
     },
     "_type": "CampfireCookingRecipe",
-    "id": "minecraft:baked_potato_from_campfire_cooking",
+    "id": "minecraft:cooked_salmon_from_campfire_cooking",
     "type": "campfire_cooking",
     "experience": "0.35",
     "cookingTime": "600",

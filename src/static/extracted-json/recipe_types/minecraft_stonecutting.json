@@ -80,7 +80,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:blackstone_stairs_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -166,7 +166,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -252,7 +252,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:blackstone_wall_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -338,7 +338,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:diorite_wall_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -424,7 +424,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -510,7 +510,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:weathered_cut_copper_slab_from_weathered_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -596,7 +596,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_slab_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -682,7 +682,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_granite_stairs_from_polished_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -768,7 +768,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:granite_slab_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -854,7 +854,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:granite_stairs_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -940,7 +940,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1026,7 +1026,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1112,7 +1112,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_stairs_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1198,7 +1198,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_stairs_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1284,7 +1284,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_slab_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1370,7 +1370,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_polished_blackstone_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1456,7 +1456,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:diorite_stairs_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1542,94 +1542,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_sandstone_from_sandstone_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__stone_stairs",
-      "damage": 0,
-      "item": "stone_stairs",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:stone_stairs"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Stone Stairs",
-      "count": 1,
-      "resourceLocation": "minecraft:stone_stairs"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone",
-            "damage": 0,
-            "item": "stone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone",
-            "count": 1,
-            "resourceLocation": "minecraft:stone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone_stairs",
-            "damage": 0,
-            "item": "stone_stairs",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone_stairs"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone Stairs",
-            "count": 1,
-            "resourceLocation": "minecraft:stone_stairs"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__stone",
-          "damage": 0,
-          "item": "stone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:stone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Stone",
-          "count": 1,
-          "resourceLocation": "minecraft:stone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:stone_stairs_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -1714,8 +1628,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__stone_stairs",
+      "damage": 0,
+      "item": "stone_stairs",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:stone_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Stone Stairs",
+      "count": 1,
+      "resourceLocation": "minecraft:stone_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone",
+            "damage": 0,
+            "item": "stone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone",
+            "count": 1,
+            "resourceLocation": "minecraft:stone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone_stairs",
+            "damage": 0,
+            "item": "stone_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone Stairs",
+            "count": 1,
+            "resourceLocation": "minecraft:stone_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__stone",
+          "damage": 0,
+          "item": "stone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:stone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Stone",
+          "count": 1,
+          "resourceLocation": "minecraft:stone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:stone_stairs_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -1800,7 +1800,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_slab_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1886,7 +1886,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_andesite_slab_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -1972,7 +1972,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:sandstone_stairs_from_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2058,94 +2058,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:weathered_cut_copper_from_weathered_copper_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_blackstone_brick_wall",
-      "damage": 0,
-      "item": "polished_blackstone_brick_wall",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:polished_blackstone_brick_wall"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Blackstone Brick Wall",
-      "count": 1,
-      "resourceLocation": "minecraft:polished_blackstone_brick_wall"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_blackstone",
-            "damage": 0,
-            "item": "polished_blackstone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_blackstone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Blackstone",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_blackstone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_blackstone_brick_wall",
-            "damage": 0,
-            "item": "polished_blackstone_brick_wall",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_blackstone_brick_wall"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Blackstone Brick Wall",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_blackstone_brick_wall"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__polished_blackstone",
-          "damage": 0,
-          "item": "polished_blackstone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:polished_blackstone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Polished Blackstone",
-          "count": 1,
-          "resourceLocation": "minecraft:polished_blackstone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -2230,8 +2144,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_cut_copper_slab_from_waxed_copper_block_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_blackstone_brick_wall",
+      "damage": 0,
+      "item": "polished_blackstone_brick_wall",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:polished_blackstone_brick_wall"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Blackstone Brick Wall",
+      "count": 1,
+      "resourceLocation": "minecraft:polished_blackstone_brick_wall"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_blackstone",
+            "damage": 0,
+            "item": "polished_blackstone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_blackstone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Blackstone",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_blackstone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_blackstone_brick_wall",
+            "damage": 0,
+            "item": "polished_blackstone_brick_wall",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_blackstone_brick_wall"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Blackstone Brick Wall",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_blackstone_brick_wall"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__polished_blackstone",
+          "damage": 0,
+          "item": "polished_blackstone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:polished_blackstone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Polished Blackstone",
+          "count": 1,
+          "resourceLocation": "minecraft:polished_blackstone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -2316,7 +2316,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_diorite_slab_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2402,7 +2402,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_andesite_stairs_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2488,7 +2488,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2574,7 +2574,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_nether_bricks_from_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2660,7 +2660,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:blackstone_slab_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2746,7 +2746,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2832,7 +2832,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:nether_brick_slab_from_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -2918,7 +2918,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3004,7 +3004,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_copper_slab_from_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3090,7 +3090,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3176,7 +3176,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3262,7 +3262,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:sandstone_wall_from_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3348,7 +3348,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:brick_stairs_from_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3434,7 +3434,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:brick_slab_from_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3520,7 +3520,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_bricks_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3606,7 +3606,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:quartz_slab_from_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3692,7 +3692,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_slab_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3778,7 +3778,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_stairs_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3864,7 +3864,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_granite_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -3950,7 +3950,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_slab_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4036,7 +4036,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_stairs_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4122,7 +4122,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:red_nether_brick_slab_from_red_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4208,7 +4208,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4294,7 +4294,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_bricks_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4380,7 +4380,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:dark_prismarine_slab_from_dark_prismarine_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4466,7 +4466,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4552,7 +4552,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_slab_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4638,7 +4638,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_slab_from_end_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -4724,180 +4724,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_andesite_slab",
-      "damage": 0,
-      "item": "polished_andesite_slab",
-      "capNBT": {
-        "Count": "2b",
-        "id": "minecraft:polished_andesite_slab"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Andesite Slab",
-      "count": 2,
-      "resourceLocation": "minecraft:polished_andesite_slab"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_andesite",
-            "damage": 0,
-            "item": "polished_andesite",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_andesite"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Andesite",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_andesite"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_andesite_slab",
-            "damage": 0,
-            "item": "polished_andesite_slab",
-            "capNBT": {
-              "Count": "2b",
-              "id": "minecraft:polished_andesite_slab"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Andesite Slab",
-            "count": 2,
-            "resourceLocation": "minecraft:polished_andesite_slab"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__polished_andesite",
-          "damage": 0,
-          "item": "polished_andesite",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:polished_andesite"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Polished Andesite",
-          "count": 1,
-          "resourceLocation": "minecraft:polished_andesite"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_andesite_slab_from_polished_andesite_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__chiseled_stone_bricks",
-      "damage": 0,
-      "item": "chiseled_stone_bricks",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:chiseled_stone_bricks"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Chiseled Stone Bricks",
-      "count": 1,
-      "resourceLocation": "minecraft:chiseled_stone_bricks"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone",
-            "damage": 0,
-            "item": "stone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone",
-            "count": 1,
-            "resourceLocation": "minecraft:stone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__chiseled_stone_bricks",
-            "damage": 0,
-            "item": "chiseled_stone_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:chiseled_stone_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Chiseled Stone Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:chiseled_stone_bricks"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__stone",
-          "damage": 0,
-          "item": "stone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:stone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Stone",
-          "count": 1,
-          "resourceLocation": "minecraft:stone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:chiseled_stone_bricks_stone_from_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -4982,8 +4810,180 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:red_sandstone_wall_from_red_sandstone_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__chiseled_stone_bricks",
+      "damage": 0,
+      "item": "chiseled_stone_bricks",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:chiseled_stone_bricks"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Chiseled Stone Bricks",
+      "count": 1,
+      "resourceLocation": "minecraft:chiseled_stone_bricks"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone",
+            "damage": 0,
+            "item": "stone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone",
+            "count": 1,
+            "resourceLocation": "minecraft:stone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__chiseled_stone_bricks",
+            "damage": 0,
+            "item": "chiseled_stone_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:chiseled_stone_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Chiseled Stone Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:chiseled_stone_bricks"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__stone",
+          "damage": 0,
+          "item": "stone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:stone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Stone",
+          "count": 1,
+          "resourceLocation": "minecraft:stone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:chiseled_stone_bricks_stone_from_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_andesite_slab",
+      "damage": 0,
+      "item": "polished_andesite_slab",
+      "capNBT": {
+        "Count": "2b",
+        "id": "minecraft:polished_andesite_slab"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Andesite Slab",
+      "count": 2,
+      "resourceLocation": "minecraft:polished_andesite_slab"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_andesite",
+            "damage": 0,
+            "item": "polished_andesite",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_andesite"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Andesite",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_andesite"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_andesite_slab",
+            "damage": 0,
+            "item": "polished_andesite_slab",
+            "capNBT": {
+              "Count": "2b",
+              "id": "minecraft:polished_andesite_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Andesite Slab",
+            "count": 2,
+            "resourceLocation": "minecraft:polished_andesite_slab"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__polished_andesite",
+          "damage": 0,
+          "item": "polished_andesite",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:polished_andesite"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Polished Andesite",
+          "count": 1,
+          "resourceLocation": "minecraft:polished_andesite"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_andesite_slab_from_polished_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5068,94 +5068,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_wall_from_blackstone_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_blackstone_wall",
-      "damage": 0,
-      "item": "polished_blackstone_wall",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:polished_blackstone_wall"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Blackstone Wall",
-      "count": 1,
-      "resourceLocation": "minecraft:polished_blackstone_wall"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_blackstone",
-            "damage": 0,
-            "item": "polished_blackstone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_blackstone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Blackstone",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_blackstone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_blackstone_wall",
-            "damage": 0,
-            "item": "polished_blackstone_wall",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_blackstone_wall"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Blackstone Wall",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_blackstone_wall"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__polished_blackstone",
-          "damage": 0,
-          "item": "polished_blackstone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:polished_blackstone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Polished Blackstone",
-          "count": 1,
-          "resourceLocation": "minecraft:polished_blackstone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_blackstone_wall_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5240,8 +5154,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:sandstone_slab_from_sandstone_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_blackstone_wall",
+      "damage": 0,
+      "item": "polished_blackstone_wall",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:polished_blackstone_wall"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Blackstone Wall",
+      "count": 1,
+      "resourceLocation": "minecraft:polished_blackstone_wall"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_blackstone",
+            "damage": 0,
+            "item": "polished_blackstone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_blackstone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Blackstone",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_blackstone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_blackstone_wall",
+            "damage": 0,
+            "item": "polished_blackstone_wall",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_blackstone_wall"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Blackstone Wall",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_blackstone_wall"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__polished_blackstone",
+          "damage": 0,
+          "item": "polished_blackstone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:polished_blackstone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Polished Blackstone",
+          "count": 1,
+          "resourceLocation": "minecraft:polished_blackstone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_blackstone_wall_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5326,7 +5326,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:purpur_slab_from_purpur_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -5412,94 +5412,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mud_brick_wall_from_mud_bricks_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_blackstone_brick_stairs",
-      "damage": 0,
-      "item": "polished_blackstone_brick_stairs",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:polished_blackstone_brick_stairs"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Blackstone Brick Stairs",
-      "count": 1,
-      "resourceLocation": "minecraft:polished_blackstone_brick_stairs"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__blackstone",
-            "damage": 0,
-            "item": "blackstone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:blackstone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Blackstone",
-            "count": 1,
-            "resourceLocation": "minecraft:blackstone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_blackstone_brick_stairs",
-            "damage": 0,
-            "item": "polished_blackstone_brick_stairs",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_blackstone_brick_stairs"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Blackstone Brick Stairs",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_blackstone_brick_stairs"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__blackstone",
-          "damage": 0,
-          "item": "blackstone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:blackstone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Blackstone",
-          "count": 1,
-          "resourceLocation": "minecraft:blackstone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5584,8 +5498,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_blackstone_brick_stairs",
+      "damage": 0,
+      "item": "polished_blackstone_brick_stairs",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:polished_blackstone_brick_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Blackstone Brick Stairs",
+      "count": 1,
+      "resourceLocation": "minecraft:polished_blackstone_brick_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__blackstone",
+            "damage": 0,
+            "item": "blackstone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:blackstone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Blackstone",
+            "count": 1,
+            "resourceLocation": "minecraft:blackstone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_blackstone_brick_stairs",
+            "damage": 0,
+            "item": "polished_blackstone_brick_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_blackstone_brick_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Blackstone Brick Stairs",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_blackstone_brick_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__blackstone",
+          "damage": 0,
+          "item": "blackstone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:blackstone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Blackstone",
+          "count": 1,
+          "resourceLocation": "minecraft:blackstone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5670,94 +5670,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_slab_from_polished_deepslate_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_granite_stairs",
-      "damage": 0,
-      "item": "polished_granite_stairs",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:polished_granite_stairs"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Granite Stairs",
-      "count": 1,
-      "resourceLocation": "minecraft:polished_granite_stairs"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__granite",
-            "damage": 0,
-            "item": "granite",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:granite"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Granite",
-            "count": 1,
-            "resourceLocation": "minecraft:granite"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_granite_stairs",
-            "damage": 0,
-            "item": "polished_granite_stairs",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:polished_granite_stairs"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Granite Stairs",
-            "count": 1,
-            "resourceLocation": "minecraft:polished_granite_stairs"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__granite",
-          "damage": 0,
-          "item": "granite",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:granite"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Granite",
-          "count": 1,
-          "resourceLocation": "minecraft:granite"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_granite_stairs_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5842,8 +5756,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_sandstone_from_sandstone_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_granite_stairs",
+      "damage": 0,
+      "item": "polished_granite_stairs",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:polished_granite_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Granite Stairs",
+      "count": 1,
+      "resourceLocation": "minecraft:polished_granite_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__granite",
+            "damage": 0,
+            "item": "granite",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:granite"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Granite",
+            "count": 1,
+            "resourceLocation": "minecraft:granite"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_granite_stairs",
+            "damage": 0,
+            "item": "polished_granite_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:polished_granite_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Granite Stairs",
+            "count": 1,
+            "resourceLocation": "minecraft:polished_granite_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__granite",
+          "damage": 0,
+          "item": "granite",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:granite"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Granite",
+          "count": 1,
+          "resourceLocation": "minecraft:granite"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_granite_stairs_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -5928,7 +5928,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:red_sandstone_slab_from_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6014,7 +6014,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6100,94 +6100,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:red_nether_brick_stairs_from_red_nether_bricks_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__stone_brick_stairs",
-      "damage": 0,
-      "item": "stone_brick_stairs",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:stone_brick_stairs"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Stone Brick Stairs",
-      "count": 1,
-      "resourceLocation": "minecraft:stone_brick_stairs"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone_bricks",
-            "damage": 0,
-            "item": "stone_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:stone_bricks"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone_brick_stairs",
-            "damage": 0,
-            "item": "stone_brick_stairs",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone_brick_stairs"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone Brick Stairs",
-            "count": 1,
-            "resourceLocation": "minecraft:stone_brick_stairs"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__stone_bricks",
-          "damage": 0,
-          "item": "stone_bricks",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:stone_bricks"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Stone Bricks",
-          "count": 1,
-          "resourceLocation": "minecraft:stone_bricks"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -6272,8 +6186,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tiles_from_polished_deepslate_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__stone_brick_stairs",
+      "damage": 0,
+      "item": "stone_brick_stairs",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:stone_brick_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Stone Brick Stairs",
+      "count": 1,
+      "resourceLocation": "minecraft:stone_brick_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone_bricks",
+            "damage": 0,
+            "item": "stone_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:stone_bricks"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone_brick_stairs",
+            "damage": 0,
+            "item": "stone_brick_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone_brick_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone Brick Stairs",
+            "count": 1,
+            "resourceLocation": "minecraft:stone_brick_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__stone_bricks",
+          "damage": 0,
+          "item": "stone_bricks",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:stone_bricks"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Stone Bricks",
+          "count": 1,
+          "resourceLocation": "minecraft:stone_bricks"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -6358,7 +6358,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_wall_from_end_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6444,7 +6444,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_copper_stairs_from_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6530,7 +6530,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6616,7 +6616,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tiles_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6702,7 +6702,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_slab_from_deepslate_tiles_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6788,7 +6788,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:prismarine_brick_slab_from_prismarine_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -6874,94 +6874,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_granite_slab",
-      "damage": 0,
-      "item": "polished_granite_slab",
-      "capNBT": {
-        "Count": "2b",
-        "id": "minecraft:polished_granite_slab"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Granite Slab",
-      "count": 2,
-      "resourceLocation": "minecraft:polished_granite_slab"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__granite",
-            "damage": 0,
-            "item": "granite",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:granite"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Granite",
-            "count": 1,
-            "resourceLocation": "minecraft:granite"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_granite_slab",
-            "damage": 0,
-            "item": "polished_granite_slab",
-            "capNBT": {
-              "Count": "2b",
-              "id": "minecraft:polished_granite_slab"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Granite Slab",
-            "count": 2,
-            "resourceLocation": "minecraft:polished_granite_slab"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__granite",
-          "damage": 0,
-          "item": "granite",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:granite"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Granite",
-          "count": 1,
-          "resourceLocation": "minecraft:granite"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_granite_slab_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -7046,8 +6960,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:prismarine_brick_stairs_from_prismarine_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_granite_slab",
+      "damage": 0,
+      "item": "polished_granite_slab",
+      "capNBT": {
+        "Count": "2b",
+        "id": "minecraft:polished_granite_slab"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Granite Slab",
+      "count": 2,
+      "resourceLocation": "minecraft:polished_granite_slab"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__granite",
+            "damage": 0,
+            "item": "granite",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:granite"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Granite",
+            "count": 1,
+            "resourceLocation": "minecraft:granite"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_granite_slab",
+            "damage": 0,
+            "item": "polished_granite_slab",
+            "capNBT": {
+              "Count": "2b",
+              "id": "minecraft:polished_granite_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Granite Slab",
+            "count": 2,
+            "resourceLocation": "minecraft:polished_granite_slab"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__granite",
+          "damage": 0,
+          "item": "granite",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:granite"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Granite",
+          "count": 1,
+          "resourceLocation": "minecraft:granite"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_granite_slab_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -7132,7 +7132,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_wall_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7218,7 +7218,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_wall_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7304,7 +7304,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7390,7 +7390,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:diorite_slab_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7476,7 +7476,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_copper_from_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7562,7 +7562,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:andesite_wall_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7648,7 +7648,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_slab_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7734,7 +7734,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_andesite_stairs_from_polished_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7820,7 +7820,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_wall_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7906,7 +7906,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_wall_from_deepslate_tiles_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -7992,7 +7992,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_bricks_from_end_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -8078,7 +8078,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_stairs_from_deepslate_tiles_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -8164,7 +8164,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -8250,7 +8250,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -8336,94 +8336,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_stairs_from_cobbled_deepslate_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__stone_bricks",
-      "damage": 0,
-      "item": "stone_bricks",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:stone_bricks"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Stone Bricks",
-      "count": 1,
-      "resourceLocation": "minecraft:stone_bricks"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone",
-            "damage": 0,
-            "item": "stone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone",
-            "count": 1,
-            "resourceLocation": "minecraft:stone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__stone_bricks",
-            "damage": 0,
-            "item": "stone_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:stone_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Stone Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:stone_bricks"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__stone",
-          "damage": 0,
-          "item": "stone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:stone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Stone",
-          "count": 1,
-          "resourceLocation": "minecraft:stone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:stone_bricks_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -8508,8 +8422,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobblestone_slab_from_cobblestone_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__stone_bricks",
+      "damage": 0,
+      "item": "stone_bricks",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:stone_bricks"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Stone Bricks",
+      "count": 1,
+      "resourceLocation": "minecraft:stone_bricks"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone",
+            "damage": 0,
+            "item": "stone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone",
+            "count": 1,
+            "resourceLocation": "minecraft:stone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__stone_bricks",
+            "damage": 0,
+            "item": "stone_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:stone_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Stone Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:stone_bricks"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__stone",
+          "damage": 0,
+          "item": "stone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:stone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Stone",
+          "count": 1,
+          "resourceLocation": "minecraft:stone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:stone_bricks_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -8594,7 +8594,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -8680,94 +8680,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:quartz_bricks_from_quartz_block_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__oxidized_cut_copper",
-      "damage": 0,
-      "item": "oxidized_cut_copper",
-      "capNBT": {
-        "Count": "4b",
-        "id": "minecraft:oxidized_cut_copper"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Oxidized Cut Copper",
-      "count": 4,
-      "resourceLocation": "minecraft:oxidized_cut_copper"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__oxidized_copper",
-            "damage": 0,
-            "item": "oxidized_copper",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:oxidized_copper"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Oxidized Copper",
-            "count": 1,
-            "resourceLocation": "minecraft:oxidized_copper"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__oxidized_cut_copper",
-            "damage": 0,
-            "item": "oxidized_cut_copper",
-            "capNBT": {
-              "Count": "4b",
-              "id": "minecraft:oxidized_cut_copper"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Oxidized Cut Copper",
-            "count": 4,
-            "resourceLocation": "minecraft:oxidized_cut_copper"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__oxidized_copper",
-          "damage": 0,
-          "item": "oxidized_copper",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:oxidized_copper"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Oxidized Copper",
-          "count": 1,
-          "resourceLocation": "minecraft:oxidized_copper"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:oxidized_cut_copper_from_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -8852,8 +8766,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_quartz_slab_from_smooth_quartz_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__oxidized_cut_copper",
+      "damage": 0,
+      "item": "oxidized_cut_copper",
+      "capNBT": {
+        "Count": "4b",
+        "id": "minecraft:oxidized_cut_copper"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Oxidized Cut Copper",
+      "count": 4,
+      "resourceLocation": "minecraft:oxidized_cut_copper"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__oxidized_copper",
+            "damage": 0,
+            "item": "oxidized_copper",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:oxidized_copper"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oxidized Copper",
+            "count": 1,
+            "resourceLocation": "minecraft:oxidized_copper"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__oxidized_cut_copper",
+            "damage": 0,
+            "item": "oxidized_cut_copper",
+            "capNBT": {
+              "Count": "4b",
+              "id": "minecraft:oxidized_cut_copper"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Oxidized Cut Copper",
+            "count": 4,
+            "resourceLocation": "minecraft:oxidized_cut_copper"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__oxidized_copper",
+          "damage": 0,
+          "item": "oxidized_copper",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:oxidized_copper"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Oxidized Copper",
+          "count": 1,
+          "resourceLocation": "minecraft:oxidized_copper"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:oxidized_cut_copper_from_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -8938,94 +8938,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:exposed_cut_copper_slab_from_exposed_copper_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__nether_brick_wall",
-      "damage": 0,
-      "item": "nether_brick_wall",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:nether_brick_wall"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Nether Brick Wall",
-      "count": 1,
-      "resourceLocation": "minecraft:nether_brick_wall"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__nether_bricks",
-            "damage": 0,
-            "item": "nether_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:nether_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Nether Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:nether_bricks"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__nether_brick_wall",
-            "damage": 0,
-            "item": "nether_brick_wall",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:nether_brick_wall"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Nether Brick Wall",
-            "count": 1,
-            "resourceLocation": "minecraft:nether_brick_wall"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__nether_bricks",
-          "damage": 0,
-          "item": "nether_bricks",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:nether_bricks"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Nether Bricks",
-          "count": 1,
-          "resourceLocation": "minecraft:nether_bricks"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:nether_brick_wall_from_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -9110,8 +9024,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__nether_brick_wall",
+      "damage": 0,
+      "item": "nether_brick_wall",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:nether_brick_wall"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Nether Brick Wall",
+      "count": 1,
+      "resourceLocation": "minecraft:nether_brick_wall"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__nether_bricks",
+            "damage": 0,
+            "item": "nether_bricks",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:nether_bricks"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Nether Bricks",
+            "count": 1,
+            "resourceLocation": "minecraft:nether_bricks"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__nether_brick_wall",
+            "damage": 0,
+            "item": "nether_brick_wall",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:nether_brick_wall"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Nether Brick Wall",
+            "count": 1,
+            "resourceLocation": "minecraft:nether_brick_wall"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__nether_bricks",
+          "damage": 0,
+          "item": "nether_bricks",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:nether_bricks"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Nether Bricks",
+          "count": 1,
+          "resourceLocation": "minecraft:nether_bricks"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:nether_brick_wall_from_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -9196,7 +9196,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9282,7 +9282,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9368,7 +9368,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_bricks_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9454,7 +9454,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_wall_from_end_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9540,7 +9540,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9626,7 +9626,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:purpur_stairs_from_purpur_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9712,7 +9712,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_bricks_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9798,7 +9798,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_slab_from_deepslate_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9884,7 +9884,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -9970,7 +9970,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:oxidized_cut_copper_slab_from_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10056,7 +10056,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:brick_wall_from_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10142,7 +10142,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10228,7 +10228,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobblestone_stairs_from_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10314,7 +10314,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_copper_stairs_from_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10400,7 +10400,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_stairs_from_end_stone_brick_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10486,7 +10486,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_slab_from_end_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10572,7 +10572,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10658,7 +10658,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10744,7 +10744,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_quartz_block_from_quartz_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10830,7 +10830,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_slab_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -10916,7 +10916,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_stairs_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11002,7 +11002,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_deepslate_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11088,7 +11088,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11174,7 +11174,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_basalt_from_basalt_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11260,94 +11260,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_brick_wall_from_stone_bricks_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__waxed_cut_copper_stairs",
-      "damage": 0,
-      "item": "waxed_cut_copper_stairs",
-      "capNBT": {
-        "Count": "4b",
-        "id": "minecraft:waxed_cut_copper_stairs"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Waxed Cut Copper Stairs",
-      "count": 4,
-      "resourceLocation": "minecraft:waxed_cut_copper_stairs"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__waxed_copper_block",
-            "damage": 0,
-            "item": "waxed_copper_block",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:waxed_copper_block"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Waxed Block of Copper",
-            "count": 1,
-            "resourceLocation": "minecraft:waxed_copper_block"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__waxed_cut_copper_stairs",
-            "damage": 0,
-            "item": "waxed_cut_copper_stairs",
-            "capNBT": {
-              "Count": "4b",
-              "id": "minecraft:waxed_cut_copper_stairs"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Waxed Cut Copper Stairs",
-            "count": 4,
-            "resourceLocation": "minecraft:waxed_cut_copper_stairs"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__waxed_copper_block",
-          "damage": 0,
-          "item": "waxed_copper_block",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:waxed_copper_block"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Waxed Block of Copper",
-          "count": 1,
-          "resourceLocation": "minecraft:waxed_copper_block"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -11432,8 +11346,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_brick_slab_from_stone_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__waxed_cut_copper_stairs",
+      "damage": 0,
+      "item": "waxed_cut_copper_stairs",
+      "capNBT": {
+        "Count": "4b",
+        "id": "minecraft:waxed_cut_copper_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Waxed Cut Copper Stairs",
+      "count": 4,
+      "resourceLocation": "minecraft:waxed_cut_copper_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__waxed_copper_block",
+            "damage": 0,
+            "item": "waxed_copper_block",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:waxed_copper_block"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Waxed Block of Copper",
+            "count": 1,
+            "resourceLocation": "minecraft:waxed_copper_block"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__waxed_cut_copper_stairs",
+            "damage": 0,
+            "item": "waxed_cut_copper_stairs",
+            "capNBT": {
+              "Count": "4b",
+              "id": "minecraft:waxed_cut_copper_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Waxed Cut Copper Stairs",
+            "count": 4,
+            "resourceLocation": "minecraft:waxed_cut_copper_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__waxed_copper_block",
+          "damage": 0,
+          "item": "waxed_copper_block",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:waxed_copper_block"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Waxed Block of Copper",
+          "count": 1,
+          "resourceLocation": "minecraft:waxed_copper_block"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -11518,7 +11518,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_sandstone_stairs_from_smooth_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11604,7 +11604,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:prismarine_stairs_from_prismarine_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11690,7 +11690,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_copper_slab_from_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11776,7 +11776,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:granite_wall_from_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11862,7 +11862,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:quartz_stairs_from_quartz_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -11948,7 +11948,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:exposed_cut_copper_stairs_from_exposed_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12034,7 +12034,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_granite_slab_from_polished_granite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12120,7 +12120,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_quartz_stairs_from_smooth_quartz_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12206,7 +12206,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:dark_prismarine_stairs_from_dark_prismarine_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12292,7 +12292,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12378,94 +12378,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_polished_blackstone_from_polished_blackstone_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__red_nether_brick_wall",
-      "damage": 0,
-      "item": "red_nether_brick_wall",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:red_nether_brick_wall"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Red Nether Brick Wall",
-      "count": 1,
-      "resourceLocation": "minecraft:red_nether_brick_wall"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__red_nether_bricks",
-            "damage": 0,
-            "item": "red_nether_bricks",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:red_nether_bricks"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Red Nether Bricks",
-            "count": 1,
-            "resourceLocation": "minecraft:red_nether_bricks"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__red_nether_brick_wall",
-            "damage": 0,
-            "item": "red_nether_brick_wall",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:red_nether_brick_wall"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Red Nether Brick Wall",
-            "count": 1,
-            "resourceLocation": "minecraft:red_nether_brick_wall"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__red_nether_bricks",
-          "damage": 0,
-          "item": "red_nether_bricks",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:red_nether_bricks"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Red Nether Bricks",
-          "count": 1,
-          "resourceLocation": "minecraft:red_nether_bricks"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:red_nether_brick_wall_from_red_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -12550,25 +12464,25 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:purpur_pillar_from_purpur_block_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
   {
     "result": {
-      "uid": "minecraft__red_sandstone_stairs",
+      "uid": "minecraft__red_nether_brick_wall",
       "damage": 0,
-      "item": "red_sandstone_stairs",
+      "item": "red_nether_brick_wall",
       "capNBT": {
         "Count": "1b",
-        "id": "minecraft:red_sandstone_stairs"
+        "id": "minecraft:red_nether_brick_wall"
       },
       "maxDamage": 0,
       "_type": "ItemStack",
-      "name": "Red Sandstone Stairs",
+      "name": "Red Nether Brick Wall",
       "count": 1,
-      "resourceLocation": "minecraft:red_sandstone_stairs"
+      "resourceLocation": "minecraft:red_nether_brick_wall"
     },
     "slots": [
       {
@@ -12577,18 +12491,18 @@
         "y": 9,
         "items": [
           {
-            "uid": "minecraft__red_sandstone",
+            "uid": "minecraft__red_nether_bricks",
             "damage": 0,
-            "item": "red_sandstone",
+            "item": "red_nether_bricks",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:red_sandstone"
+              "id": "minecraft:red_nether_bricks"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Red Sandstone",
+            "name": "Red Nether Bricks",
             "count": 1,
-            "resourceLocation": "minecraft:red_sandstone"
+            "resourceLocation": "minecraft:red_nether_bricks"
           }
         ],
         "fluids": []
@@ -12599,18 +12513,18 @@
         "y": 9,
         "items": [
           {
-            "uid": "minecraft__red_sandstone_stairs",
+            "uid": "minecraft__red_nether_brick_wall",
             "damage": 0,
-            "item": "red_sandstone_stairs",
+            "item": "red_nether_brick_wall",
             "capNBT": {
               "Count": "1b",
-              "id": "minecraft:red_sandstone_stairs"
+              "id": "minecraft:red_nether_brick_wall"
             },
             "maxDamage": 0,
             "_type": "ItemStack",
-            "name": "Red Sandstone Stairs",
+            "name": "Red Nether Brick Wall",
             "count": 1,
-            "resourceLocation": "minecraft:red_sandstone_stairs"
+            "resourceLocation": "minecraft:red_nether_brick_wall"
           }
         ],
         "fluids": []
@@ -12620,24 +12534,24 @@
       "_type": "Ingredient",
       "items": [
         {
-          "uid": "minecraft__red_sandstone",
+          "uid": "minecraft__red_nether_bricks",
           "damage": 0,
-          "item": "red_sandstone",
+          "item": "red_nether_bricks",
           "capNBT": {
             "Count": "1b",
-            "id": "minecraft:red_sandstone"
+            "id": "minecraft:red_nether_bricks"
           },
           "maxDamage": 0,
           "_type": "ItemStack",
-          "name": "Red Sandstone",
+          "name": "Red Nether Bricks",
           "count": 1,
-          "resourceLocation": "minecraft:red_sandstone"
+          "resourceLocation": "minecraft:red_nether_bricks"
         }
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:red_nether_brick_wall_from_red_nether_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -12722,8 +12636,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__red_sandstone_stairs",
+      "damage": 0,
+      "item": "red_sandstone_stairs",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:red_sandstone_stairs"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Red Sandstone Stairs",
+      "count": 1,
+      "resourceLocation": "minecraft:red_sandstone_stairs"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__red_sandstone",
+            "damage": 0,
+            "item": "red_sandstone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:red_sandstone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Red Sandstone",
+            "count": 1,
+            "resourceLocation": "minecraft:red_sandstone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__red_sandstone_stairs",
+            "damage": 0,
+            "item": "red_sandstone_stairs",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:red_sandstone_stairs"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Red Sandstone Stairs",
+            "count": 1,
+            "resourceLocation": "minecraft:red_sandstone_stairs"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__red_sandstone",
+          "damage": 0,
+          "item": "red_sandstone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:red_sandstone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Red Sandstone",
+          "count": 1,
+          "resourceLocation": "minecraft:red_sandstone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -12808,7 +12808,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:andesite_slab_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12894,7 +12894,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_diorite_stairs_from_polished_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -12980,7 +12980,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13066,7 +13066,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_sandstone_slab_from_smooth_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13152,7 +13152,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_brick_stairs_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13238,7 +13238,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13324,7 +13324,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_wall_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13410,7 +13410,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13496,7 +13496,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:end_stone_brick_stairs_from_end_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13582,7 +13582,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_diorite_stairs_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13668,7 +13668,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_red_sandstone_slab_from_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13754,7 +13754,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:weathered_cut_copper_stairs_from_weathered_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13840,7 +13840,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_wall_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -13926,7 +13926,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_brick_stairs_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14012,7 +14012,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_wall_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14098,7 +14098,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14184,7 +14184,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_diorite_from_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14270,7 +14270,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:prismarine_slab_from_prismarine_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14356,7 +14356,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14442,94 +14442,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:prismarine_wall_from_prismarine_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__polished_deepslate_slab",
-      "damage": 0,
-      "item": "polished_deepslate_slab",
-      "capNBT": {
-        "Count": "2b",
-        "id": "minecraft:polished_deepslate_slab"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Polished Deepslate Slab",
-      "count": 2,
-      "resourceLocation": "minecraft:polished_deepslate_slab"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__cobbled_deepslate",
-            "damage": 0,
-            "item": "cobbled_deepslate",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cobbled_deepslate"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cobbled Deepslate",
-            "count": 1,
-            "resourceLocation": "minecraft:cobbled_deepslate"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__polished_deepslate_slab",
-            "damage": 0,
-            "item": "polished_deepslate_slab",
-            "capNBT": {
-              "Count": "2b",
-              "id": "minecraft:polished_deepslate_slab"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Polished Deepslate Slab",
-            "count": 2,
-            "resourceLocation": "minecraft:polished_deepslate_slab"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__cobbled_deepslate",
-          "damage": 0,
-          "item": "cobbled_deepslate",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:cobbled_deepslate"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Cobbled Deepslate",
-          "count": 1,
-          "resourceLocation": "minecraft:cobbled_deepslate"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:polished_deepslate_slab_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -14614,8 +14528,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:quartz_pillar_from_quartz_block_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__polished_deepslate_slab",
+      "damage": 0,
+      "item": "polished_deepslate_slab",
+      "capNBT": {
+        "Count": "2b",
+        "id": "minecraft:polished_deepslate_slab"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Polished Deepslate Slab",
+      "count": 2,
+      "resourceLocation": "minecraft:polished_deepslate_slab"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__cobbled_deepslate",
+            "damage": 0,
+            "item": "cobbled_deepslate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cobbled_deepslate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cobbled Deepslate",
+            "count": 1,
+            "resourceLocation": "minecraft:cobbled_deepslate"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__polished_deepslate_slab",
+            "damage": 0,
+            "item": "polished_deepslate_slab",
+            "capNBT": {
+              "Count": "2b",
+              "id": "minecraft:polished_deepslate_slab"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Polished Deepslate Slab",
+            "count": 2,
+            "resourceLocation": "minecraft:polished_deepslate_slab"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__cobbled_deepslate",
+          "damage": 0,
+          "item": "cobbled_deepslate",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:cobbled_deepslate"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Cobbled Deepslate",
+          "count": 1,
+          "resourceLocation": "minecraft:cobbled_deepslate"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:polished_deepslate_slab_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -14700,7 +14700,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cobblestone_wall_from_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14786,7 +14786,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14872,7 +14872,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_andesite_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -14958,7 +14958,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_stairs_from_polished_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15044,94 +15044,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_wall_from_deepslate_bricks_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__deepslate_tiles",
-      "damage": 0,
-      "item": "deepslate_tiles",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:deepslate_tiles"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Deepslate Tiles",
-      "count": 1,
-      "resourceLocation": "minecraft:deepslate_tiles"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__cobbled_deepslate",
-            "damage": 0,
-            "item": "cobbled_deepslate",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:cobbled_deepslate"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Cobbled Deepslate",
-            "count": 1,
-            "resourceLocation": "minecraft:cobbled_deepslate"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__deepslate_tiles",
-            "damage": 0,
-            "item": "deepslate_tiles",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:deepslate_tiles"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Deepslate Tiles",
-            "count": 1,
-            "resourceLocation": "minecraft:deepslate_tiles"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__cobbled_deepslate",
-          "damage": 0,
-          "item": "cobbled_deepslate",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:cobbled_deepslate"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Cobbled Deepslate",
-          "count": 1,
-          "resourceLocation": "minecraft:cobbled_deepslate"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:deepslate_tiles_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -15216,8 +15130,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mud_brick_slab_from_mud_bricks_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__deepslate_tiles",
+      "damage": 0,
+      "item": "deepslate_tiles",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:deepslate_tiles"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Deepslate Tiles",
+      "count": 1,
+      "resourceLocation": "minecraft:deepslate_tiles"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__cobbled_deepslate",
+            "damage": 0,
+            "item": "cobbled_deepslate",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:cobbled_deepslate"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Cobbled Deepslate",
+            "count": 1,
+            "resourceLocation": "minecraft:cobbled_deepslate"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__deepslate_tiles",
+            "damage": 0,
+            "item": "deepslate_tiles",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:deepslate_tiles"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Deepslate Tiles",
+            "count": 1,
+            "resourceLocation": "minecraft:deepslate_tiles"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__cobbled_deepslate",
+          "damage": 0,
+          "item": "cobbled_deepslate",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:cobbled_deepslate"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Cobbled Deepslate",
+          "count": 1,
+          "resourceLocation": "minecraft:cobbled_deepslate"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:deepslate_tiles_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -15302,94 +15302,8 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_stonecutting",
-    "type": "stonecutting",
-    "group": ""
-  },
-  {
-    "result": {
-      "uid": "minecraft__mossy_cobblestone_wall",
-      "damage": 0,
-      "item": "mossy_cobblestone_wall",
-      "capNBT": {
-        "Count": "1b",
-        "id": "minecraft:mossy_cobblestone_wall"
-      },
-      "maxDamage": 0,
-      "_type": "ItemStack",
-      "name": "Mossy Cobblestone Wall",
-      "count": 1,
-      "resourceLocation": "minecraft:mossy_cobblestone_wall"
-    },
-    "slots": [
-      {
-        "role": "INPUT",
-        "x": 1,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__mossy_cobblestone",
-            "damage": 0,
-            "item": "mossy_cobblestone",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:mossy_cobblestone"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Mossy Cobblestone",
-            "count": 1,
-            "resourceLocation": "minecraft:mossy_cobblestone"
-          }
-        ],
-        "fluids": []
-      },
-      {
-        "role": "OUTPUT",
-        "x": 61,
-        "y": 9,
-        "items": [
-          {
-            "uid": "minecraft__mossy_cobblestone_wall",
-            "damage": 0,
-            "item": "mossy_cobblestone_wall",
-            "capNBT": {
-              "Count": "1b",
-              "id": "minecraft:mossy_cobblestone_wall"
-            },
-            "maxDamage": 0,
-            "_type": "ItemStack",
-            "name": "Mossy Cobblestone Wall",
-            "count": 1,
-            "resourceLocation": "minecraft:mossy_cobblestone_wall"
-          }
-        ],
-        "fluids": []
-      }
-    ],
-    "ingredient": {
-      "_type": "Ingredient",
-      "items": [
-        {
-          "uid": "minecraft__mossy_cobblestone",
-          "damage": 0,
-          "item": "mossy_cobblestone",
-          "capNBT": {
-            "Count": "1b",
-            "id": "minecraft:mossy_cobblestone"
-          },
-          "maxDamage": 0,
-          "_type": "ItemStack",
-          "name": "Mossy Cobblestone",
-          "count": 1,
-          "resourceLocation": "minecraft:mossy_cobblestone"
-        }
-      ]
-    },
-    "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
-    "id": "minecraft:mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -15474,8 +15388,94 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:nether_brick_stairs_from_nether_bricks_stonecutting",
+    "type": "stonecutting",
+    "group": ""
+  },
+  {
+    "result": {
+      "uid": "minecraft__mossy_cobblestone_wall",
+      "damage": 0,
+      "item": "mossy_cobblestone_wall",
+      "capNBT": {
+        "Count": "1b",
+        "id": "minecraft:mossy_cobblestone_wall"
+      },
+      "maxDamage": 0,
+      "_type": "ItemStack",
+      "name": "Mossy Cobblestone Wall",
+      "count": 1,
+      "resourceLocation": "minecraft:mossy_cobblestone_wall"
+    },
+    "slots": [
+      {
+        "role": "INPUT",
+        "x": 1,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__mossy_cobblestone",
+            "damage": 0,
+            "item": "mossy_cobblestone",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mossy_cobblestone"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mossy Cobblestone",
+            "count": 1,
+            "resourceLocation": "minecraft:mossy_cobblestone"
+          }
+        ],
+        "fluids": []
+      },
+      {
+        "role": "OUTPUT",
+        "x": 61,
+        "y": 9,
+        "items": [
+          {
+            "uid": "minecraft__mossy_cobblestone_wall",
+            "damage": 0,
+            "item": "mossy_cobblestone_wall",
+            "capNBT": {
+              "Count": "1b",
+              "id": "minecraft:mossy_cobblestone_wall"
+            },
+            "maxDamage": 0,
+            "_type": "ItemStack",
+            "name": "Mossy Cobblestone Wall",
+            "count": 1,
+            "resourceLocation": "minecraft:mossy_cobblestone_wall"
+          }
+        ],
+        "fluids": []
+      }
+    ],
+    "ingredient": {
+      "_type": "Ingredient",
+      "items": [
+        {
+          "uid": "minecraft__mossy_cobblestone",
+          "damage": 0,
+          "item": "mossy_cobblestone",
+          "capNBT": {
+            "Count": "1b",
+            "id": "minecraft:mossy_cobblestone"
+          },
+          "maxDamage": 0,
+          "_type": "ItemStack",
+          "name": "Mossy Cobblestone",
+          "count": 1,
+          "resourceLocation": "minecraft:mossy_cobblestone"
+        }
+      ]
+    },
+    "_type": "StonecutterRecipe",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
+    "id": "minecraft:mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
   },
@@ -15560,7 +15560,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15646,7 +15646,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15732,7 +15732,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_red_sandstone_from_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15818,7 +15818,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15904,7 +15904,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:deepslate_tile_slab_from_cobbled_deepslate_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -15990,7 +15990,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16076,7 +16076,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:exposed_cut_copper_from_exposed_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16162,7 +16162,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:cut_sandstone_slab_from_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16248,7 +16248,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_wall_from_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16334,7 +16334,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16420,7 +16420,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:smooth_stone_slab_from_smooth_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16506,7 +16506,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_blackstone_stairs_from_polished_blackstone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16592,7 +16592,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16678,7 +16678,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:mud_brick_stairs_from_mud_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16764,7 +16764,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:andesite_stairs_from_andesite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16850,7 +16850,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_brick_slab_from_stone_bricks_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -16936,7 +16936,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:stone_brick_walls_from_stone_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -17022,7 +17022,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_cut_copper_from_waxed_copper_block_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -17108,7 +17108,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -17194,7 +17194,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:polished_diorite_slab_from_polished_diorite_stonecutting",
     "type": "stonecutting",
     "group": ""
@@ -17280,7 +17280,7 @@
       ]
     },
     "_type": "StonecutterRecipe",
-    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@716075a0",
+    "serializer": "net.minecraft.world.item.crafting.SingleItemRecipe$Serializer@5e0236f2",
     "id": "minecraft:chiseled_red_sandstone_from_red_sandstone_stonecutting",
     "type": "stonecutting",
     "group": ""

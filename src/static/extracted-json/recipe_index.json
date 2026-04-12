@@ -11115,8 +11115,8 @@
     "minecraft__copper_ingot": {
       "OUTPUT": [
         0,
-        17,
-        22
+        18,
+        23
       ]
     },
     "minecraft__coal_ore": {
@@ -11139,7 +11139,7 @@
       "OUTPUT": [
         2,
         6,
-        23
+        22
       ]
     },
     "minecraft__deepslate_diamond_ore": {
@@ -11153,25 +11153,25 @@
         12
       ]
     },
-    "minecraft__deepslate_redstone_ore": {
+    "minecraft__nether_quartz_ore": {
       "INPUT": [
         4
       ]
     },
-    "minecraft__redstone": {
+    "minecraft__quartz": {
       "OUTPUT": [
-        4,
-        7
+        4
       ]
     },
-    "minecraft__nether_quartz_ore": {
+    "minecraft__deepslate_redstone_ore": {
       "INPUT": [
         5
       ]
     },
-    "minecraft__quartz": {
+    "minecraft__redstone": {
       "OUTPUT": [
-        5
+        5,
+        8
       ]
     },
     "minecraft__raw_iron": {
@@ -11179,20 +11179,20 @@
         6
       ]
     },
-    "minecraft__redstone_ore": {
+    "minecraft__deepslate_emerald_ore": {
       "INPUT": [
         7
       ]
     },
-    "minecraft__deepslate_emerald_ore": {
-      "INPUT": [
-        8
-      ]
-    },
     "minecraft__emerald": {
       "OUTPUT": [
-        8,
+        7,
         15
+      ]
+    },
+    "minecraft__redstone_ore": {
+      "INPUT": [
+        8
       ]
     },
     "minecraft__ancient_debris": {
@@ -11213,7 +11213,7 @@
     "minecraft__lapis_lazuli": {
       "OUTPUT": [
         10,
-        18
+        17
       ]
     },
     "minecraft__raw_gold": {
@@ -11374,12 +11374,12 @@
         16
       ]
     },
-    "minecraft__raw_copper": {
+    "minecraft__lapis_ore": {
       "INPUT": [
         17
       ]
     },
-    "minecraft__lapis_ore": {
+    "minecraft__raw_copper": {
       "INPUT": [
         18
       ]
@@ -11399,12 +11399,12 @@
         21
       ]
     },
-    "minecraft__copper_ore": {
+    "minecraft__deepslate_iron_ore": {
       "INPUT": [
         22
       ]
     },
-    "minecraft__deepslate_iron_ore": {
+    "minecraft__copper_ore": {
       "INPUT": [
         23
       ]
@@ -11427,34 +11427,53 @@
         11
       ]
     },
-    "minecraft__gunpowder": {
+    "minecraft__blaze_powder": {
       "INPUT": [
         0,
-        14,
-        15,
-        16,
-        17,
-        41,
-        42,
-        43,
-        44,
-        45,
+        13,
+        19,
         47,
+        55,
+        129
+      ]
+    },
+    "minecraft__potion__9f5d78b02501fd542e054caed194b991": {
+      "OUTPUT": [
+        0,
+        1,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "INPUT": [
+        25
+      ]
+    },
+    "minecraft__magma_cream": {
+      "INPUT": [
+        1,
+        17,
+        36,
+        58,
+        92,
+        134
+      ]
+    },
+    "minecraft__glowstone_dust": {
+      "INPUT": [
+        2,
+        16,
         48,
         49,
         50,
         51,
         52,
         53,
-        112,
-        113,
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
+        54,
+        59,
         121,
         122,
         123,
@@ -11462,105 +11481,73 @@
         125,
         126,
         127,
-        128,
-        129,
-        130,
         131,
-        180,
-        181,
-        182,
-        183,
-        247
+        132,
+        203,
+        204,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        243,
+        244
       ]
     },
-    "minecraft__splash_potion__99dec161587086ae39d37c7eb7cadcff": {
+    "minecraft__potion__e38ba718c99f3e9f4e08294893e080a8": {
       "OUTPUT": [
-        0
+        2
+      ],
+      "INPUT": [
+        26
+      ]
+    },
+    "minecraft__nether_wart": {
+      "INPUT": [
+        3,
+        33,
+        93
+      ]
+    },
+    "minecraft__potion__4152983c62650be831e926e155f5d25e": {
+      "OUTPUT": [
+        3
       ],
       "INPUT": [
         12,
         13,
+        17,
         18,
-        23,
-        24,
-        28,
-        29,
-        33,
-        34,
-        35,
-        36,
-        37
-      ]
-    },
-    "minecraft__ghast_tear": {
-      "INPUT": [
-        1,
-        18,
-        19,
-        54,
-        57,
-        133
-      ]
-    },
-    "minecraft__potion__9f5d78b02501fd542e054caed194b991": {
-      "OUTPUT": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        7,
-        8,
-        11
-      ],
-      "INPUT": [
-        14
-      ]
-    },
-    "minecraft__blaze_powder": {
-      "INPUT": [
-        2,
         20,
-        23,
-        55,
-        101,
-        177
+        21,
+        27,
+        29,
+        31,
+        32,
+        38,
+        39
       ]
     },
     "minecraft__glistering_melon_slice": {
       "INPUT": [
-        3,
-        21,
-        24,
-        56,
-        89,
-        173
-      ]
-    },
-    "minecraft__rabbit_foot": {
-      "INPUT": [
         4,
-        13,
-        22,
-        46,
-        59,
-        135
+        20,
+        37,
+        40,
+        95,
+        102
       ]
     },
-    "minecraft__spider_eye": {
+    "minecraft__redstone": {
       "INPUT": [
         5,
-        27,
-        34,
-        77,
-        93,
-        174
-      ]
-    },
-    "minecraft__glowstone_dust": {
-      "INPUT": [
-        6,
-        33,
+        22,
+        30,
+        60,
+        61,
+        62,
         63,
         64,
         65,
@@ -11568,18 +11555,26 @@
         67,
         68,
         69,
-        88,
-        139,
-        140,
-        153,
-        154,
-        155,
-        156,
-        157,
-        158,
+        87,
+        89,
+        135,
+        136,
         159,
-        195,
-        196,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        170,
+        222,
+        223,
+        224,
+        225,
+        226,
         227,
         228,
         229,
@@ -11591,56 +11586,217 @@
         246
       ]
     },
-    "minecraft__potion__e38ba718c99f3e9f4e08294893e080a8": {
-      "OUTPUT": [
-        6
-      ],
+    "minecraft__gunpowder": {
       "INPUT": [
-        15
-      ]
-    },
-    "minecraft__magma_cream": {
-      "INPUT": [
-        7,
-        30,
-        36,
-        62,
-        84,
-        138
-      ]
-    },
-    "minecraft__sugar": {
-      "INPUT": [
-        8,
-        31,
-        37,
-        58,
-        85,
-        134
-      ]
-    },
-    "minecraft__fermented_spider_eye": {
-      "INPUT": [
-        9,
-        29,
-        61,
-        71,
-        72,
+        6,
+        25,
+        26,
+        27,
+        28,
         73,
         74,
         75,
         76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        137,
+        138,
+        139,
+        140,
         141,
         142,
         143,
         144,
         145,
         146,
+        147,
         148,
         149,
         150,
         151,
         152,
+        153,
+        154,
+        155,
+        156,
+        218,
+        219,
+        220,
+        221,
+        248
+      ]
+    },
+    "minecraft__splash_potion__99dec161587086ae39d37c7eb7cadcff": {
+      "OUTPUT": [
+        6
+      ],
+      "INPUT": [
+        14,
+        15,
+        16,
+        19,
+        23,
+        24,
+        30,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    "minecraft__sugar": {
+      "INPUT": [
+        7,
+        29,
+        35,
+        86,
+        90,
+        158
+      ]
+    },
+    "minecraft__spider_eye": {
+      "INPUT": [
+        8,
+        31,
+        34,
+        85,
+        88,
+        157
+      ]
+    },
+    "minecraft__rabbit_foot": {
+      "INPUT": [
+        9,
+        23,
+        32,
+        46,
+        70,
+        128
+      ]
+    },
+    "minecraft__ghast_tear": {
+      "INPUT": [
+        10,
+        24,
+        38,
+        56,
+        71,
+        133
+      ]
+    },
+    "minecraft__fermented_spider_eye": {
+      "INPUT": [
+        11,
+        14,
+        57,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        172,
+        173,
+        174,
+        175,
+        176,
+        178,
+        179,
+        180,
+        181,
+        182,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        238,
+        239,
+        240,
+        241,
+        242
+      ]
+    },
+    "minecraft__potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
+      "OUTPUT": [
+        11
+      ],
+      "INPUT": [
+        22,
+        28
+      ]
+    },
+    "minecraft__turtle_helmet__f615bddfb62eda0c5d44ad803d556908": {
+      "INPUT": [
+        12,
+        94,
+        169
+      ]
+    },
+    "minecraft__potion__aa6e75b63442a779201fc666c662190e": {
+      "OUTPUT": [
+        12
+      ],
+      "INPUT": [
+        52,
+        67,
+        82
+      ]
+    },
+    "minecraft__potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
+      "OUTPUT": [
+        13
+      ],
+      "INPUT": [
+        50,
+        66,
+        75
+      ]
+    },
+    "minecraft__splash_potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
+      "OUTPUT": [
+        14,
+        28
+      ],
+      "INPUT": [
+        45,
+        87
+      ]
+    },
+    "minecraft__dragon_breath": {
+      "INPUT": [
+        15,
+        42,
+        43,
+        44,
+        45,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        183,
         184,
         185,
         186,
@@ -11652,1071 +11808,1077 @@
         192,
         193,
         194,
-        234,
-        235,
-        236,
-        237,
-        238
-      ]
-    },
-    "minecraft__potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
-      "OUTPUT": [
-        9
-      ],
-      "INPUT": [
-        17,
-        39
-      ]
-    },
-    "minecraft__nether_wart": {
-      "INPUT": [
-        10,
-        28,
-        86
-      ]
-    },
-    "minecraft__potion__4152983c62650be831e926e155f5d25e": {
-      "OUTPUT": [
-        10
-      ],
-      "INPUT": [
-        16,
-        19,
-        20,
-        21,
-        22,
-        25,
-        26,
-        27,
-        30,
-        31,
-        32,
-        38
-      ]
-    },
-    "minecraft__redstone": {
-      "INPUT": [
-        11,
-        12,
-        39,
-        40,
-        78,
-        90,
-        91,
-        92,
-        94,
-        95,
-        96,
-        97,
-        98,
-        99,
-        100,
-        102,
-        103,
-        104,
-        105,
-        106,
-        107,
-        108,
-        109,
-        110,
-        111,
-        160,
-        175,
-        176,
-        178,
-        179,
+        195,
+        196,
         197,
         198,
         199,
         200,
         201,
         202,
-        203,
-        204,
-        205,
-        206,
-        239,
-        240
-      ]
-    },
-    "minecraft__splash_potion__9f5d78b02501fd542e054caed194b991": {
-      "OUTPUT": [
-        12,
-        13,
-        14,
-        18,
-        23,
-        24,
-        34,
-        36,
-        37
-      ],
-      "INPUT": [
-        79
-      ]
-    },
-    "minecraft__splash_potion__e38ba718c99f3e9f4e08294893e080a8": {
-      "OUTPUT": [
-        15,
-        33
-      ],
-      "INPUT": [
-        80
-      ]
-    },
-    "minecraft__splash_potion__4152983c62650be831e926e155f5d25e": {
-      "OUTPUT": [
-        16,
-        28
-      ],
-      "INPUT": [
-        46,
-        54,
-        55,
-        56,
-        60,
-        70,
-        77,
-        81,
-        83,
-        84,
-        85,
-        87
-      ]
-    },
-    "minecraft__splash_potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
-      "OUTPUT": [
-        17,
-        29
-      ],
-      "INPUT": [
-        40,
-        82
-      ]
-    },
-    "minecraft__potion__ce9215195206227574c4af88f33fc344": {
-      "OUTPUT": [
-        19
-      ],
-      "INPUT": [
-        53,
-        69,
-        99
-      ]
-    },
-    "minecraft__potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
-      "OUTPUT": [
-        20
-      ],
-      "INPUT": [
-        42,
-        66,
-        100
-      ]
-    },
-    "minecraft__potion__b0eea8660c245c4b3e33dea1d6665a54": {
-      "OUTPUT": [
-        21
-      ],
-      "INPUT": [
-        51,
-        67,
-        73
-      ]
-    },
-    "minecraft__potion__d4272645c61d50de18ce399e7093de8f": {
-      "OUTPUT": [
-        22
-      ],
-      "INPUT": [
-        41,
-        63,
-        72,
-        97
-      ]
-    },
-    "minecraft__turtle_helmet__f615bddfb62eda0c5d44ad803d556908": {
-      "INPUT": [
-        25,
-        60,
-        132
-      ]
-    },
-    "minecraft__potion__aa6e75b63442a779201fc666c662190e": {
-      "OUTPUT": [
-        25
-      ],
-      "INPUT": [
-        49,
-        65,
-        91
-      ]
-    },
-    "minecraft__golden_carrot": {
-      "INPUT": [
-        26,
-        70,
-        137
-      ]
-    },
-    "minecraft__potion__05225fd13a3c6fd285a5983fd4ec3c77": {
-      "OUTPUT": [
-        26
-      ],
-      "INPUT": [
-        47,
-        71,
-        94
-      ]
-    },
-    "minecraft__potion__e2d7c109e844b10fdc71a6d3901e4186": {
-      "OUTPUT": [
-        27
-      ],
-      "INPUT": [
-        52,
-        68,
-        76,
-        95
-      ]
-    },
-    "minecraft__potion__5128ca07542e53743d6e85944faccd95": {
-      "OUTPUT": [
-        30
-      ],
-      "INPUT": [
-        45,
-        98
-      ]
-    },
-    "minecraft__potion__a6770248a7df811fb23a8934660c3ad0": {
-      "OUTPUT": [
-        31
-      ],
-      "INPUT": [
-        48,
-        64,
-        75,
-        90
-      ]
-    },
-    "minecraft__pufferfish": {
-      "INPUT": [
-        32,
-        87,
-        136
-      ]
-    },
-    "minecraft__potion__a8afe48529a0fd9c53b80fde95556192": {
-      "OUTPUT": [
-        32
-      ],
-      "INPUT": [
-        50,
-        92
-      ]
-    },
-    "minecraft__dragon_breath": {
-      "INPUT": [
-        35,
-        79,
-        80,
-        81,
-        82,
-        161,
-        162,
-        163,
-        164,
-        165,
-        166,
-        167,
-        168,
-        169,
-        170,
-        171,
-        172,
-        207,
-        208,
-        209,
-        210,
-        211,
-        212,
-        213,
-        214,
-        215,
-        216,
-        217,
-        218,
-        219,
-        220,
-        221,
-        222,
-        223,
-        224,
-        225,
-        226,
-        241,
-        242,
-        243,
-        244,
-        248
+        234,
+        235,
+        236,
+        237,
+        247
       ]
     },
     "minecraft__lingering_potion__99dec161587086ae39d37c7eb7cadcff": {
       "OUTPUT": [
-        35
+        15
       ],
       "INPUT": [
+        40,
+        46,
+        47,
+        56,
         57,
         58,
         59,
-        61,
-        62,
-        78,
+        85,
         86,
-        88,
         89,
-        93,
-        101
+        93
       ]
     },
-    "minecraft__phantom_membrane": {
-      "INPUT": [
-        38,
-        83,
-        147
-      ]
-    },
-    "minecraft__potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
+    "minecraft__splash_potion__e38ba718c99f3e9f4e08294893e080a8": {
       "OUTPUT": [
-        38
+        16,
+        26
       ],
       "INPUT": [
-        44,
+        43
+      ]
+    },
+    "minecraft__potion__5128ca07542e53743d6e85944faccd95": {
+      "OUTPUT": [
+        17
+      ],
+      "INPUT": [
+        60,
+        77
+      ]
+    },
+    "minecraft__pufferfish": {
+      "INPUT": [
+        18,
+        91,
+        171
+      ]
+    },
+    "minecraft__potion__a8afe48529a0fd9c53b80fde95556192": {
+      "OUTPUT": [
+        18
+      ],
+      "INPUT": [
+        68,
+        76
+      ]
+    },
+    "minecraft__splash_potion__9f5d78b02501fd542e054caed194b991": {
+      "OUTPUT": [
+        19,
+        23,
+        24,
+        25,
+        30,
+        34,
+        35,
+        36,
+        37
+      ],
+      "INPUT": [
+        42
+      ]
+    },
+    "minecraft__potion__b0eea8660c245c4b3e33dea1d6665a54": {
+      "OUTPUT": [
+        20
+      ],
+      "INPUT": [
+        53,
+        83,
+        99
+      ]
+    },
+    "minecraft__golden_carrot": {
+      "INPUT": [
+        21,
+        41,
+        177
+      ]
+    },
+    "minecraft__potion__05225fd13a3c6fd285a5983fd4ec3c77": {
+      "OUTPUT": [
+        21
+      ],
+      "INPUT": [
+        61,
+        80,
         96
       ]
     },
     "minecraft__potion__4a6ae0edf296eff78ba669a84bc371b4": {
       "OUTPUT": [
+        22
+      ],
+      "INPUT": [
+        81
+      ]
+    },
+    "minecraft__splash_potion__4152983c62650be831e926e155f5d25e": {
+      "OUTPUT": [
+        27,
+        33
+      ],
+      "INPUT": [
+        41,
+        44,
+        55,
+        70,
+        71,
+        72,
+        88,
+        90,
+        91,
+        92,
+        94,
+        95
+      ]
+    },
+    "minecraft__potion__a6770248a7df811fb23a8934660c3ad0": {
+      "OUTPUT": [
+        29
+      ],
+      "INPUT": [
+        51,
+        63,
+        73,
+        98
+      ]
+    },
+    "minecraft__potion__e2d7c109e844b10fdc71a6d3901e4186": {
+      "OUTPUT": [
+        31
+      ],
+      "INPUT": [
+        48,
+        69,
+        78,
+        100
+      ]
+    },
+    "minecraft__potion__d4272645c61d50de18ce399e7093de8f": {
+      "OUTPUT": [
+        32
+      ],
+      "INPUT": [
+        49,
+        62,
+        84,
+        97
+      ]
+    },
+    "minecraft__potion__ce9215195206227574c4af88f33fc344": {
+      "OUTPUT": [
+        38
+      ],
+      "INPUT": [
+        54,
+        65,
+        74
+      ]
+    },
+    "minecraft__phantom_membrane": {
+      "INPUT": [
+        39,
+        72,
+        130
+      ]
+    },
+    "minecraft__potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
+      "OUTPUT": [
         39
       ],
       "INPUT": [
-        43
-      ]
-    },
-    "minecraft__splash_potion__4a6ae0edf296eff78ba669a84bc371b4": {
-      "OUTPUT": [
-        40,
-        43
-      ],
-      "INPUT": [
-        162
-      ]
-    },
-    "minecraft__splash_potion__d4272645c61d50de18ce399e7093de8f": {
-      "OUTPUT": [
-        41,
-        46
-      ],
-      "INPUT": [
-        103,
-        142,
-        153,
-        170
-      ]
-    },
-    "minecraft__splash_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
-      "OUTPUT": [
-        42,
-        55
-      ],
-      "INPUT": [
-        105,
-        157,
-        164
-      ]
-    },
-    "minecraft__splash_potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
-      "OUTPUT": [
-        44,
-        83
-      ],
-      "INPUT": [
-        110,
-        171
-      ]
-    },
-    "minecraft__splash_potion__5128ca07542e53743d6e85944faccd95": {
-      "OUTPUT": [
-        45,
-        84
-      ],
-      "INPUT": [
-        104,
-        169
-      ]
-    },
-    "minecraft__splash_potion__05225fd13a3c6fd285a5983fd4ec3c77": {
-      "OUTPUT": [
-        47,
-        70
-      ],
-      "INPUT": [
-        102,
-        141,
-        161
-      ]
-    },
-    "minecraft__splash_potion__a6770248a7df811fb23a8934660c3ad0": {
-      "OUTPUT": [
-        48,
-        85
-      ],
-      "INPUT": [
-        106,
-        144,
-        154,
-        172
-      ]
-    },
-    "minecraft__splash_potion__aa6e75b63442a779201fc666c662190e": {
-      "OUTPUT": [
-        49,
-        60
-      ],
-      "INPUT": [
-        108,
-        155,
-        163
-      ]
-    },
-    "minecraft__splash_potion__a8afe48529a0fd9c53b80fde95556192": {
-      "OUTPUT": [
-        50,
-        87
-      ],
-      "INPUT": [
-        109,
-        166
-      ]
-    },
-    "minecraft__splash_potion__b0eea8660c245c4b3e33dea1d6665a54": {
-      "OUTPUT": [
-        51,
-        56
-      ],
-      "INPUT": [
-        146,
-        156,
-        167
-      ]
-    },
-    "minecraft__splash_potion__e2d7c109e844b10fdc71a6d3901e4186": {
-      "OUTPUT": [
-        52,
-        77
-      ],
-      "INPUT": [
-        107,
-        143,
-        158,
-        168
-      ]
-    },
-    "minecraft__splash_potion__ce9215195206227574c4af88f33fc344": {
-      "OUTPUT": [
-        53,
-        54
-      ],
-      "INPUT": [
-        111,
-        159,
-        165
+        64,
+        79
       ]
     },
     "minecraft__lingering_potion__9f5d78b02501fd542e054caed194b991": {
       "OUTPUT": [
-        57,
+        40,
+        42,
+        46,
+        47,
+        56,
         58,
-        59,
-        62,
-        78,
-        79,
-        89,
-        93,
-        101
+        85,
+        86,
+        89
+      ]
+    },
+    "minecraft__splash_potion__05225fd13a3c6fd285a5983fd4ec3c77": {
+      "OUTPUT": [
+        41,
+        80
+      ],
+      "INPUT": [
+        103,
+        115,
+        160
+      ]
+    },
+    "minecraft__lingering_potion__e38ba718c99f3e9f4e08294893e080a8": {
+      "OUTPUT": [
+        43,
+        59
+      ]
+    },
+    "minecraft__lingering_potion__4152983c62650be831e926e155f5d25e": {
+      "OUTPUT": [
+        44,
+        93
+      ],
+      "INPUT": [
+        102,
+        128,
+        129,
+        130,
+        133,
+        134,
+        157,
+        158,
+        169,
+        171,
+        177
       ]
     },
     "minecraft__lingering_potion__db72435d4538fe2b6edf8c2ebacbd3d5": {
       "OUTPUT": [
-        61,
-        82
+        45,
+        57
       ],
       "INPUT": [
-        160
-      ]
-    },
-    "minecraft__potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
-      "OUTPUT": [
-        63
-      ],
-      "INPUT": [
-        127
-      ]
-    },
-    "minecraft__potion__35c38396473d7774fc4ae329c6ef084f": {
-      "OUTPUT": [
-        64
-      ],
-      "INPUT": [
-        113
-      ]
-    },
-    "minecraft__potion__045306c8c707b047e9a215a227f5a3c1": {
-      "OUTPUT": [
-        65
-      ],
-      "INPUT": [
-        114
-      ]
-    },
-    "minecraft__potion__ff24d0419d0e166ddfe2180c4332b934": {
-      "OUTPUT": [
-        66
-      ],
-      "INPUT": [
-        131
-      ]
-    },
-    "minecraft__potion__5d0fea03e8823c628163ffd08b8260b2": {
-      "OUTPUT": [
-        67
-      ],
-      "INPUT": [
-        121,
-        152
+        170
       ]
     },
     "minecraft__potion__1822a5cc6e8c0dcef393ed63be983b65": {
       "OUTPUT": [
-        68
+        48
       ],
       "INPUT": [
-        116,
-        148
+        156,
+        175
+      ]
+    },
+    "minecraft__potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
+      "OUTPUT": [
+        49
+      ],
+      "INPUT": [
+        140
+      ]
+    },
+    "minecraft__potion__ff24d0419d0e166ddfe2180c4332b934": {
+      "OUTPUT": [
+        50
+      ],
+      "INPUT": [
+        137
+      ]
+    },
+    "minecraft__potion__35c38396473d7774fc4ae329c6ef084f": {
+      "OUTPUT": [
+        51
+      ],
+      "INPUT": [
+        141
+      ]
+    },
+    "minecraft__potion__045306c8c707b047e9a215a227f5a3c1": {
+      "OUTPUT": [
+        52
+      ],
+      "INPUT": [
+        149
+      ]
+    },
+    "minecraft__potion__5d0fea03e8823c628163ffd08b8260b2": {
+      "OUTPUT": [
+        53
+      ],
+      "INPUT": [
+        150,
+        176
       ]
     },
     "minecraft__potion__2dde18d159df07886c07d6c3359660f2": {
       "OUTPUT": [
+        54
+      ],
+      "INPUT": [
+        154
+      ]
+    },
+    "minecraft__splash_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
+      "OUTPUT": [
+        55,
+        75
+      ],
+      "INPUT": [
+        116,
+        125,
+        164
+      ]
+    },
+    "minecraft__potion__41d6b157fe1146afc9861d4ed39597af": {
+      "OUTPUT": [
+        60
+      ],
+      "INPUT": [
+        142
+      ]
+    },
+    "minecraft__potion__2ab263caa028ef2cb5f011203446a75b": {
+      "OUTPUT": [
+        61
+      ],
+      "INPUT": [
+        146,
+        172
+      ]
+    },
+    "minecraft__potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+      "OUTPUT": [
+        62
+      ],
+      "INPUT": [
+        138,
+        173
+      ]
+    },
+    "minecraft__potion__96903724c233810c71678fc2cc582388": {
+      "OUTPUT": [
+        63
+      ],
+      "INPUT": [
+        139,
+        174
+      ]
+    },
+    "minecraft__potion__33b3d5408af1cba6d2ae43376e6f436c": {
+      "OUTPUT": [
+        64
+      ],
+      "INPUT": [
+        152
+      ]
+    },
+    "minecraft__potion__d98ea99c3df2eb0508cfc212b966782c": {
+      "OUTPUT": [
+        65
+      ],
+      "INPUT": [
+        153
+      ]
+    },
+    "minecraft__potion__c5ce9f3a7bb3efede7631b11769ff677": {
+      "OUTPUT": [
+        66
+      ],
+      "INPUT": [
+        144
+      ]
+    },
+    "minecraft__potion__8a3ef662e94010f388e0dfeea82cfe77": {
+      "OUTPUT": [
+        67
+      ],
+      "INPUT": [
+        147
+      ]
+    },
+    "minecraft__potion__5bfb814833db76e3df1ad0d1cb761702": {
+      "OUTPUT": [
+        68
+      ],
+      "INPUT": [
+        143
+      ]
+    },
+    "minecraft__potion__4a84d5cb813f822eac725971dfd6cd1e": {
+      "OUTPUT": [
         69
+      ],
+      "INPUT": [
+        101,
+        145
+      ]
+    },
+    "minecraft__splash_potion__d4272645c61d50de18ce399e7093de8f": {
+      "OUTPUT": [
+        70,
+        84
+      ],
+      "INPUT": [
+        105,
+        109,
+        121,
+        161
+      ]
+    },
+    "minecraft__splash_potion__ce9215195206227574c4af88f33fc344": {
+      "OUTPUT": [
+        71,
+        74
+      ],
+      "INPUT": [
+        119,
+        127,
+        167
+      ]
+    },
+    "minecraft__splash_potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
+      "OUTPUT": [
+        72,
+        79
+      ],
+      "INPUT": [
+        111,
+        162
+      ]
+    },
+    "minecraft__splash_potion__a6770248a7df811fb23a8934660c3ad0": {
+      "OUTPUT": [
+        73,
+        90
+      ],
+      "INPUT": [
+        106,
+        110,
+        122,
+        165
+      ]
+    },
+    "minecraft__splash_potion__a8afe48529a0fd9c53b80fde95556192": {
+      "OUTPUT": [
+        76,
+        91
+      ],
+      "INPUT": [
+        120,
+        168
+      ]
+    },
+    "minecraft__splash_potion__5128ca07542e53743d6e85944faccd95": {
+      "OUTPUT": [
+        77,
+        92
+      ],
+      "INPUT": [
+        113,
+        163
+      ]
+    },
+    "minecraft__splash_potion__e2d7c109e844b10fdc71a6d3901e4186": {
+      "OUTPUT": [
+        78,
+        88
+      ],
+      "INPUT": [
+        104,
+        112,
+        126,
+        159
+      ]
+    },
+    "minecraft__splash_potion__4a6ae0edf296eff78ba669a84bc371b4": {
+      "OUTPUT": [
+        81,
+        87
       ],
       "INPUT": [
         117
       ]
     },
-    "minecraft__potion__da09584e8c12b381ba8a8feeab7a6902": {
+    "minecraft__splash_potion__aa6e75b63442a779201fc666c662190e": {
       "OUTPUT": [
-        71
-      ],
-      "INPUT": [
-        126,
-        175
-      ]
-    },
-    "minecraft__potion__f062acae657b052d75f1f4f1fd87923a": {
-      "OUTPUT": [
-        72,
-        75
-      ],
-      "INPUT": [
-        122,
-        139,
-        176
-      ]
-    },
-    "minecraft__potion__d2e0c6224cabcefd39daff8fbf2b579c": {
-      "OUTPUT": [
-        73,
-        74,
-        76
-      ],
-      "INPUT": [
-        129,
-        140
-      ]
-    },
-    "minecraft__potion__4a84d5cb813f822eac725971dfd6cd1e": {
-      "INPUT": [
-        74,
-        115
-      ],
-      "OUTPUT": [
-        95
-      ]
-    },
-    "minecraft__lingering_potion__e38ba718c99f3e9f4e08294893e080a8": {
-      "OUTPUT": [
-        80,
-        88
-      ]
-    },
-    "minecraft__lingering_potion__4152983c62650be831e926e155f5d25e": {
-      "OUTPUT": [
-        81,
-        86
-      ],
-      "INPUT": [
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        147,
-        173,
-        174,
-        177
-      ]
-    },
-    "minecraft__potion__96903724c233810c71678fc2cc582388": {
-      "OUTPUT": [
-        90
-      ],
-      "INPUT": [
-        112,
-        151
-      ]
-    },
-    "minecraft__potion__8a3ef662e94010f388e0dfeea82cfe77": {
-      "OUTPUT": [
-        91
-      ],
-      "INPUT": [
-        119
-      ]
-    },
-    "minecraft__potion__5bfb814833db76e3df1ad0d1cb761702": {
-      "OUTPUT": [
-        92
-      ],
-      "INPUT": [
-        120
-      ]
-    },
-    "minecraft__potion__2ab263caa028ef2cb5f011203446a75b": {
-      "OUTPUT": [
+        82,
         94
       ],
       "INPUT": [
+        118,
         123,
-        149
+        166
       ]
     },
-    "minecraft__potion__33b3d5408af1cba6d2ae43376e6f436c": {
+    "minecraft__splash_potion__b0eea8660c245c4b3e33dea1d6665a54": {
+      "OUTPUT": [
+        83,
+        95
+      ],
+      "INPUT": [
+        107,
+        114,
+        124
+      ]
+    },
+    "minecraft__potion__da09584e8c12b381ba8a8feeab7a6902": {
       "OUTPUT": [
         96
       ],
       "INPUT": [
-        124
+        135,
+        155
       ]
     },
-    "minecraft__potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+    "minecraft__potion__f062acae657b052d75f1f4f1fd87923a": {
       "OUTPUT": [
-        97
-      ],
-      "INPUT": [
-        128,
-        150
-      ]
-    },
-    "minecraft__potion__41d6b157fe1146afc9861d4ed39597af": {
-      "OUTPUT": [
+        97,
         98
       ],
       "INPUT": [
-        125
+        131,
+        136,
+        148
       ]
     },
-    "minecraft__potion__d98ea99c3df2eb0508cfc212b966782c": {
+    "minecraft__potion__d2e0c6224cabcefd39daff8fbf2b579c": {
       "OUTPUT": [
-        99
+        99,
+        100,
+        101
       ],
       "INPUT": [
-        130
+        132,
+        151
       ]
     },
-    "minecraft__potion__c5ce9f3a7bb3efede7631b11769ff677": {
-      "OUTPUT": [
-        100
-      ],
-      "INPUT": [
-        118
-      ]
-    },
-    "minecraft__splash_potion__2ab263caa028ef2cb5f011203446a75b": {
+    "minecraft__lingering_potion__b0eea8660c245c4b3e33dea1d6665a54": {
       "OUTPUT": [
         102,
-        123
+        114
       ],
       "INPUT": [
-        192,
-        216
-      ]
-    },
-    "minecraft__splash_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
-      "OUTPUT": [
-        103,
-        128
-      ],
-      "INPUT": [
-        193,
-        222
-      ]
-    },
-    "minecraft__splash_potion__41d6b157fe1146afc9861d4ed39597af": {
-      "OUTPUT": [
-        104,
-        125
-      ],
-      "INPUT": [
-        224
-      ]
-    },
-    "minecraft__splash_potion__c5ce9f3a7bb3efede7631b11769ff677": {
-      "OUTPUT": [
-        105,
-        118
-      ],
-      "INPUT": [
-        212
-      ]
-    },
-    "minecraft__splash_potion__96903724c233810c71678fc2cc582388": {
-      "OUTPUT": [
-        106,
-        112
-      ],
-      "INPUT": [
-        194,
-        221
-      ]
-    },
-    "minecraft__splash_potion__4a84d5cb813f822eac725971dfd6cd1e": {
-      "OUTPUT": [
-        107,
-        115
-      ],
-      "INPUT": [
-        145,
-        214
-      ]
-    },
-    "minecraft__splash_potion__8a3ef662e94010f388e0dfeea82cfe77": {
-      "OUTPUT": [
-        108,
-        119
-      ],
-      "INPUT": [
-        209
-      ]
-    },
-    "minecraft__splash_potion__5bfb814833db76e3df1ad0d1cb761702": {
-      "OUTPUT": [
-        109,
-        120
-      ],
-      "INPUT": [
-        210
-      ]
-    },
-    "minecraft__splash_potion__33b3d5408af1cba6d2ae43376e6f436c": {
-      "OUTPUT": [
-        110,
-        124
-      ],
-      "INPUT": [
-        218
-      ]
-    },
-    "minecraft__splash_potion__d98ea99c3df2eb0508cfc212b966782c": {
-      "OUTPUT": [
-        111,
-        130
-      ],
-      "INPUT": [
-        213
-      ]
-    },
-    "minecraft__splash_potion__35c38396473d7774fc4ae329c6ef084f": {
-      "OUTPUT": [
-        113,
-        154
-      ],
-      "INPUT": [
-        220
-      ]
-    },
-    "minecraft__splash_potion__045306c8c707b047e9a215a227f5a3c1": {
-      "OUTPUT": [
-        114,
-        155
-      ],
-      "INPUT": [
-        215
-      ]
-    },
-    "minecraft__splash_potion__1822a5cc6e8c0dcef393ed63be983b65": {
-      "OUTPUT": [
-        116,
-        158
-      ],
-      "INPUT": [
-        191,
-        207
-      ]
-    },
-    "minecraft__splash_potion__2dde18d159df07886c07d6c3359660f2": {
-      "OUTPUT": [
-        117,
-        159
-      ],
-      "INPUT": [
-        225
-      ]
-    },
-    "minecraft__splash_potion__5d0fea03e8823c628163ffd08b8260b2": {
-      "OUTPUT": [
-        121,
-        156
-      ],
-      "INPUT": [
-        190,
-        226
-      ]
-    },
-    "minecraft__splash_potion__f062acae657b052d75f1f4f1fd87923a": {
-      "OUTPUT": [
-        122,
-        142,
-        144
-      ],
-      "INPUT": [
-        179,
-        195,
+        210,
         211
       ]
     },
     "minecraft__splash_potion__da09584e8c12b381ba8a8feeab7a6902": {
       "OUTPUT": [
-        126,
-        141
+        103,
+        155
       ],
       "INPUT": [
-        178,
-        217
-      ]
-    },
-    "minecraft__splash_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
-      "OUTPUT": [
-        127,
-        153
-      ],
-      "INPUT": [
-        219
+        191,
+        222
       ]
     },
     "minecraft__splash_potion__d2e0c6224cabcefd39daff8fbf2b579c": {
       "OUTPUT": [
-        129,
-        143,
-        145,
-        146
+        104,
+        107,
+        108,
+        151
       ],
       "INPUT": [
-        196,
+        202,
+        204
+      ]
+    },
+    "minecraft__splash_potion__f062acae657b052d75f1f4f1fd87923a": {
+      "OUTPUT": [
+        105,
+        106,
+        148
+      ],
+      "INPUT": [
+        184,
+        203,
         223
       ]
     },
-    "minecraft__splash_potion__ff24d0419d0e166ddfe2180c4332b934": {
-      "OUTPUT": [
-        131,
-        157
-      ],
+    "minecraft__splash_potion__4a84d5cb813f822eac725971dfd6cd1e": {
       "INPUT": [
-        208
-      ]
-    },
-    "minecraft__lingering_potion__aa6e75b63442a779201fc666c662190e": {
-      "OUTPUT": [
-        132,
-        163
+        108,
+        199
       ],
-      "INPUT": [
-        204,
-        229
-      ]
-    },
-    "minecraft__lingering_potion__ce9215195206227574c4af88f33fc344": {
       "OUTPUT": [
-        133,
-        165
-      ],
-      "INPUT": [
-        206,
-        233
-      ]
-    },
-    "minecraft__lingering_potion__a6770248a7df811fb23a8934660c3ad0": {
-      "OUTPUT": [
-        134,
-        172
-      ],
-      "INPUT": [
-        188,
-        202,
-        228
+        145,
+        159
       ]
     },
     "minecraft__lingering_potion__d4272645c61d50de18ce399e7093de8f": {
       "OUTPUT": [
-        135,
-        170
+        109,
+        128
       ],
       "INPUT": [
-        184,
-        197,
+        206,
+        212,
         227
       ]
     },
-    "minecraft__lingering_potion__a8afe48529a0fd9c53b80fde95556192": {
+    "minecraft__lingering_potion__a6770248a7df811fb23a8934660c3ad0": {
       "OUTPUT": [
-        136,
-        166
+        110,
+        158
       ],
       "INPUT": [
-        203
-      ]
-    },
-    "minecraft__lingering_potion__05225fd13a3c6fd285a5983fd4ec3c77": {
-      "OUTPUT": [
-        137,
-        161
-      ],
-      "INPUT": [
-        185,
-        198
-      ]
-    },
-    "minecraft__lingering_potion__5128ca07542e53743d6e85944faccd95": {
-      "OUTPUT": [
-        138,
-        169
-      ],
-      "INPUT": [
-        199
-      ]
-    },
-    "minecraft__potion__adb34d0ab4189bbd9c657da41841c2c2": {
-      "OUTPUT": [
-        139
-      ],
-      "INPUT": [
-        180
-      ]
-    },
-    "minecraft__potion__65785875cf30774daea49b653cc17d05": {
-      "OUTPUT": [
-        140,
-        148,
-        152
-      ],
-      "INPUT": [
-        181
+        208,
+        213,
+        231
       ]
     },
     "minecraft__lingering_potion__02461267b4db13fc3bc1bcc34bb7eb5c": {
       "OUTPUT": [
-        147,
+        111,
+        130
+      ],
+      "INPUT": [
+        228
+      ]
+    },
+    "minecraft__lingering_potion__e2d7c109e844b10fdc71a6d3901e4186": {
+      "OUTPUT": [
+        112,
+        157
+      ],
+      "INPUT": [
+        207,
+        216,
+        229
+      ]
+    },
+    "minecraft__lingering_potion__5128ca07542e53743d6e85944faccd95": {
+      "OUTPUT": [
+        113,
+        134
+      ],
+      "INPUT": [
+        230
+      ]
+    },
+    "minecraft__lingering_potion__05225fd13a3c6fd285a5983fd4ec3c77": {
+      "OUTPUT": [
+        115,
+        177
+      ],
+      "INPUT": [
+        205,
+        224
+      ]
+    },
+    "minecraft__lingering_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
+      "OUTPUT": [
+        116,
+        129
+      ],
+      "INPUT": [
+        215,
+        226
+      ]
+    },
+    "minecraft__lingering_potion__4a6ae0edf296eff78ba669a84bc371b4": {
+      "OUTPUT": [
+        117,
+        170
+      ]
+    },
+    "minecraft__lingering_potion__aa6e75b63442a779201fc666c662190e": {
+      "OUTPUT": [
+        118,
+        169
+      ],
+      "INPUT": [
+        214,
+        225
+      ]
+    },
+    "minecraft__lingering_potion__ce9215195206227574c4af88f33fc344": {
+      "OUTPUT": [
+        119,
+        133
+      ],
+      "INPUT": [
+        217,
+        233
+      ]
+    },
+    "minecraft__lingering_potion__a8afe48529a0fd9c53b80fde95556192": {
+      "OUTPUT": [
+        120,
         171
       ],
       "INPUT": [
-        201
+        232
       ]
     },
-    "minecraft__potion__e921377df71f4486b55c6e0d07897eba": {
+    "minecraft__splash_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
       "OUTPUT": [
-        149,
-        175
+        121,
+        140
+      ],
+      "INPUT": [
+        188
+      ]
+    },
+    "minecraft__splash_potion__35c38396473d7774fc4ae329c6ef084f": {
+      "OUTPUT": [
+        122,
+        141
       ],
       "INPUT": [
         183
       ]
     },
-    "minecraft__potion__cfc29ec3ec5579eb147a587738632863": {
+    "minecraft__splash_potion__045306c8c707b047e9a215a227f5a3c1": {
       "OUTPUT": [
-        150,
-        151,
+        123,
+        149
+      ],
+      "INPUT": [
+        189
+      ]
+    },
+    "minecraft__splash_potion__5d0fea03e8823c628163ffd08b8260b2": {
+      "OUTPUT": [
+        124,
+        150
+      ],
+      "INPUT": [
+        182,
+        193
+      ]
+    },
+    "minecraft__splash_potion__ff24d0419d0e166ddfe2180c4332b934": {
+      "OUTPUT": [
+        125,
+        137
+      ],
+      "INPUT": [
+        198
+      ]
+    },
+    "minecraft__splash_potion__1822a5cc6e8c0dcef393ed63be983b65": {
+      "OUTPUT": [
+        126,
+        156
+      ],
+      "INPUT": [
+        181,
+        186
+      ]
+    },
+    "minecraft__splash_potion__2dde18d159df07886c07d6c3359660f2": {
+      "OUTPUT": [
+        127,
+        154
+      ],
+      "INPUT": [
+        192
+      ]
+    },
+    "minecraft__potion__adb34d0ab4189bbd9c657da41841c2c2": {
+      "OUTPUT": [
+        131
+      ],
+      "INPUT": [
+        219
+      ]
+    },
+    "minecraft__potion__65785875cf30774daea49b653cc17d05": {
+      "OUTPUT": [
+        132,
+        175,
         176
       ],
       "INPUT": [
-        182
+        220
       ]
     },
-    "minecraft__lingering_potion__4a6ae0edf296eff78ba669a84bc371b4": {
+    "minecraft__potion__e921377df71f4486b55c6e0d07897eba": {
       "OUTPUT": [
-        160,
-        162
-      ]
-    },
-    "minecraft__lingering_potion__7cc07b3a099ab02aaa660cd5d23c37f9": {
-      "OUTPUT": [
-        164,
-        177
+        135,
+        172
       ],
       "INPUT": [
-        200,
-        232
+        221
       ]
     },
-    "minecraft__lingering_potion__b0eea8660c245c4b3e33dea1d6665a54": {
+    "minecraft__potion__cfc29ec3ec5579eb147a587738632863": {
       "OUTPUT": [
-        167,
-        173
-      ],
-      "INPUT": [
-        189,
-        230
-      ]
-    },
-    "minecraft__lingering_potion__e2d7c109e844b10fdc71a6d3901e4186": {
-      "OUTPUT": [
-        168,
+        136,
+        173,
         174
       ],
       "INPUT": [
-        186,
-        205,
-        231
+        218
+      ]
+    },
+    "minecraft__splash_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+      "OUTPUT": [
+        138,
+        161
+      ],
+      "INPUT": [
+        179,
+        201
+      ]
+    },
+    "minecraft__splash_potion__96903724c233810c71678fc2cc582388": {
+      "OUTPUT": [
+        139,
+        165
+      ],
+      "INPUT": [
+        180,
+        195
+      ]
+    },
+    "minecraft__splash_potion__41d6b157fe1146afc9861d4ed39597af": {
+      "OUTPUT": [
+        142,
+        163
+      ],
+      "INPUT": [
+        187
+      ]
+    },
+    "minecraft__splash_potion__5bfb814833db76e3df1ad0d1cb761702": {
+      "OUTPUT": [
+        143,
+        168
+      ],
+      "INPUT": [
+        194
+      ]
+    },
+    "minecraft__splash_potion__c5ce9f3a7bb3efede7631b11769ff677": {
+      "OUTPUT": [
+        144,
+        164
+      ],
+      "INPUT": [
+        185
+      ]
+    },
+    "minecraft__splash_potion__2ab263caa028ef2cb5f011203446a75b": {
+      "OUTPUT": [
+        146,
+        160
+      ],
+      "INPUT": [
+        178,
+        190
+      ]
+    },
+    "minecraft__splash_potion__8a3ef662e94010f388e0dfeea82cfe77": {
+      "OUTPUT": [
+        147,
+        166
+      ],
+      "INPUT": [
+        196
+      ]
+    },
+    "minecraft__splash_potion__33b3d5408af1cba6d2ae43376e6f436c": {
+      "OUTPUT": [
+        152,
+        162
+      ],
+      "INPUT": [
+        197
+      ]
+    },
+    "minecraft__splash_potion__d98ea99c3df2eb0508cfc212b966782c": {
+      "OUTPUT": [
+        153,
+        167
+      ],
+      "INPUT": [
+        200
       ]
     },
     "minecraft__splash_potion__e921377df71f4486b55c6e0d07897eba": {
       "OUTPUT": [
         178,
-        183,
-        192
+        221,
+        222
       ],
       "INPUT": [
-        241
+        236
       ]
     },
     "minecraft__splash_potion__cfc29ec3ec5579eb147a587738632863": {
       "OUTPUT": [
         179,
+        180,
+        218,
+        223
+      ],
+      "INPUT": [
+        235
+      ]
+    },
+    "minecraft__splash_potion__65785875cf30774daea49b653cc17d05": {
+      "OUTPUT": [
+        181,
         182,
+        204,
+        220
+      ],
+      "INPUT": [
+        234
+      ]
+    },
+    "minecraft__lingering_potion__35c38396473d7774fc4ae329c6ef084f": {
+      "OUTPUT": [
+        183,
+        213
+      ]
+    },
+    "minecraft__lingering_potion__f062acae657b052d75f1f4f1fd87923a": {
+      "OUTPUT": [
+        184,
+        206,
+        208
+      ],
+      "INPUT": [
+        243,
+        246
+      ]
+    },
+    "minecraft__lingering_potion__c5ce9f3a7bb3efede7631b11769ff677": {
+      "OUTPUT": [
+        185,
+        226
+      ]
+    },
+    "minecraft__lingering_potion__1822a5cc6e8c0dcef393ed63be983b65": {
+      "OUTPUT": [
+        186,
+        216
+      ],
+      "INPUT": [
+        239
+      ]
+    },
+    "minecraft__lingering_potion__41d6b157fe1146afc9861d4ed39597af": {
+      "OUTPUT": [
+        187,
+        230
+      ]
+    },
+    "minecraft__lingering_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
+      "OUTPUT": [
+        188,
+        212
+      ]
+    },
+    "minecraft__lingering_potion__045306c8c707b047e9a215a227f5a3c1": {
+      "OUTPUT": [
+        189,
+        214
+      ]
+    },
+    "minecraft__lingering_potion__2ab263caa028ef2cb5f011203446a75b": {
+      "OUTPUT": [
+        190,
+        224
+      ],
+      "INPUT": [
+        240
+      ]
+    },
+    "minecraft__lingering_potion__da09584e8c12b381ba8a8feeab7a6902": {
+      "OUTPUT": [
+        191,
+        205
+      ],
+      "INPUT": [
+        245
+      ]
+    },
+    "minecraft__lingering_potion__2dde18d159df07886c07d6c3359660f2": {
+      "OUTPUT": [
+        192,
+        217
+      ]
+    },
+    "minecraft__lingering_potion__5d0fea03e8823c628163ffd08b8260b2": {
+      "OUTPUT": [
         193,
-        194
+        211
+      ],
+      "INPUT": [
+        238
+      ]
+    },
+    "minecraft__lingering_potion__5bfb814833db76e3df1ad0d1cb761702": {
+      "OUTPUT": [
+        194,
+        232
+      ]
+    },
+    "minecraft__lingering_potion__96903724c233810c71678fc2cc582388": {
+      "OUTPUT": [
+        195,
+        231
+      ],
+      "INPUT": [
+        242
+      ]
+    },
+    "minecraft__lingering_potion__8a3ef662e94010f388e0dfeea82cfe77": {
+      "OUTPUT": [
+        196,
+        225
+      ]
+    },
+    "minecraft__lingering_potion__33b3d5408af1cba6d2ae43376e6f436c": {
+      "OUTPUT": [
+        197,
+        228
+      ]
+    },
+    "minecraft__lingering_potion__ff24d0419d0e166ddfe2180c4332b934": {
+      "OUTPUT": [
+        198,
+        215
+      ]
+    },
+    "minecraft__lingering_potion__4a84d5cb813f822eac725971dfd6cd1e": {
+      "OUTPUT": [
+        199,
+        229
+      ],
+      "INPUT": [
+        209
+      ]
+    },
+    "minecraft__lingering_potion__d98ea99c3df2eb0508cfc212b966782c": {
+      "OUTPUT": [
+        200,
+        233
+      ]
+    },
+    "minecraft__lingering_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
+      "OUTPUT": [
+        201,
+        227
+      ],
+      "INPUT": [
+        241
+      ]
+    },
+    "minecraft__lingering_potion__d2e0c6224cabcefd39daff8fbf2b579c": {
+      "OUTPUT": [
+        202,
+        207,
+        209,
+        210
       ],
       "INPUT": [
         244
@@ -12724,219 +12886,57 @@
     },
     "minecraft__splash_potion__adb34d0ab4189bbd9c657da41841c2c2": {
       "OUTPUT": [
-        180,
-        195
-      ],
-      "INPUT": [
-        242
-      ]
-    },
-    "minecraft__splash_potion__65785875cf30774daea49b653cc17d05": {
-      "OUTPUT": [
-        181,
-        190,
-        191,
-        196
-      ],
-      "INPUT": [
-        243
-      ]
-    },
-    "minecraft__lingering_potion__f062acae657b052d75f1f4f1fd87923a": {
-      "OUTPUT": [
-        184,
-        188,
-        211
-      ],
-      "INPUT": [
-        240,
-        245
-      ]
-    },
-    "minecraft__lingering_potion__da09584e8c12b381ba8a8feeab7a6902": {
-      "OUTPUT": [
-        185,
-        217
-      ],
-      "INPUT": [
-        239
-      ]
-    },
-    "minecraft__lingering_potion__d2e0c6224cabcefd39daff8fbf2b579c": {
-      "OUTPUT": [
-        186,
-        187,
-        189,
-        223
-      ],
-      "INPUT": [
-        246
-      ]
-    },
-    "minecraft__lingering_potion__4a84d5cb813f822eac725971dfd6cd1e": {
-      "INPUT": [
-        187
-      ],
-      "OUTPUT": [
-        205,
-        214
-      ]
-    },
-    "minecraft__lingering_potion__e3f2e1acc2bc16b9c08caf8d3dcd0958": {
-      "OUTPUT": [
-        197,
-        222
-      ],
-      "INPUT": [
-        235
-      ]
-    },
-    "minecraft__lingering_potion__2ab263caa028ef2cb5f011203446a75b": {
-      "OUTPUT": [
-        198,
-        216
-      ],
-      "INPUT": [
-        234
-      ]
-    },
-    "minecraft__lingering_potion__41d6b157fe1146afc9861d4ed39597af": {
-      "OUTPUT": [
-        199,
-        224
-      ]
-    },
-    "minecraft__lingering_potion__c5ce9f3a7bb3efede7631b11769ff677": {
-      "OUTPUT": [
-        200,
-        212
-      ]
-    },
-    "minecraft__lingering_potion__33b3d5408af1cba6d2ae43376e6f436c": {
-      "OUTPUT": [
-        201,
-        218
-      ]
-    },
-    "minecraft__lingering_potion__96903724c233810c71678fc2cc582388": {
-      "OUTPUT": [
-        202,
-        221
-      ],
-      "INPUT": [
-        236
-      ]
-    },
-    "minecraft__lingering_potion__5bfb814833db76e3df1ad0d1cb761702": {
-      "OUTPUT": [
         203,
-        210
-      ]
-    },
-    "minecraft__lingering_potion__8a3ef662e94010f388e0dfeea82cfe77": {
-      "OUTPUT": [
-        204,
-        209
-      ]
-    },
-    "minecraft__lingering_potion__d98ea99c3df2eb0508cfc212b966782c": {
-      "OUTPUT": [
-        206,
-        213
-      ]
-    },
-    "minecraft__lingering_potion__1822a5cc6e8c0dcef393ed63be983b65": {
-      "OUTPUT": [
-        207,
-        231
+        219
       ],
       "INPUT": [
         237
       ]
     },
-    "minecraft__lingering_potion__ff24d0419d0e166ddfe2180c4332b934": {
-      "OUTPUT": [
-        208,
-        232
-      ]
-    },
-    "minecraft__lingering_potion__045306c8c707b047e9a215a227f5a3c1": {
-      "OUTPUT": [
-        215,
-        229
-      ]
-    },
-    "minecraft__lingering_potion__8ba0e7bc0822b5fcc21ecdc8fc1175ef": {
-      "OUTPUT": [
-        219,
-        227
-      ]
-    },
-    "minecraft__lingering_potion__35c38396473d7774fc4ae329c6ef084f": {
-      "OUTPUT": [
-        220,
-        228
-      ]
-    },
-    "minecraft__lingering_potion__2dde18d159df07886c07d6c3359660f2": {
-      "OUTPUT": [
-        225,
-        233
-      ]
-    },
-    "minecraft__lingering_potion__5d0fea03e8823c628163ffd08b8260b2": {
-      "OUTPUT": [
-        226,
-        230
-      ],
-      "INPUT": [
-        238
-      ]
-    },
-    "minecraft__lingering_potion__e921377df71f4486b55c6e0d07897eba": {
+    "minecraft__lingering_potion__65785875cf30774daea49b653cc17d05": {
       "OUTPUT": [
         234,
+        238,
         239,
-        241
+        244
       ]
     },
     "minecraft__lingering_potion__cfc29ec3ec5579eb147a587738632863": {
       "OUTPUT": [
         235,
-        236,
-        240,
-        244
+        241,
+        242,
+        246
       ]
     },
-    "minecraft__lingering_potion__65785875cf30774daea49b653cc17d05": {
+    "minecraft__lingering_potion__e921377df71f4486b55c6e0d07897eba": {
       "OUTPUT": [
-        237,
-        238,
-        243,
-        246
+        236,
+        240,
+        245
       ]
     },
     "minecraft__lingering_potion__adb34d0ab4189bbd9c657da41841c2c2": {
       "OUTPUT": [
-        242,
-        245
-      ]
-    },
-    "minecraft__potion__37fa2f80a4147473c47310b57963d610": {
-      "INPUT": [
-        247
+        237,
+        243
       ]
     },
     "minecraft__splash_potion__37fa2f80a4147473c47310b57963d610": {
-      "OUTPUT": [
+      "INPUT": [
         247
       ],
-      "INPUT": [
+      "OUTPUT": [
         248
       ]
     },
     "minecraft__lingering_potion__37fa2f80a4147473c47310b57963d610": {
       "OUTPUT": [
+        247
+      ]
+    },
+    "minecraft__potion__37fa2f80a4147473c47310b57963d610": {
+      "INPUT": [
         248
       ]
     }
@@ -12972,22 +12972,22 @@
         2
       ]
     },
-    "minecraft__salmon": {
+    "minecraft__cod": {
       "INPUT": [
         3
       ]
     },
-    "minecraft__cooked_salmon": {
+    "minecraft__cooked_cod": {
       "OUTPUT": [
         3
       ]
     },
-    "minecraft__cod": {
+    "minecraft__salmon": {
       "INPUT": [
         4
       ]
     },
-    "minecraft__cooked_cod": {
+    "minecraft__cooked_salmon": {
       "OUTPUT": [
         4
       ]
@@ -13002,22 +13002,22 @@
         5
       ]
     },
-    "minecraft__porkchop": {
+    "minecraft__beef": {
       "INPUT": [
         6
       ]
     },
-    "minecraft__cooked_porkchop": {
+    "minecraft__cooked_beef": {
       "OUTPUT": [
         6
       ]
     },
-    "minecraft__beef": {
+    "minecraft__porkchop": {
       "INPUT": [
         7
       ]
     },
-    "minecraft__cooked_beef": {
+    "minecraft__cooked_porkchop": {
       "OUTPUT": [
         7
       ]
@@ -13511,7 +13511,7 @@
         0
       ],
       "INPUT": [
-        198
+        199
       ]
     },
     "minecraft__oak_planks": {
@@ -13521,49 +13521,49 @@
         2,
         22,
         45,
-        83,
+        84,
         86,
         89,
         96,
         106,
         133,
-        146,
+        145,
         208,
         215,
         221,
-        224,
+        226,
         250,
         287,
         291,
         300,
         302,
         303,
-        318,
+        321,
         332,
-        352,
+        351,
         360,
         371,
         401,
-        404,
+        403,
         420,
         462,
         470,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
         567,
-        577,
-        596,
-        635,
-        649,
+        576,
+        595,
+        636,
+        648,
         673,
         687,
         722,
-        745
+        747
       ],
       "OUTPUT": [
         672
@@ -13577,32 +13577,32 @@
         22,
         45,
         78,
-        83,
+        84,
         86,
         89,
         90,
         96,
         106,
         133,
-        139,
-        146,
+        138,
+        145,
         208,
         221,
-        224,
+        226,
         250,
         300,
         302,
         303,
-        318,
         319,
+        321,
         332,
         401,
-        404,
+        403,
         462,
         470,
         492,
         504,
-        515,
+        514,
         520,
         521,
         524,
@@ -13610,15 +13610,15 @@
         557,
         559,
         561,
-        577,
-        596,
+        576,
+        595,
         667,
         673,
         687,
         689,
-        719,
+        720,
         722,
-        745
+        747
       ],
       "OUTPUT": [
         32
@@ -13632,48 +13632,48 @@
         22,
         33,
         45,
-        83,
+        84,
         86,
         89,
         96,
         106,
         133,
-        146,
-        171,
+        145,
+        170,
         208,
         221,
-        224,
+        226,
         250,
-        275,
+        276,
         300,
         301,
         302,
         303,
         305,
-        318,
+        321,
         330,
         332,
         401,
-        404,
+        403,
         462,
         470,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
         560,
-        577,
-        596,
+        576,
+        595,
         655,
         659,
         673,
         687,
-        720,
+        721,
         722,
-        745
+        747
       ],
       "OUTPUT": [
         704
@@ -13686,24 +13686,24 @@
         2,
         22,
         45,
-        83,
+        84,
         86,
         89,
         96,
         101,
         106,
         133,
-        146,
+        145,
         208,
         221,
-        224,
+        226,
         232,
         250,
         300,
         302,
         303,
         311,
-        318,
+        321,
         332,
         399,
         401,
@@ -13714,24 +13714,24 @@
         475,
         489,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
-        577,
+        576,
         587,
-        594,
+        595,
         596,
         673,
         675,
         687,
         722,
-        745
+        747
       ],
       "OUTPUT": [
-        387
+        386
       ]
     },
     "minecraft__acacia_planks": {
@@ -13741,52 +13741,52 @@
         2,
         22,
         45,
-        83,
+        84,
         86,
         89,
         94,
         96,
         100,
         106,
-        117,
+        118,
         133,
-        146,
+        145,
         184,
         208,
         212,
         221,
-        224,
+        226,
         250,
         271,
         300,
         302,
         303,
-        318,
+        321,
         332,
         368,
         388,
         401,
-        404,
+        403,
         462,
         470,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
-        563,
-        577,
-        596,
+        562,
+        576,
+        595,
         643,
         673,
         687,
         722,
-        745
+        747
       ],
       "OUTPUT": [
-        718
+        719
       ]
     },
     "minecraft__dark_oak_planks": {
@@ -13797,7 +13797,7 @@
         4,
         22,
         45,
-        83,
+        84,
         86,
         89,
         95,
@@ -13805,40 +13805,40 @@
         98,
         106,
         133,
-        146,
+        145,
         208,
         221,
-        224,
+        226,
         236,
         250,
         300,
         302,
         303,
-        318,
+        321,
         332,
         389,
         401,
-        404,
-        412,
+        403,
+        413,
         462,
         467,
         470,
         476,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
-        577,
-        596,
+        576,
+        595,
         597,
         673,
         687,
         722,
         729,
-        745
+        747
       ],
       "OUTPUT": [
         346
@@ -13851,51 +13851,51 @@
         2,
         22,
         45,
-        83,
+        84,
         86,
         89,
         96,
         106,
         133,
-        146,
+        145,
         208,
         221,
-        224,
+        226,
         233,
         250,
         300,
         302,
         303,
-        318,
+        321,
         325,
         332,
         344,
-        380,
+        381,
         401,
-        404,
+        403,
         462,
         470,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
-        577,
-        596,
+        576,
+        595,
         612,
         625,
         662,
-        670,
+        671,
         673,
         687,
         694,
         722,
-        745
+        747
       ],
       "OUTPUT": [
-        650
+        649
       ]
     },
     "minecraft__warped_planks": {
@@ -13907,46 +13907,46 @@
         43,
         45,
         63,
-        83,
+        84,
         86,
         89,
         96,
         106,
         133,
-        146,
+        145,
         196,
         208,
         221,
-        224,
+        226,
         250,
         300,
         302,
         303,
-        318,
+        321,
         332,
         379,
-        381,
+        380,
         401,
-        404,
-        413,
+        403,
+        412,
         462,
         470,
         492,
-        515,
+        514,
         520,
         521,
         529,
         553,
         557,
         559,
-        577,
-        596,
+        576,
+        595,
         637,
         673,
         677,
         687,
         722,
-        745
+        747
       ],
       "OUTPUT": [
         293
@@ -13960,51 +13960,51 @@
         22,
         45,
         59,
-        76,
-        83,
+        77,
+        84,
         86,
         89,
         96,
         106,
         133,
-        146,
+        145,
         204,
         208,
         221,
-        224,
+        226,
         250,
         290,
         300,
         302,
         303,
-        318,
+        321,
         332,
         393,
         401,
-        404,
+        403,
         415,
         454,
         462,
         470,
-        484,
+        483,
         492,
-        515,
+        514,
         520,
         521,
         529,
         557,
         559,
-        577,
-        596,
+        576,
+        595,
         658,
         673,
         678,
         687,
         722,
-        745
+        747
       ],
       "OUTPUT": [
-        671
+        670
       ]
     },
     "minecraft__cobblestone": {
@@ -14014,18 +14014,18 @@
         21,
         42,
         53,
-        161,
+        159,
         162,
-        176,
+        175,
         214,
         361,
         366,
         445,
-        457,
+        456,
         477,
         488,
         551,
-        584,
+        585,
         654,
         725
       ]
@@ -14034,41 +14034,41 @@
       "INPUT": [
         0,
         17,
-        31,
+        30,
         45,
         47,
         65,
-        70,
+        67,
         79,
-        87,
+        88,
         102,
-        134,
+        135,
         158,
         220,
-        224,
+        226,
         244,
-        257,
+        259,
         278,
         304,
         324,
-        358,
+        357,
         382,
         395,
         520,
         527,
         549,
-        562,
+        563,
         580,
         608,
-        630,
+        629,
         641,
-        665,
+        666,
         679,
         685,
         749
       ],
       "OUTPUT": [
-        383,
+        384,
         422
       ]
     },
@@ -14076,8 +14076,8 @@
       "INPUT": [
         0,
         21,
-        176,
-        179,
+        175,
+        178,
         209,
         220,
         239,
@@ -14085,9 +14085,9 @@
         392,
         395,
         438,
-        448,
+        447,
         725,
-        745
+        747
       ],
       "OUTPUT": [
         201
@@ -14096,15 +14096,15 @@
     "minecraft__brown_bed": {
       "OUTPUT": [
         1,
-        543
+        541
       ]
     },
     "minecraft__brown_wool": {
       "INPUT": [
         1,
-        242,
+        243,
         310,
-        490
+        491
       ],
       "OUTPUT": [
         326
@@ -14119,12 +14119,12 @@
     "minecraft__blue_wool": {
       "INPUT": [
         2,
-        242,
+        243,
         320,
         497
       ],
       "OUTPUT": [
-        742
+        743
       ]
     },
     "minecraft__yellow_dye": {
@@ -14134,14 +14134,14 @@
       ],
       "INPUT": [
         177,
-        226,
+        224,
         229,
         334,
         370,
         398,
         453,
         505,
-        666,
+        665,
         830
       ]
     },
@@ -14159,23 +14159,38 @@
     "minecraft__light_gray_carpet": {
       "OUTPUT": [
         5,
-        405
+        406
       ]
     },
     "minecraft__light_gray_wool": {
       "INPUT": [
         5,
-        16,
-        242,
+        15,
+        243,
         302
       ],
       "OUTPUT": [
         125
       ]
     },
-    "minecraft__white_banner": {
+    "minecraft__polished_blackstone_brick_slab": {
       "OUTPUT": [
         6
+      ]
+    },
+    "minecraft__polished_blackstone_bricks": {
+      "INPUT": [
+        6,
+        217,
+        487
+      ],
+      "OUTPUT": [
+        40
+      ]
+    },
+    "minecraft__white_banner": {
+      "OUTPUT": [
+        7
       ],
       "INPUT": [
         810
@@ -14183,15 +14198,15 @@
     },
     "minecraft__white_wool": {
       "INPUT": [
-        6,
-        14,
-        30,
-        56,
+        7,
+        13,
+        31,
+        58,
         74,
-        124,
+        123,
         125,
         128,
-        242,
+        243,
         266,
         268,
         326,
@@ -14201,7 +14216,7 @@
         550,
         559,
         631,
-        742
+        743
       ],
       "OUTPUT": [
         336
@@ -14209,8 +14224,8 @@
     },
     "minecraft__stick": {
       "INPUT": [
-        6,
-        16,
+        7,
+        15,
         18,
         20,
         22,
@@ -14223,12 +14238,12 @@
         78,
         80,
         90,
-        112,
-        134,
-        139,
-        145,
+        111,
+        135,
+        138,
+        146,
         155,
-        161,
+        159,
         172,
         197,
         208,
@@ -14238,7 +14253,7 @@
         232,
         233,
         240,
-        242,
+        243,
         244,
         253,
         290,
@@ -14249,7 +14264,7 @@
         361,
         368,
         373,
-        381,
+        380,
         382,
         385,
         388,
@@ -14267,54 +14282,39 @@
         467,
         481,
         488,
-        490,
+        491,
         497,
-        515,
-        537,
+        514,
+        538,
         549,
         552,
-        563,
+        562,
         580,
         584,
         585,
         588,
         589,
-        594,
+        596,
         597,
         599,
-        618,
+        617,
         622,
-        635,
-        649,
+        636,
+        648,
         655,
         662,
-        665,
+        666,
         675,
         677,
         679,
         685,
-        699,
+        700,
         722,
         728
       ],
       "OUTPUT": [
         222,
         470
-      ]
-    },
-    "minecraft__polished_blackstone_brick_slab": {
-      "OUTPUT": [
-        7
-      ]
-    },
-    "minecraft__polished_blackstone_bricks": {
-      "INPUT": [
-        7,
-        217,
-        487
-      ],
-      "OUTPUT": [
-        39
       ]
     },
     "minecraft__magenta_stained_glass_pane": {
@@ -14327,14 +14327,14 @@
       "INPUT": [
         8,
         35,
-        88,
-        92,
-        118,
+        87,
+        91,
+        117,
         129,
         234,
-        259,
+        256,
         339,
-        351,
+        352,
         370,
         397,
         503,
@@ -14349,69 +14349,58 @@
     "minecraft__magenta_dye": {
       "INPUT": [
         8,
-        56,
-        61,
+        58,
+        60,
         265,
-        536,
+        535,
         583,
         656,
-        690,
+        691,
         828
       ],
       "OUTPUT": [
         116,
         137,
         152,
-        429,
-        693
-      ]
-    },
-    "minecraft__smooth_red_sandstone_stairs": {
-      "OUTPUT": [
-        9
-      ]
-    },
-    "minecraft__smooth_red_sandstone": {
-      "INPUT": [
-        9,
-        168
+        430,
+        695
       ]
     },
     "minecraft__end_crystal": {
       "OUTPUT": [
-        10
+        9
       ]
     },
     "minecraft__glass": {
       "INPUT": [
-        10,
-        25,
+        9,
+        24,
         34,
-        61,
-        138,
+        60,
+        139,
         153,
         160,
         218,
         223,
         296,
         335,
-        357,
+        358,
         409,
         421,
         505,
         507,
-        579,
+        578,
         606,
         634,
         713,
         739,
-        752
+        751
       ]
     },
     "minecraft__ender_eye": {
       "INPUT": [
-        10,
-        60
+        9,
+        61
       ],
       "OUTPUT": [
         554
@@ -14419,7 +14408,18 @@
     },
     "minecraft__ghast_tear": {
       "INPUT": [
+        9
+      ]
+    },
+    "minecraft__smooth_red_sandstone_stairs": {
+      "OUTPUT": [
         10
+      ]
+    },
+    "minecraft__smooth_red_sandstone": {
+      "INPUT": [
+        10,
+        168
       ]
     },
     "minecraft__chiseled_deepslate": {
@@ -14443,64 +14443,99 @@
     "minecraft__candle": {
       "INPUT": [
         12,
-        72,
+        73,
         126,
-        226,
+        224,
         294,
         306,
-        478,
+        480,
         532,
-        548,
+        547,
         572,
         582,
         647,
         652,
         674,
         676,
-        690
+        691
       ],
       "OUTPUT": [
-        349
+        350
       ]
     },
     "minecraft__gray_dye": {
       "INPUT": [
         12,
-        88,
+        87,
         148,
         230,
         272,
         281,
         450,
-        579,
+        578,
         730,
         833
       ],
       "OUTPUT": [
-        57
+        55
+      ]
+    },
+    "minecraft__red_wool": {
+      "OUTPUT": [
+        13
+      ],
+      "INPUT": [
+        155,
+        243,
+        595,
+        715
+      ]
+    },
+    "minecraft__red_dye": {
+      "INPUT": [
+        13,
+        34,
+        52,
+        137,
+        183,
+        241,
+        306,
+        564,
+        586,
+        642,
+        665,
+        682,
+        695,
+        840
+      ],
+      "OUTPUT": [
+        292,
+        295,
+        536,
+        577
       ]
     },
     "minecraft__rabbit_stew": {
       "OUTPUT": [
-        13,
+        14,
         639
       ]
     },
     "minecraft__baked_potato": {
       "INPUT": [
-        13,
+        14,
         639
       ]
     },
     "minecraft__cooked_rabbit": {
       "INPUT": [
-        13,
+        14,
         639
       ]
     },
     "minecraft__bowl": {
       "INPUT": [
-        13,
+        14,
         66,
         288,
         639,
@@ -14524,15 +14559,15 @@
     },
     "minecraft__carrot": {
       "INPUT": [
-        13,
+        14,
         322,
-        494,
+        495,
         639
       ]
     },
     "minecraft__brown_mushroom": {
       "INPUT": [
-        13,
+        14,
         288,
         581,
         797,
@@ -14550,44 +14585,17 @@
         809
       ]
     },
-    "minecraft__red_wool": {
+    "minecraft__light_gray_banner": {
       "OUTPUT": [
-        14
+        15
       ],
       "INPUT": [
-        155,
-        242,
-        596,
-        714
-      ]
-    },
-    "minecraft__red_dye": {
-      "INPUT": [
-        14,
-        34,
-        52,
-        137,
-        183,
-        241,
-        306,
-        565,
-        586,
-        642,
-        666,
-        682,
-        693,
-        840
-      ],
-      "OUTPUT": [
-        292,
-        295,
-        535,
-        576
+        818
       ]
     },
     "minecraft__stripped_dark_oak_wood": {
       "OUTPUT": [
-        15
+        16
       ],
       "INPUT": [
         346,
@@ -14598,19 +14606,11 @@
     },
     "minecraft__stripped_dark_oak_log": {
       "INPUT": [
-        15,
+        16,
         346,
         407,
         622,
         728
-      ]
-    },
-    "minecraft__light_gray_banner": {
-      "OUTPUT": [
-        16
-      ],
-      "INPUT": [
-        818
       ]
     },
     "minecraft__stonecutter": {
@@ -14638,15 +14638,15 @@
     "minecraft__blackstone": {
       "INPUT": [
         18,
-        161,
+        159,
         231,
         361,
         466,
         477,
         488,
         496,
-        525,
-        584,
+        526,
+        585,
         654
       ]
     },
@@ -14654,13 +14654,13 @@
       "INPUT": [
         18,
         144,
-        161,
+        159,
         202,
         361,
         477,
         488,
-        514,
-        584,
+        515,
+        585,
         600,
         654
       ]
@@ -14708,7 +14708,7 @@
         566
       ],
       "OUTPUT": [
-        577
+        576
       ]
     },
     "minecraft__trapped_chest": {
@@ -14741,7 +14741,7 @@
       "INPUT": [
         20,
         68,
-        199,
+        198,
         210,
         728
       ],
@@ -14752,7 +14752,7 @@
     "minecraft__charcoal": {
       "INPUT": [
         20,
-        199,
+        198,
         210,
         728
       ]
@@ -14798,48 +14798,30 @@
         23
       ],
       "OUTPUT": [
-        357
-      ]
-    },
-    "minecraft__bone_block": {
-      "OUTPUT": [
-        24
-      ],
-      "INPUT": [
-        206
-      ]
-    },
-    "minecraft__bone_meal": {
-      "INPUT": [
-        24,
-        200
-      ],
-      "OUTPUT": [
-        206,
-        307
+        358
       ]
     },
     "minecraft__daylight_detector": {
       "OUTPUT": [
-        25
+        24
       ]
     },
     "minecraft__quartz": {
       "INPUT": [
-        25,
+        24,
         237,
         366,
         369,
-        431,
+        432,
         725
       ]
     },
     "minecraft__oak_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         371
@@ -14847,10 +14829,10 @@
     },
     "minecraft__spruce_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         561
@@ -14858,10 +14840,10 @@
     },
     "minecraft__birch_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         560
@@ -14869,21 +14851,21 @@
     },
     "minecraft__jungle_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
-        403
+        404
       ]
     },
     "minecraft__acacia_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         100
@@ -14891,10 +14873,10 @@
     },
     "minecraft__dark_oak_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         729
@@ -14902,10 +14884,10 @@
     },
     "minecraft__crimson_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
         694
@@ -14913,34 +14895,68 @@
     },
     "minecraft__warped_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
-        413
+        412
       ]
     },
     "minecraft__mangrove_slab": {
       "INPUT": [
-        25,
+        24,
         414,
         492,
-        555
+        556
       ],
       "OUTPUT": [
-        484
+        483
+      ]
+    },
+    "minecraft__bone_block": {
+      "OUTPUT": [
+        25
+      ],
+      "INPUT": [
+        205
+      ]
+    },
+    "minecraft__bone_meal": {
+      "INPUT": [
+        25,
+        200
+      ],
+      "OUTPUT": [
+        205,
+        307
+      ]
+    },
+    "minecraft__raw_iron": {
+      "OUTPUT": [
+        26
+      ],
+      "INPUT": [
+        345
+      ]
+    },
+    "minecraft__raw_iron_block": {
+      "INPUT": [
+        26
+      ],
+      "OUTPUT": [
+        345
       ]
     },
     "minecraft__quartz_stairs": {
       "OUTPUT": [
-        26
+        27
       ]
     },
     "minecraft__chiseled_quartz_block": {
       "INPUT": [
-        26,
+        27,
         686
       ],
       "OUTPUT": [
@@ -14949,10 +14965,10 @@
     },
     "minecraft__quartz_block": {
       "INPUT": [
-        26,
+        27,
         249,
         686,
-        723
+        724
       ],
       "OUTPUT": [
         369
@@ -14960,27 +14976,11 @@
     },
     "minecraft__quartz_pillar": {
       "INPUT": [
-        26,
+        27,
         686
       ],
       "OUTPUT": [
-        723
-      ]
-    },
-    "minecraft__raw_iron": {
-      "OUTPUT": [
-        27
-      ],
-      "INPUT": [
-        345
-      ]
-    },
-    "minecraft__raw_iron_block": {
-      "INPUT": [
-        27
-      ],
-      "OUTPUT": [
-        345
+        724
       ]
     },
     "minecraft__diorite_wall": {
@@ -14991,9 +14991,9 @@
     "minecraft__diorite": {
       "INPUT": [
         28,
-        91,
-        431,
-        457,
+        92,
+        432,
+        456,
         502,
         657
       ],
@@ -15010,46 +15010,46 @@
       "INPUT": [
         29,
         376,
-        432
-      ]
-    },
-    "minecraft__white_carpet": {
-      "OUTPUT": [
-        30
-      ],
-      "INPUT": [
-        121,
-        243,
-        265,
-        334,
-        402,
-        405,
-        479,
-        506,
-        565,
-        629,
-        663,
-        669,
-        715,
-        730,
-        736
+        429
       ]
     },
     "minecraft__iron_nugget": {
       "OUTPUT": [
-        31
+        30
       ],
       "INPUT": [
         51,
         422,
         603,
-        630
+        629
+      ]
+    },
+    "minecraft__white_carpet": {
+      "OUTPUT": [
+        31
+      ],
+      "INPUT": [
+        121,
+        242,
+        265,
+        334,
+        402,
+        406,
+        479,
+        506,
+        564,
+        630,
+        663,
+        669,
+        714,
+        730,
+        736
       ]
     },
     "minecraft__spruce_log": {
       "INPUT": [
         32,
-        135,
+        134,
         407,
         622,
         728
@@ -15063,7 +15063,7 @@
         728
       ],
       "OUTPUT": [
-        135
+        134
       ]
     },
     "minecraft__stripped_spruce_log": {
@@ -15110,10 +15110,10 @@
         35,
         125,
         335,
-        405,
+        406,
         532,
         558,
-        648,
+        650,
         735,
         834
       ],
@@ -15125,25 +15125,10 @@
         707
       ]
     },
-    "minecraft__red_nether_brick_slab": {
-      "OUTPUT": [
-        36
-      ]
-    },
-    "minecraft__red_nether_bricks": {
-      "INPUT": [
-        36,
-        473,
-        516
-      ],
-      "OUTPUT": [
-        408
-      ]
-    },
     "minecraft__waxed_oxidized_cut_copper": {
       "OUTPUT": [
-        37,
-        84
+        36,
+        83
       ],
       "INPUT": [
         167,
@@ -15152,25 +15137,25 @@
     },
     "minecraft__oxidized_cut_copper": {
       "INPUT": [
-        37,
+        36,
         328,
         449
       ],
       "OUTPUT": [
-        617
+        618
       ]
     },
     "minecraft__honeycomb": {
       "INPUT": [
-        37,
-        41,
+        36,
+        38,
         89,
         114,
-        175,
+        176,
         195,
         277,
         297,
-        349,
+        350,
         364,
         433,
         468,
@@ -15179,21 +15164,56 @@
         539,
         573,
         638,
-        645,
+        644,
         734
+      ]
+    },
+    "minecraft__red_nether_brick_slab": {
+      "OUTPUT": [
+        37
+      ]
+    },
+    "minecraft__red_nether_bricks": {
+      "INPUT": [
+        37,
+        474,
+        516
+      ],
+      "OUTPUT": [
+        408
+      ]
+    },
+    "minecraft__waxed_exposed_cut_copper": {
+      "OUTPUT": [
+        38,
+        390
+      ],
+      "INPUT": [
+        150,
+        593
+      ]
+    },
+    "minecraft__exposed_cut_copper": {
+      "INPUT": [
+        38,
+        154,
+        579
+      ],
+      "OUTPUT": [
+        465
       ]
     },
     "minecraft__purpur_slab": {
       "OUTPUT": [
-        38
+        39
       ],
       "INPUT": [
-        157
+        156
       ]
     },
     "minecraft__purpur_block": {
       "INPUT": [
-        38,
+        39,
         737
       ],
       "OUTPUT": [
@@ -15202,17 +15222,17 @@
     },
     "minecraft__purpur_pillar": {
       "INPUT": [
-        38,
+        39,
         737
       ],
       "OUTPUT": [
-        157
+        156
       ]
     },
     "minecraft__polished_blackstone": {
       "INPUT": [
-        39,
-        156,
+        40,
+        157,
         169,
         247,
         248,
@@ -15224,39 +15244,19 @@
     },
     "minecraft__green_carpet": {
       "OUTPUT": [
-        40,
-        243
+        41,
+        242
       ]
     },
     "minecraft__green_wool": {
       "INPUT": [
-        40,
+        41,
         54,
-        242,
+        243,
         521
       ],
       "OUTPUT": [
         452
-      ]
-    },
-    "minecraft__waxed_exposed_cut_copper": {
-      "OUTPUT": [
-        41,
-        390
-      ],
-      "INPUT": [
-        150,
-        593
-      ]
-    },
-    "minecraft__exposed_cut_copper": {
-      "INPUT": [
-        41,
-        154,
-        578
-      ],
-      "OUTPUT": [
-        465
       ]
     },
     "minecraft__mossy_cobblestone": {
@@ -15267,14 +15267,14 @@
       "INPUT": [
         149,
         441,
-        746
+        745
       ]
     },
     "minecraft__moss_block": {
       "INPUT": [
         42,
         440,
-        458
+        457
       ]
     },
     "minecraft__warped_fence_gate": {
@@ -15341,11 +15341,11 @@
       "INPUT": [
         49,
         133,
-        242,
+        243,
         394
       ],
       "OUTPUT": [
-        56
+        58
       ]
     },
     "minecraft__raw_gold": {
@@ -15353,7 +15353,7 @@
         50
       ],
       "INPUT": [
-        273
+        274
       ]
     },
     "minecraft__raw_gold_block": {
@@ -15361,7 +15361,7 @@
         50
       ],
       "OUTPUT": [
-        273
+        274
       ]
     },
     "minecraft__lantern": {
@@ -15372,25 +15372,25 @@
     "minecraft__red_bed": {
       "OUTPUT": [
         52,
-        596
+        595
       ]
     },
     "minecraft__white_bed": {
       "INPUT": [
         52,
-        71,
+        72,
         85,
-        122,
+        124,
         177,
         269,
         281,
         309,
         372,
-        384,
-        543,
+        383,
+        541,
         620,
         656,
-        695,
+        693,
         735
       ],
       "OUTPUT": [
@@ -15410,25 +15410,9 @@
         823
       ]
     },
-    "minecraft__dried_kelp": {
-      "OUTPUT": [
-        55
-      ],
-      "INPUT": [
-        254
-      ]
-    },
-    "minecraft__dried_kelp_block": {
-      "INPUT": [
-        55
-      ],
-      "OUTPUT": [
-        254
-      ]
-    },
     "minecraft__black_dye": {
       "INPUT": [
-        57,
+        55,
         74,
         269,
         338,
@@ -15438,7 +15422,7 @@
         647,
         696,
         707,
-        752,
+        751,
         841
       ],
       "OUTPUT": [
@@ -15448,14 +15432,14 @@
     },
     "minecraft__white_dye": {
       "INPUT": [
-        57,
-        92,
+        55,
+        91,
         137,
         148,
         183,
         451,
         472,
-        478,
+        480,
         668,
         697,
         707,
@@ -15469,16 +15453,32 @@
     },
     "minecraft__lime_stained_glass_pane": {
       "OUTPUT": [
-        58,
+        56,
         503
       ]
     },
     "minecraft__lime_stained_glass": {
       "INPUT": [
-        58
+        56
       ],
       "OUTPUT": [
         739
+      ]
+    },
+    "minecraft__dried_kelp": {
+      "OUTPUT": [
+        57
+      ],
+      "INPUT": [
+        257
+      ]
+    },
+    "minecraft__dried_kelp_block": {
+      "INPUT": [
+        57
+      ],
+      "OUTPUT": [
+        257
       ]
     },
     "minecraft__mangrove_fence_gate": {
@@ -15486,24 +15486,24 @@
         59
       ]
     },
-    "minecraft__ender_chest": {
+    "minecraft__magenta_stained_glass": {
       "OUTPUT": [
         60
+      ],
+      "INPUT": [
+        119
+      ]
+    },
+    "minecraft__ender_chest": {
+      "OUTPUT": [
+        61
       ]
     },
     "minecraft__obsidian": {
       "INPUT": [
-        60,
+        61,
         296,
-        711
-      ]
-    },
-    "minecraft__magenta_stained_glass": {
-      "OUTPUT": [
-        61
-      ],
-      "INPUT": [
-        119
+        710
       ]
     },
     "minecraft__gold_nugget": {
@@ -15513,7 +15513,7 @@
       "INPUT": [
         282,
         376,
-        494
+        495
       ]
     },
     "minecraft__gold_ingot": {
@@ -15522,7 +15522,7 @@
         109,
         163,
         180,
-        191,
+        190,
         197,
         209,
         343,
@@ -15533,11 +15533,11 @@
         599,
         646,
         653,
-        721
+        717
       ],
       "OUTPUT": [
         282,
-        595
+        594
       ]
     },
     "minecraft__warped_pressure_plate": {
@@ -15577,24 +15577,9 @@
         295
       ]
     },
-    "minecraft__sugar": {
+    "minecraft__iron_trapdoor": {
       "OUTPUT": [
-        67,
-        701
-      ],
-      "INPUT": [
-        461,
-        581,
-        590
-      ]
-    },
-    "minecraft__honey_bottle": {
-      "INPUT": [
-        67,
-        143
-      ],
-      "OUTPUT": [
-        314
+        67
       ]
     },
     "minecraft__coal_block": {
@@ -15621,24 +15606,55 @@
         331
       ]
     },
-    "minecraft__iron_trapdoor": {
+    "minecraft__sugar": {
       "OUTPUT": [
-        70
+        70,
+        701
+      ],
+      "INPUT": [
+        461,
+        581,
+        590
+      ]
+    },
+    "minecraft__honey_bottle": {
+      "INPUT": [
+        70,
+        143
+      ],
+      "OUTPUT": [
+        314
+      ]
+    },
+    "minecraft__deepslate_brick_wall": {
+      "OUTPUT": [
+        71
+      ]
+    },
+    "minecraft__deepslate_bricks": {
+      "INPUT": [
+        71,
+        173,
+        513,
+        705
+      ],
+      "OUTPUT": [
+        273
       ]
     },
     "minecraft__cyan_bed": {
       "OUTPUT": [
-        71,
-        318
+        72,
+        321
       ]
     },
     "minecraft__cyan_dye": {
       "INPUT": [
-        71,
+        72,
         188,
         234,
-        285,
-        357,
+        284,
+        358,
         550,
         663,
         676,
@@ -15650,39 +15666,23 @@
     },
     "minecraft__brown_candle": {
       "OUTPUT": [
-        72
+        73
       ]
     },
     "minecraft__brown_dye": {
       "INPUT": [
-        72,
+        73,
         218,
         326,
-        351,
+        352,
         354,
         506,
-        543,
+        541,
         738,
         838
       ],
       "OUTPUT": [
         428
-      ]
-    },
-    "minecraft__deepslate_brick_wall": {
-      "OUTPUT": [
-        73
-      ]
-    },
-    "minecraft__deepslate_bricks": {
-      "INPUT": [
-        73,
-        173,
-        513,
-        706
-      ],
-      "OUTPUT": [
-        274
       ]
     },
     "minecraft__black_wool": {
@@ -15692,7 +15692,7 @@
       "INPUT": [
         181,
         240,
-        242,
+        243,
         673
       ]
     },
@@ -15707,17 +15707,17 @@
         147,
         225,
         230,
-        285,
+        284,
         453,
         472,
-        526,
+        525,
         544,
         558,
         583,
         586,
         664,
-        705,
-        710,
+        706,
+        711,
         738
       ]
     },
@@ -15726,9 +15726,9 @@
         75,
         85,
         121,
-        124,
+        123,
         294,
-        483,
+        484,
         503,
         739,
         831
@@ -15737,28 +15737,28 @@
         668
       ]
     },
-    "minecraft__mangrove_button": {
-      "OUTPUT": [
-        76
-      ]
-    },
     "minecraft__slime_ball": {
       "OUTPUT": [
-        77
+        76
       ],
       "INPUT": [
-        198,
+        199,
         522,
         716,
-        717
+        718
       ]
     },
     "minecraft__slime_block": {
       "INPUT": [
-        77
+        76
       ],
       "OUTPUT": [
-        717
+        718
+      ]
+    },
+    "minecraft__mangrove_button": {
+      "OUTPUT": [
+        77
       ]
     },
     "minecraft__spruce_fence_gate": {
@@ -15779,20 +15779,20 @@
     "minecraft__diamond": {
       "INPUT": [
         80,
-        112,
+        111,
         378,
         410,
-        456,
+        458,
         499,
-        537,
+        538,
         557,
-        585,
+        584,
         588,
-        644,
-        711
+        645,
+        710
       ],
       "OUTPUT": [
-        691
+        690
       ]
     },
     "minecraft__leather_chestplate__f615bddfb62eda0c5d44ad803d556908": {
@@ -15803,10 +15803,10 @@
     "minecraft__leather": {
       "INPUT": [
         81,
-        103,
+        105,
         340,
         400,
-        474,
+        473,
         485,
         509
       ],
@@ -15819,7 +15819,7 @@
         82
       ],
       "INPUT": [
-        387,
+        386,
         407,
         622,
         728
@@ -15828,35 +15828,35 @@
     "minecraft__jungle_log": {
       "INPUT": [
         82,
-        387,
+        386,
         407,
         622,
         728
       ]
     },
+    "minecraft__waxed_oxidized_copper": {
+      "INPUT": [
+        83
+      ],
+      "OUTPUT": [
+        501
+      ]
+    },
     "minecraft__yellow_bed": {
       "OUTPUT": [
-        83,
+        84,
         177
       ]
     },
     "minecraft__yellow_wool": {
       "INPUT": [
-        83,
-        242,
+        84,
+        243,
         570,
         589
       ],
       "OUTPUT": [
         398
-      ]
-    },
-    "minecraft__waxed_oxidized_copper": {
-      "INPUT": [
-        84
-      ],
-      "OUTPUT": [
-        501
       ]
     },
     "minecraft__lime_bed": {
@@ -15873,7 +15873,7 @@
     "minecraft__paper": {
       "INPUT": [
         86,
-        190,
+        191,
         219,
         411,
         436,
@@ -15882,22 +15882,22 @@
         660
       ],
       "OUTPUT": [
-        727
-      ]
-    },
-    "minecraft__iron_block": {
-      "OUTPUT": [
-        87
-      ],
-      "INPUT": [
-        278,
-        383
+        726
       ]
     },
     "minecraft__gray_stained_glass_pane": {
       "OUTPUT": [
-        88,
+        87,
         446
+      ]
+    },
+    "minecraft__iron_block": {
+      "OUTPUT": [
+        88
+      ],
+      "INPUT": [
+        278,
+        384
       ]
     },
     "minecraft__beehive": {
@@ -15910,19 +15910,19 @@
         90
       ]
     },
-    "minecraft__polished_diorite": {
-      "OUTPUT": [
-        91
-      ],
-      "INPUT": [
-        623,
-        724
-      ]
-    },
     "minecraft__white_stained_glass_pane": {
       "OUTPUT": [
-        92,
+        91,
         341
+      ]
+    },
+    "minecraft__polished_diorite": {
+      "OUTPUT": [
+        92
+      ],
+      "INPUT": [
+        624,
+        723
       ]
     },
     "minecraft__stone_slab": {
@@ -15947,11 +15947,11 @@
       "INPUT": [
         96,
         172,
-        242,
-        700
+        243,
+        698
       ],
       "OUTPUT": [
-        124
+        123
       ]
     },
     "minecraft__writable_book": {
@@ -15963,7 +15963,7 @@
       "INPUT": [
         97,
         529,
-        711
+        710
       ],
       "OUTPUT": [
         509
@@ -16029,36 +16029,31 @@
     "minecraft__smooth_stone": {
       "INPUT": [
         102,
-        430
-      ]
-    },
-    "minecraft__leather_helmet__f615bddfb62eda0c5d44ad803d556908": {
-      "OUTPUT": [
-        103
+        431
       ]
     },
     "minecraft__polished_andesite_stairs": {
       "OUTPUT": [
-        104
+        103
       ]
     },
     "minecraft__polished_andesite": {
       "INPUT": [
-        104,
-        207
+        103,
+        206
       ],
       "OUTPUT": [
-        751
+        752
       ]
     },
     "minecraft__glow_item_frame": {
       "OUTPUT": [
-        105
+        104
       ]
     },
     "minecraft__item_frame": {
       "INPUT": [
-        105
+        104
       ],
       "OUTPUT": [
         400
@@ -16066,52 +16061,34 @@
     },
     "minecraft__glow_ink_sac": {
       "INPUT": [
+        104
+      ]
+    },
+    "minecraft__leather_helmet__f615bddfb62eda0c5d44ad803d556908": {
+      "OUTPUT": [
         105
       ]
     },
     "minecraft__light_blue_bed": {
       "OUTPUT": [
         106,
-        384
+        383
       ]
     },
     "minecraft__light_blue_wool": {
       "INPUT": [
         106,
-        131,
-        145,
-        242
+        130,
+        146,
+        243
       ],
       "OUTPUT": [
         266
       ]
     },
-    "minecraft__scaffolding": {
-      "OUTPUT": [
-        107
-      ]
-    },
-    "minecraft__bamboo": {
-      "INPUT": [
-        107,
-        222
-      ]
-    },
-    "minecraft__string": {
-      "INPUT": [
-        107,
-        253,
-        336,
-        349,
-        385,
-        404,
-        679,
-        716
-      ]
-    },
     "minecraft__oak_wood": {
       "OUTPUT": [
-        108
+        107
       ],
       "INPUT": [
         407,
@@ -16122,11 +16099,34 @@
     },
     "minecraft__oak_log": {
       "INPUT": [
-        108,
+        107,
         407,
         622,
         672,
         728
+      ]
+    },
+    "minecraft__scaffolding": {
+      "OUTPUT": [
+        108
+      ]
+    },
+    "minecraft__bamboo": {
+      "INPUT": [
+        108,
+        222
+      ]
+    },
+    "minecraft__string": {
+      "INPUT": [
+        108,
+        253,
+        336,
+        350,
+        385,
+        403,
+        679,
+        716
       ]
     },
     "minecraft__golden_apple": {
@@ -16155,22 +16155,22 @@
         203
       ]
     },
-    "minecraft__chiseled_nether_bricks": {
+    "minecraft__diamond_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         111
+      ]
+    },
+    "minecraft__chiseled_nether_bricks": {
+      "OUTPUT": [
+        112
       ]
     },
     "minecraft__nether_brick_slab": {
       "INPUT": [
-        111
+        112
       ],
       "OUTPUT": [
         702
-      ]
-    },
-    "minecraft__diamond_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
-      "OUTPUT": [
-        112
       ]
     },
     "minecraft__flower_pot": {
@@ -16181,7 +16181,7 @@
     "minecraft__brick": {
       "INPUT": [
         113,
-        444
+        443
       ]
     },
     "minecraft__waxed_weathered_cut_copper": {
@@ -16197,11 +16197,11 @@
     "minecraft__weathered_cut_copper": {
       "INPUT": [
         114,
-        170,
-        193
+        171,
+        192
       ],
       "OUTPUT": [
-        604
+        605
       ]
     },
     "minecraft__oxeye_daisy": {
@@ -16216,32 +16216,32 @@
         116
       ]
     },
-    "minecraft__acacia_button": {
-      "OUTPUT": [
-        117
-      ]
-    },
     "minecraft__light_blue_stained_glass_pane": {
       "OUTPUT": [
-        118,
+        117,
         348
       ]
     },
     "minecraft__light_blue_dye": {
       "INPUT": [
-        118,
+        117,
         266,
-        276,
-        384,
+        275,
+        383,
         402,
         507,
-        548,
+        547,
         664,
         829
       ],
       "OUTPUT": [
-        192,
+        193,
         697
+      ]
+    },
+    "minecraft__acacia_button": {
+      "OUTPUT": [
+        118
       ]
     },
     "minecraft__copper_block": {
@@ -16250,64 +16250,64 @@
       ],
       "INPUT": [
         530,
-        602,
-        605
+        601,
+        604
       ]
     },
     "minecraft__copper_ingot": {
       "INPUT": [
         120,
         151,
-        350
+        349
       ],
       "OUTPUT": [
-        605,
+        604,
         626
       ]
     },
     "minecraft__lime_carpet": {
       "OUTPUT": [
         121,
-        700
-      ]
-    },
-    "minecraft__purple_bed": {
-      "OUTPUT": [
-        122,
-        332
-      ]
-    },
-    "minecraft__purple_dye": {
-      "INPUT": [
-        122,
-        126,
-        128,
-        152,
-        339,
-        421,
-        526,
-        669,
-        698,
-        836
-      ],
-      "OUTPUT": [
-        682
+        698
       ]
     },
     "minecraft__nether_brick_stairs": {
       "OUTPUT": [
-        123
+        122
       ]
     },
     "minecraft__nether_bricks": {
       "INPUT": [
-        123,
+        122,
         267,
         519,
         702
       ],
       "OUTPUT": [
         317
+      ]
+    },
+    "minecraft__purple_bed": {
+      "OUTPUT": [
+        124,
+        332
+      ]
+    },
+    "minecraft__purple_dye": {
+      "INPUT": [
+        124,
+        126,
+        128,
+        152,
+        339,
+        421,
+        525,
+        669,
+        699,
+        836
+      ],
+      "OUTPUT": [
+        682
       ]
     },
     "minecraft__purple_candle": {
@@ -16329,10 +16329,10 @@
         128
       ],
       "INPUT": [
-        242,
+        243,
         332,
         534,
-        699
+        700
       ]
     },
     "minecraft__blue_stained_glass_pane": {
@@ -16351,11 +16351,11 @@
         634,
         652,
         682,
-        693,
+        695,
         697,
         703,
-        715,
-        742,
+        714,
+        743,
         837
       ],
       "OUTPUT": [
@@ -16363,29 +16363,29 @@
         748
       ]
     },
+    "minecraft__light_blue_carpet": {
+      "OUTPUT": [
+        130,
+        402
+      ]
+    },
     "minecraft__recovery_compass": {
       "OUTPUT": [
-        130
+        131
       ]
     },
     "minecraft__echo_shard": {
       "INPUT": [
-        130
+        131
       ]
     },
     "minecraft__compass": {
       "INPUT": [
-        130,
+        131,
         219
       ],
       "OUTPUT": [
         395
-      ]
-    },
-    "minecraft__light_blue_carpet": {
-      "OUTPUT": [
-        131,
-        402
       ]
     },
     "minecraft__chiseled_polished_blackstone": {
@@ -16409,7 +16409,7 @@
     },
     "minecraft__iron_sword__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
-        134
+        135
       ]
     },
     "minecraft__turtle_helmet__f615bddfb62eda0c5d44ad803d556908": {
@@ -16422,9 +16422,14 @@
         136
       ]
     },
-    "minecraft__green_stained_glass": {
+    "minecraft__spruce_fence": {
       "OUTPUT": [
         138
+      ]
+    },
+    "minecraft__green_stained_glass": {
+      "OUTPUT": [
+        139
       ],
       "INPUT": [
         692
@@ -16432,22 +16437,17 @@
     },
     "minecraft__green_dye": {
       "INPUT": [
-        138,
+        139,
         213,
-        243,
-        259,
+        242,
+        256,
         452,
         572,
         668,
-        695,
+        693,
         703,
-        710,
+        711,
         839
-      ]
-    },
-    "minecraft__spruce_fence": {
-      "OUTPUT": [
-        139
       ]
     },
     "minecraft__mossy_stone_brick_slab": {
@@ -16458,12 +16458,12 @@
     "minecraft__mossy_stone_bricks": {
       "INPUT": [
         140,
-        284,
+        285,
         426
       ],
       "OUTPUT": [
         299,
-        458
+        457
       ]
     },
     "minecraft__andesite_slab": {
@@ -16475,11 +16475,11 @@
       "INPUT": [
         141,
         396,
-        541,
-        751
+        543,
+        752
       ],
       "OUTPUT": [
-        457
+        456
       ]
     },
     "minecraft__dark_prismarine_slab": {
@@ -16509,24 +16509,24 @@
         144
       ]
     },
-    "minecraft__light_blue_banner": {
-      "OUTPUT": [
-        145
-      ],
-      "INPUT": [
-        813
-      ]
-    },
     "minecraft__fletching_table": {
       "OUTPUT": [
-        146
+        145
       ]
     },
     "minecraft__flint": {
       "INPUT": [
-        146,
+        145,
         304,
         418
+      ]
+    },
+    "minecraft__light_blue_banner": {
+      "OUTPUT": [
+        146
+      ],
+      "INPUT": [
+        813
       ]
     },
     "minecraft__pink_terracotta": {
@@ -16544,14 +16544,14 @@
         575,
         582,
         631,
-        693,
+        695,
         736,
         832
       ],
       "OUTPUT": [
         183,
         416,
-        747
+        746
       ]
     },
     "minecraft__mossy_cobblestone_wall": {
@@ -16592,14 +16592,14 @@
         355,
         372,
         397,
-        629,
+        630,
         674,
-        705,
+        706,
         827
       ],
       "OUTPUT": [
         308,
-        666
+        665
       ]
     },
     "minecraft__exposed_cut_copper_slab": {
@@ -16620,7 +16620,7 @@
     },
     "minecraft__polished_blackstone_wall": {
       "OUTPUT": [
-        156
+        157
       ]
     },
     "minecraft__heavy_weighted_pressure_plate": {
@@ -16628,19 +16628,9 @@
         158
       ]
     },
-    "minecraft__deepslate_tile_slab": {
+    "minecraft__stone_shovel__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         159
-      ]
-    },
-    "minecraft__deepslate_tiles": {
-      "INPUT": [
-        159,
-        460,
-        601
-      ],
-      "OUTPUT": [
-        706
       ]
     },
     "minecraft__pink_stained_glass": {
@@ -16651,9 +16641,19 @@
         482
       ]
     },
-    "minecraft__stone_shovel__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__deepslate_tile_slab": {
       "OUTPUT": [
         161
+      ]
+    },
+    "minecraft__deepslate_tiles": {
+      "INPUT": [
+        161,
+        460,
+        602
+      ],
+      "OUTPUT": [
+        705
       ]
     },
     "minecraft__cobblestone_stairs": {
@@ -16707,7 +16707,7 @@
     "minecraft__cut_sandstone": {
       "INPUT": [
         166,
-        556
+        555
       ],
       "OUTPUT": [
         688
@@ -16729,17 +16729,17 @@
         169
       ]
     },
-    "minecraft__weathered_cut_copper_slab": {
+    "minecraft__birch_trapdoor": {
       "OUTPUT": [
         170
+      ]
+    },
+    "minecraft__weathered_cut_copper_slab": {
+      "OUTPUT": [
+        171
       ],
       "INPUT": [
         539
-      ]
-    },
-    "minecraft__birch_trapdoor": {
-      "OUTPUT": [
-        171
       ]
     },
     "minecraft__lime_banner": {
@@ -16763,9 +16763,14 @@
         220
       ]
     },
-    "minecraft__waxed_weathered_copper": {
+    "minecraft__dropper": {
       "OUTPUT": [
         175
+      ]
+    },
+    "minecraft__waxed_weathered_copper": {
+      "OUTPUT": [
+        176
       ],
       "INPUT": [
         459
@@ -16773,41 +16778,36 @@
     },
     "minecraft__weathered_copper": {
       "INPUT": [
-        175,
-        604
+        176,
+        605
       ]
     },
-    "minecraft__dropper": {
+    "minecraft__redstone_lamp": {
       "OUTPUT": [
-        176
+        178
+      ]
+    },
+    "minecraft__glowstone": {
+      "INPUT": [
+        178,
+        511
+      ],
+      "OUTPUT": [
+        508
       ]
     },
     "minecraft__yellow_stained_glass_pane": {
       "OUTPUT": [
-        178,
+        179,
         370
       ]
     },
     "minecraft__yellow_stained_glass": {
       "INPUT": [
-        178
+        179
       ],
       "OUTPUT": [
         505
-      ]
-    },
-    "minecraft__redstone_lamp": {
-      "OUTPUT": [
-        179
-      ]
-    },
-    "minecraft__glowstone": {
-      "INPUT": [
-        179,
-        511
-      ],
-      "OUTPUT": [
-        508
       ]
     },
     "minecraft__golden_boots__f615bddfb62eda0c5d44ad803d556908": {
@@ -16851,7 +16851,7 @@
       "INPUT": [
         407,
         622,
-        671,
+        670,
         728
       ]
     },
@@ -16860,7 +16860,7 @@
         185,
         407,
         622,
-        671,
+        670,
         728
       ]
     },
@@ -16902,18 +16902,18 @@
         229,
         241,
         272,
-        276,
+        275,
         298,
         354,
         355,
         451,
-        483,
+        484,
         528,
-        536,
+        535,
         633,
-        648,
+        650,
         696,
-        698
+        699
       ]
     },
     "minecraft__gravel": {
@@ -16923,18 +16923,18 @@
         229,
         241,
         272,
-        276,
+        275,
         354,
         355,
         451,
-        483,
+        484,
         528,
-        536,
-        564,
+        535,
+        565,
         633,
-        648,
+        650,
         696,
-        698
+        699
       ]
     },
     "minecraft__conduit": {
@@ -16952,33 +16952,33 @@
         189
       ]
     },
-    "minecraft__mojang_banner_pattern": {
+    "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         190
       ]
     },
-    "minecraft__enchanted_golden_apple": {
-      "INPUT": [
-        190
-      ]
-    },
-    "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__mojang_banner_pattern": {
       "OUTPUT": [
         191
       ]
     },
-    "minecraft__blue_orchid": {
+    "minecraft__enchanted_golden_apple": {
       "INPUT": [
-        192,
-        799
+        191
       ]
     },
     "minecraft__weathered_cut_copper_stairs": {
       "OUTPUT": [
-        193
+        192
       ],
       "INPUT": [
         573
+      ]
+    },
+    "minecraft__blue_orchid": {
+      "INPUT": [
+        193,
+        799
       ]
     },
     "minecraft__polished_granite_slab": {
@@ -17013,31 +17013,31 @@
         197
       ]
     },
-    "minecraft__sticky_piston": {
+    "minecraft__fire_charge": {
       "OUTPUT": [
         198
       ]
     },
-    "minecraft__fire_charge": {
-      "OUTPUT": [
-        199
-      ]
-    },
     "minecraft__gunpowder": {
       "INPUT": [
-        199,
+        198,
         298,
         436
       ]
     },
     "minecraft__blaze_powder": {
       "INPUT": [
-        199,
+        198,
         522,
         554
       ],
       "OUTPUT": [
         628
+      ]
+    },
+    "minecraft__sticky_piston": {
+      "OUTPUT": [
+        199
       ]
     },
     "minecraft__redstone_block": {
@@ -17054,9 +17054,9 @@
       ],
       "INPUT": [
         258,
-        274,
+        273,
         463,
-        726
+        727
       ]
     },
     "minecraft__mangrove_boat": {
@@ -17067,26 +17067,26 @@
         377
       ]
     },
+    "minecraft__polished_andesite_slab": {
+      "OUTPUT": [
+        206
+      ]
+    },
     "minecraft__bread": {
       "OUTPUT": [
-        205
+        207
       ]
     },
     "minecraft__wheat": {
       "INPUT": [
-        205,
+        207,
         342,
         461,
-        547,
+        548,
         732
       ],
       "OUTPUT": [
         359
-      ]
-    },
-    "minecraft__polished_andesite_slab": {
-      "OUTPUT": [
-        207
       ]
     },
     "minecraft__wooden_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
@@ -17164,9 +17164,9 @@
     "minecraft__pink_wool": {
       "INPUT": [
         221,
-        242,
+        243,
         270,
-        618
+        617
       ],
       "OUTPUT": [
         631
@@ -17177,9 +17177,19 @@
         223
       ]
     },
-    "minecraft__shield__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__yellow_candle": {
       "OUTPUT": [
         224
+      ]
+    },
+    "minecraft__blue_terracotta": {
+      "OUTPUT": [
+        225
+      ]
+    },
+    "minecraft__shield__f615bddfb62eda0c5d44ad803d556908": {
+      "OUTPUT": [
+        226
       ],
       "INPUT": [
         810,
@@ -17198,16 +17208,6 @@
         823,
         824,
         825
-      ]
-    },
-    "minecraft__blue_terracotta": {
-      "OUTPUT": [
-        225
-      ]
-    },
-    "minecraft__yellow_candle": {
-      "OUTPUT": [
-        226
       ]
     },
     "minecraft__stripped_oak_wood": {
@@ -17236,8 +17236,8 @@
       ],
       "INPUT": [
         252,
-        546,
-        556,
+        545,
+        555,
         688
       ]
     },
@@ -17276,7 +17276,7 @@
         235
       ],
       "OUTPUT": [
-        412
+        413
       ]
     },
     "minecraft__dark_oak_trapdoor": {
@@ -17293,7 +17293,7 @@
       "INPUT": [
         237,
         239,
-        665
+        666
       ],
       "OUTPUT": [
         438
@@ -17318,7 +17318,7 @@
         661
       ],
       "OUTPUT": [
-        480,
+        478,
         653
       ]
     },
@@ -17342,12 +17342,12 @@
     },
     "minecraft__painting": {
       "OUTPUT": [
-        242
+        243
       ]
     },
     "minecraft__orange_wool": {
       "INPUT": [
-        242,
+        243,
         300,
         455,
         464
@@ -17358,8 +17358,8 @@
     },
     "minecraft__gray_wool": {
       "INPUT": [
-        242,
-        447,
+        243,
+        448,
         462,
         552
       ],
@@ -17369,9 +17369,9 @@
     },
     "minecraft__cyan_wool": {
       "INPUT": [
-        242,
+        243,
         264,
-        318,
+        321,
         373
       ],
       "OUTPUT": [
@@ -17396,7 +17396,7 @@
         245,
         299,
         363,
-        458,
+        457,
         684
       ],
       "OUTPUT": [
@@ -17434,20 +17434,20 @@
       ],
       "INPUT": [
         322,
-        538
+        537
       ]
     },
     "minecraft__red_sandstone_wall": {
       "OUTPUT": [
-        255
+        254
       ]
     },
     "minecraft__red_sandstone": {
       "INPUT": [
-        255,
+        254,
         286,
         439,
-        443
+        444
       ],
       "OUTPUT": [
         683
@@ -17455,22 +17455,23 @@
     },
     "minecraft__end_stone_brick_stairs": {
       "OUTPUT": [
-        256
+        255
       ]
     },
     "minecraft__end_stone_bricks": {
       "INPUT": [
-        256,
+        255,
         518,
         616
       ],
       "OUTPUT": [
-        636
+        635
       ]
     },
-    "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__green_stained_glass_pane": {
       "OUTPUT": [
-        257
+        256,
+        692
       ]
     },
     "minecraft__polished_deepslate_slab": {
@@ -17478,15 +17479,32 @@
         258
       ]
     },
-    "minecraft__green_stained_glass_pane": {
+    "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
-        259,
-        692
+        259
+      ]
+    },
+    "minecraft__cut_copper_slab": {
+      "OUTPUT": [
+        260
+      ],
+      "INPUT": [
+        297
+      ]
+    },
+    "minecraft__cut_copper": {
+      "INPUT": [
+        260,
+        427,
+        734
+      ],
+      "OUTPUT": [
+        601
       ]
     },
     "minecraft__dark_oak_wood": {
       "OUTPUT": [
-        260
+        261
       ],
       "INPUT": [
         346,
@@ -17497,29 +17515,11 @@
     },
     "minecraft__dark_oak_log": {
       "INPUT": [
-        260,
+        261,
         346,
         407,
         622,
         728
-      ]
-    },
-    "minecraft__cut_copper_slab": {
-      "OUTPUT": [
-        261
-      ],
-      "INPUT": [
-        297
-      ]
-    },
-    "minecraft__cut_copper": {
-      "INPUT": [
-        261,
-        427,
-        734
-      ],
-      "OUTPUT": [
-        602
       ]
     },
     "minecraft__acacia_chest_boat": {
@@ -17534,7 +17534,7 @@
       "INPUT": [
         407,
         622,
-        650,
+        649,
         728
       ]
     },
@@ -17543,7 +17543,7 @@
         263,
         407,
         622,
-        650,
+        649,
         728
       ]
     },
@@ -17586,12 +17586,12 @@
         272
       ]
     },
-    "minecraft__birch_door": {
+    "minecraft__light_blue_concrete_powder": {
       "OUTPUT": [
         275
       ]
     },
-    "minecraft__light_blue_concrete_powder": {
+    "minecraft__birch_door": {
       "OUTPUT": [
         276
       ]
@@ -17622,7 +17622,7 @@
       "INPUT": [
         407,
         622,
-        718,
+        719,
         728
       ]
     },
@@ -17631,7 +17631,7 @@
         279,
         407,
         622,
-        718,
+        719,
         728
       ]
     },
@@ -17660,15 +17660,15 @@
         611
       ],
       "OUTPUT": [
-        431
+        432
       ]
     },
-    "minecraft__mossy_stone_brick_stairs": {
+    "minecraft__cyan_terracotta": {
       "OUTPUT": [
         284
       ]
     },
-    "minecraft__cyan_terracotta": {
+    "minecraft__mossy_stone_brick_stairs": {
       "OUTPUT": [
         285
       ]
@@ -17736,7 +17736,7 @@
       "INPUT": [
         293,
         407,
-        495,
+        494,
         622,
         728
       ]
@@ -17746,7 +17746,7 @@
         293,
         407,
         622,
-        624,
+        623,
         728
       ]
     },
@@ -17758,7 +17758,7 @@
         728
       ],
       "OUTPUT": [
-        495
+        494
       ]
     },
     "minecraft__stripped_warped_hyphae": {
@@ -17769,7 +17769,7 @@
         728
       ],
       "OUTPUT": [
-        624
+        623
       ]
     },
     "minecraft__lime_candle": {
@@ -17866,18 +17866,18 @@
         311
       ]
     },
-    "minecraft__black_stained_glass_pane": {
+    "minecraft__prismarine_brick_slab": {
       "OUTPUT": [
-        313,
-        619
+        313
       ]
     },
-    "minecraft__black_stained_glass": {
+    "minecraft__prismarine_bricks": {
       "INPUT": [
-        313
+        313,
+        640
       ],
       "OUTPUT": [
-        752
+        316
       ]
     },
     "minecraft__glass_bottle": {
@@ -17888,18 +17888,18 @@
         606
       ]
     },
-    "minecraft__prismarine_brick_slab": {
+    "minecraft__black_stained_glass_pane": {
       "OUTPUT": [
-        315
+        315,
+        619
       ]
     },
-    "minecraft__prismarine_bricks": {
+    "minecraft__black_stained_glass": {
       "INPUT": [
-        315,
-        640
+        315
       ],
       "OUTPUT": [
-        316
+        751
       ]
     },
     "minecraft__prismarine_shard": {
@@ -17917,6 +17917,17 @@
         519
       ]
     },
+    "minecraft__smooth_quartz_slab": {
+      "OUTPUT": [
+        318
+      ]
+    },
+    "minecraft__smooth_quartz": {
+      "INPUT": [
+        318,
+        651
+      ]
+    },
     "minecraft__spruce_door": {
       "OUTPUT": [
         319
@@ -17925,18 +17936,7 @@
     "minecraft__blue_carpet": {
       "OUTPUT": [
         320,
-        715
-      ]
-    },
-    "minecraft__smooth_quartz_slab": {
-      "OUTPUT": [
-        321
-      ]
-    },
-    "minecraft__smooth_quartz": {
-      "INPUT": [
-        321,
-        651
+        714
       ]
     },
     "minecraft__carrot_on_a_stick__f615bddfb62eda0c5d44ad803d556908": {
@@ -17972,7 +17972,7 @@
         733
       ],
       "OUTPUT": [
-        444
+        443
       ]
     },
     "minecraft__birch_stairs": {
@@ -18019,7 +18019,7 @@
         337
       ],
       "OUTPUT": [
-        719
+        720
       ]
     },
     "minecraft__purple_stained_glass_pane": {
@@ -18089,18 +18089,18 @@
     },
     "minecraft__lightning_rod": {
       "OUTPUT": [
-        350
-      ]
-    },
-    "minecraft__brown_stained_glass_pane": {
-      "OUTPUT": [
-        351,
-        542
+        349
       ]
     },
     "minecraft__oak_button": {
       "OUTPUT": [
-        352
+        351
+      ]
+    },
+    "minecraft__brown_stained_glass_pane": {
+      "OUTPUT": [
+        352,
+        542
       ]
     },
     "minecraft__granite_wall": {
@@ -18120,16 +18120,16 @@
     },
     "minecraft__shears__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
-        358
+        357
       ]
     },
     "minecraft__hay_block": {
       "INPUT": [
         359,
-        448
+        447
       ],
       "OUTPUT": [
-        547
+        548
       ]
     },
     "minecraft__oak_pressure_plate": {
@@ -18170,7 +18170,7 @@
       "INPUT": [
         407,
         622,
-        650,
+        649,
         728
       ]
     },
@@ -18179,7 +18179,7 @@
         367,
         407,
         622,
-        650,
+        649,
         728
       ]
     },
@@ -18236,12 +18236,12 @@
         379
       ]
     },
-    "minecraft__crimson_button": {
+    "minecraft__warped_fence": {
       "OUTPUT": [
         380
       ]
     },
-    "minecraft__warped_fence": {
+    "minecraft__crimson_button": {
       "OUTPUT": [
         381
       ]
@@ -18251,22 +18251,9 @@
         382
       ]
     },
-    "minecraft__snow": {
-      "OUTPUT": [
-        386
-      ]
-    },
-    "minecraft__snow_block": {
-      "INPUT": [
-        386
-      ],
-      "OUTPUT": [
-        545
-      ]
-    },
     "minecraft__stripped_jungle_log": {
       "INPUT": [
-        387,
+        386,
         407,
         622,
         728,
@@ -18275,13 +18262,26 @@
     },
     "minecraft__stripped_jungle_wood": {
       "INPUT": [
-        387,
+        386,
         407,
         622,
         728
       ],
       "OUTPUT": [
         744
+      ]
+    },
+    "minecraft__snow": {
+      "OUTPUT": [
+        387
+      ]
+    },
+    "minecraft__snow_block": {
+      "INPUT": [
+        387
+      ],
+      "OUTPUT": [
+        546
       ]
     },
     "minecraft__acacia_fence_gate": {
@@ -18321,20 +18321,20 @@
     },
     "minecraft__loom": {
       "OUTPUT": [
-        404
+        403
       ]
     },
     "minecraft__blue_ice": {
       "OUTPUT": [
-        406
+        405
       ]
     },
     "minecraft__packed_ice": {
       "INPUT": [
-        406
+        405
       ],
       "OUTPUT": [
-        491
+        490
       ]
     },
     "minecraft__smoker": {
@@ -18346,20 +18346,20 @@
       "INPUT": [
         407,
         622,
-        718,
+        719,
         728,
-        743
+        742
       ]
     },
     "minecraft__acacia_wood": {
       "INPUT": [
         407,
         622,
-        718,
+        719,
         728
       ],
       "OUTPUT": [
-        743
+        742
       ]
     },
     "minecraft__stripped_mangrove_log": {
@@ -18367,7 +18367,7 @@
         407,
         591,
         622,
-        671,
+        670,
         728
       ]
     },
@@ -18375,7 +18375,7 @@
       "INPUT": [
         407,
         622,
-        671,
+        670,
         728
       ],
       "OUTPUT": [
@@ -18495,8 +18495,8 @@
         423
       ],
       "INPUT": [
-        546,
-        556
+        545,
+        555
       ]
     },
     "minecraft__sandstone_slab": {
@@ -18504,7 +18504,7 @@
         423
       ],
       "OUTPUT": [
-        546
+        545
       ]
     },
     "minecraft__clay": {
@@ -18535,23 +18535,23 @@
         638
       ]
     },
+    "minecraft__melon_seeds": {
+      "OUTPUT": [
+        429
+      ]
+    },
     "minecraft__allium": {
       "INPUT": [
-        429,
+        430,
         800
       ]
     },
     "minecraft__smooth_stone_slab": {
       "OUTPUT": [
-        430
+        431
       ],
       "INPUT": [
         481
-      ]
-    },
-    "minecraft__melon_seeds": {
-      "OUTPUT": [
-        432
       ]
     },
     "minecraft__exposed_cut_copper_stairs": {
@@ -18559,7 +18559,7 @@
         433
       ],
       "OUTPUT": [
-        578
+        579
       ]
     },
     "minecraft__ladder": {
@@ -18591,7 +18591,7 @@
     "minecraft__chiseled_red_sandstone": {
       "INPUT": [
         439,
-        443
+        444
       ],
       "OUTPUT": [
         517
@@ -18620,12 +18620,12 @@
         712
       ],
       "OUTPUT": [
-        562
+        563
       ]
     },
     "minecraft__red_sandstone_slab": {
       "OUTPUT": [
-        443
+        444
       ],
       "INPUT": [
         517
@@ -18636,18 +18636,18 @@
         446
       ],
       "OUTPUT": [
-        579
-      ]
-    },
-    "minecraft__gray_carpet": {
-      "OUTPUT": [
-        447,
-        730
+        578
       ]
     },
     "minecraft__target": {
       "OUTPUT": [
-        448
+        447
+      ]
+    },
+    "minecraft__gray_carpet": {
+      "OUTPUT": [
+        448,
+        730
       ]
     },
     "minecraft__oxidized_cut_copper_stairs": {
@@ -18655,7 +18655,7 @@
         449
       ],
       "INPUT": [
-        645
+        644
       ]
     },
     "minecraft__white_concrete_powder": {
@@ -18676,12 +18676,12 @@
     "minecraft__orange_carpet": {
       "OUTPUT": [
         455,
-        629
+        630
       ]
     },
     "minecraft__diamond_boots__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
-        456
+        458
       ]
     },
     "minecraft__deepslate_tile_wall": {
@@ -18744,12 +18744,12 @@
         472
       ]
     },
-    "minecraft__red_nether_brick_stairs": {
+    "minecraft__leather_boots__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         473
       ]
     },
-    "minecraft__leather_boots__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__red_nether_brick_stairs": {
       "OUTPUT": [
         474
       ]
@@ -18769,17 +18769,17 @@
         477
       ]
     },
-    "minecraft__white_candle": {
-      "OUTPUT": [
-        478
-      ]
-    },
     "minecraft__netherite_block": {
       "INPUT": [
-        480
+        478
       ],
       "OUTPUT": [
         661
+      ]
+    },
+    "minecraft__white_candle": {
+      "OUTPUT": [
+        480
       ]
     },
     "minecraft__armor_stand": {
@@ -18795,7 +18795,7 @@
     },
     "minecraft__lime_concrete_powder": {
       "OUTPUT": [
-        483
+        484
       ]
     },
     "minecraft__leather_leggings__f615bddfb62eda0c5d44ad803d556908": {
@@ -18824,17 +18824,17 @@
         489
       ]
     },
+    "minecraft__ice": {
+      "INPUT": [
+        490
+      ]
+    },
     "minecraft__brown_banner": {
       "OUTPUT": [
-        490
+        491
       ],
       "INPUT": [
         822
-      ]
-    },
-    "minecraft__ice": {
-      "INPUT": [
-        491
       ]
     },
     "minecraft__barrel": {
@@ -18849,7 +18849,7 @@
     },
     "minecraft__golden_carrot": {
       "OUTPUT": [
-        494
+        495
       ]
     },
     "minecraft__blackstone_stairs": {
@@ -18875,7 +18875,7 @@
         499
       ],
       "INPUT": [
-        691
+        690
       ]
     },
     "minecraft__jungle_chest_boat": {
@@ -18894,7 +18894,7 @@
     "minecraft__oxidized_copper": {
       "INPUT": [
         501,
-        617
+        618
       ]
     },
     "minecraft__diorite_slab": {
@@ -18939,12 +18939,12 @@
         513
       ]
     },
-    "minecraft__cobbled_deepslate_wall": {
+    "minecraft__wooden_shovel__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         514
       ]
     },
-    "minecraft__wooden_shovel__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__cobbled_deepslate_wall": {
       "OUTPUT": [
         515
       ]
@@ -18972,7 +18972,7 @@
     "minecraft__green_bed": {
       "OUTPUT": [
         521,
-        695
+        693
       ]
     },
     "minecraft__magma_cream": {
@@ -18993,12 +18993,12 @@
         524
       ]
     },
-    "minecraft__blackstone_wall": {
+    "minecraft__purple_terracotta": {
       "OUTPUT": [
         525
       ]
     },
-    "minecraft__purple_terracotta": {
+    "minecraft__blackstone_wall": {
       "OUTPUT": [
         526
       ]
@@ -19029,29 +19029,29 @@
         669
       ]
     },
-    "minecraft__poppy": {
-      "INPUT": [
-        535,
-        798
-      ]
-    },
     "minecraft__magenta_concrete_powder": {
       "OUTPUT": [
-        536
+        535
       ]
     },
-    "minecraft__diamond_shovel__f615bddfb62eda0c5d44ad803d556908": {
-      "OUTPUT": [
-        537
+    "minecraft__poppy": {
+      "INPUT": [
+        536,
+        798
       ]
     },
     "minecraft__warped_fungus_on_a_stick__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
-        538
+        537
       ]
     },
     "minecraft__warped_fungus": {
       "INPUT": [
+        537
+      ]
+    },
+    "minecraft__diamond_shovel__f615bddfb62eda0c5d44ad803d556908": {
+      "OUTPUT": [
         538
       ]
     },
@@ -19071,12 +19071,12 @@
         540
       ],
       "OUTPUT": [
-        720
+        721
       ]
     },
     "minecraft__andesite_wall": {
       "OUTPUT": [
-        541
+        543
       ]
     },
     "minecraft__black_terracotta": {
@@ -19086,12 +19086,12 @@
     },
     "minecraft__snowball": {
       "INPUT": [
-        545
+        546
       ]
     },
     "minecraft__light_blue_candle": {
       "OUTPUT": [
-        548
+        547
       ]
     },
     "minecraft__iron_axe__f615bddfb62eda0c5d44ad803d556908": {
@@ -19122,12 +19122,12 @@
         554
       ]
     },
-    "minecraft__composter": {
+    "minecraft__sandstone_stairs": {
       "OUTPUT": [
         555
       ]
     },
-    "minecraft__sandstone_stairs": {
+    "minecraft__composter": {
       "OUTPUT": [
         556
       ]
@@ -19144,23 +19144,23 @@
     },
     "minecraft__acacia_sign": {
       "OUTPUT": [
-        563
-      ]
-    },
-    "minecraft__coarse_dirt": {
-      "OUTPUT": [
-        564
-      ]
-    },
-    "minecraft__dirt": {
-      "INPUT": [
-        564
+        562
       ]
     },
     "minecraft__red_carpet": {
       "OUTPUT": [
-        565,
-        714
+        564,
+        715
+      ]
+    },
+    "minecraft__coarse_dirt": {
+      "OUTPUT": [
+        565
+      ]
+    },
+    "minecraft__dirt": {
+      "INPUT": [
+        565
       ]
     },
     "minecraft__chest_minecart": {
@@ -19207,7 +19207,7 @@
     },
     "minecraft__rose_bush": {
       "INPUT": [
-        576
+        577
       ]
     },
     "minecraft__rail": {
@@ -19235,12 +19235,12 @@
         583
       ]
     },
-    "minecraft__stone_hoe__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__diamond_sword__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         584
       ]
     },
-    "minecraft__diamond_sword__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__stone_hoe__f615bddfb62eda0c5d44ad803d556908": {
       "OUTPUT": [
         585
       ]
@@ -19278,17 +19278,17 @@
         592
       ]
     },
-    "minecraft__jungle_fence": {
-      "OUTPUT": [
-        594
-      ]
-    },
     "minecraft__gold_block": {
       "INPUT": [
-        595
+        594
       ],
       "OUTPUT": [
-        721
+        717
+      ]
+    },
+    "minecraft__jungle_fence": {
+      "OUTPUT": [
+        596
       ]
     },
     "minecraft__dark_oak_fence": {
@@ -19308,7 +19308,7 @@
     },
     "minecraft__deepslate_tile_stairs": {
       "OUTPUT": [
-        601
+        602
       ]
     },
     "minecraft__soul_lantern": {
@@ -19357,7 +19357,7 @@
     },
     "minecraft__pink_banner": {
       "OUTPUT": [
-        618
+        617
       ],
       "INPUT": [
         816
@@ -19378,7 +19378,7 @@
     },
     "minecraft__polished_diorite_slab": {
       "OUTPUT": [
-        623
+        624
       ]
     },
     "minecraft__crimson_door": {
@@ -19393,7 +19393,7 @@
     },
     "minecraft__chain": {
       "OUTPUT": [
-        630
+        629
       ]
     },
     "minecraft__rabbit_hide": {
@@ -19406,13 +19406,13 @@
         633
       ]
     },
-    "minecraft__oak_fence": {
-      "OUTPUT": [
+    "minecraft__end_stone": {
+      "INPUT": [
         635
       ]
     },
-    "minecraft__end_stone": {
-      "INPUT": [
+    "minecraft__oak_fence": {
+      "OUTPUT": [
         636
       ]
     },
@@ -19436,15 +19436,15 @@
         643
       ]
     },
-    "minecraft__diamond_chestplate__f615bddfb62eda0c5d44ad803d556908": {
-      "OUTPUT": [
-        644
-      ]
-    },
     "minecraft__waxed_oxidized_cut_copper_stairs": {
       "OUTPUT": [
-        645,
+        644,
         740
+      ]
+    },
+    "minecraft__diamond_chestplate__f615bddfb62eda0c5d44ad803d556908": {
+      "OUTPUT": [
+        645
       ]
     },
     "minecraft__golden_chestplate__f615bddfb62eda0c5d44ad803d556908": {
@@ -19457,14 +19457,14 @@
         647
       ]
     },
-    "minecraft__light_gray_concrete_powder": {
+    "minecraft__oak_sign": {
       "OUTPUT": [
         648
       ]
     },
-    "minecraft__oak_sign": {
+    "minecraft__light_gray_concrete_powder": {
       "OUTPUT": [
-        649
+        650
       ]
     },
     "minecraft__smooth_quartz_stairs": {
@@ -19519,7 +19519,7 @@
     },
     "minecraft__activator_rail": {
       "OUTPUT": [
-        665
+        666
       ]
     },
     "minecraft__spruce_stairs": {
@@ -19529,7 +19529,7 @@
     },
     "minecraft__crimson_pressure_plate": {
       "OUTPUT": [
-        670
+        671
       ]
     },
     "minecraft__orange_candle": {
@@ -19591,7 +19591,7 @@
     },
     "minecraft__magenta_candle": {
       "OUTPUT": [
-        690
+        691
       ]
     },
     "minecraft__black_concrete_powder": {
@@ -19601,12 +19601,12 @@
     },
     "minecraft__purple_concrete_powder": {
       "OUTPUT": [
-        698
+        699
       ]
     },
     "minecraft__purple_banner": {
       "OUTPUT": [
-        699
+        700
       ],
       "INPUT": [
         820
@@ -19615,12 +19615,12 @@
     "minecraft__sugar_cane": {
       "INPUT": [
         701,
-        727
+        726
       ]
     },
     "minecraft__orange_terracotta": {
       "OUTPUT": [
-        705
+        706
       ]
     },
     "minecraft__spectral_arrow": {
@@ -19628,12 +19628,12 @@
         709
       ]
     },
-    "minecraft__green_terracotta": {
+    "minecraft__enchanting_table": {
       "OUTPUT": [
         710
       ]
     },
-    "minecraft__enchanting_table": {
+    "minecraft__green_terracotta": {
       "OUTPUT": [
         711
       ]
@@ -19655,7 +19655,7 @@
     },
     "minecraft__polished_diorite_stairs": {
       "OUTPUT": [
-        724
+        723
       ]
     },
     "minecraft__observer": {
@@ -19665,7 +19665,7 @@
     },
     "minecraft__polished_deepslate_wall": {
       "OUTPUT": [
-        726
+        727
       ]
     },
     "minecraft__campfire": {
@@ -19702,18 +19702,18 @@
         738
       ]
     },
-    "minecraft__note_block": {
+    "minecraft__mossy_cobblestone_stairs": {
       "OUTPUT": [
         745
       ]
     },
-    "minecraft__mossy_cobblestone_stairs": {
-      "OUTPUT": [
+    "minecraft__peony": {
+      "INPUT": [
         746
       ]
     },
-    "minecraft__peony": {
-      "INPUT": [
+    "minecraft__note_block": {
+      "OUTPUT": [
         747
       ]
     },
@@ -21400,27 +21400,27 @@
     }
   },
   "minecraft:furnace": {
-    "minecraft__cobblestone": {
-      "INPUT": [
-        0
-      ]
-    },
-    "minecraft__stone": {
-      "OUTPUT": [
-        0
-      ],
-      "INPUT": [
-        33
-      ]
-    },
     "minecraft__netherrack": {
       "INPUT": [
-        1
+        0
       ]
     },
     "minecraft__nether_brick": {
       "OUTPUT": [
+        0
+      ]
+    },
+    "minecraft__cobblestone": {
+      "INPUT": [
         1
+      ]
+    },
+    "minecraft__stone": {
+      "OUTPUT": [
+        1
+      ],
+      "INPUT": [
+        33
       ]
     },
     "minecraft__light_gray_terracotta": {
@@ -21632,22 +21632,22 @@
         8
       ]
     },
-    "minecraft__deepslate_bricks": {
+    "minecraft__black_terracotta": {
       "INPUT": [
         9
       ]
     },
-    "minecraft__cracked_deepslate_bricks": {
+    "minecraft__black_glazed_terracotta": {
       "OUTPUT": [
         9
       ]
     },
-    "minecraft__black_terracotta": {
+    "minecraft__deepslate_bricks": {
       "INPUT": [
         10
       ]
     },
-    "minecraft__black_glazed_terracotta": {
+    "minecraft__cracked_deepslate_bricks": {
       "OUTPUT": [
         10
       ]
@@ -21675,25 +21675,25 @@
         54
       ]
     },
-    "minecraft__diamond_ore": {
+    "minecraft__magenta_terracotta": {
       "INPUT": [
         13
       ]
     },
-    "minecraft__diamond": {
+    "minecraft__magenta_glazed_terracotta": {
       "OUTPUT": [
-        13,
-        65
+        13
       ]
     },
-    "minecraft__magenta_terracotta": {
+    "minecraft__diamond_ore": {
       "INPUT": [
         14
       ]
     },
-    "minecraft__magenta_glazed_terracotta": {
+    "minecraft__diamond": {
       "OUTPUT": [
-        14
+        14,
+        66
       ]
     },
     "minecraft__light_blue_terracotta": {
@@ -21746,27 +21746,27 @@
         20
       ]
     },
-    "minecraft__deepslate_gold_ore": {
+    "minecraft__beef": {
       "INPUT": [
         21
       ]
     },
-    "minecraft__gold_ingot": {
+    "minecraft__cooked_beef": {
       "OUTPUT": [
-        21,
-        37,
-        58,
-        60
+        21
       ]
     },
-    "minecraft__beef": {
+    "minecraft__deepslate_gold_ore": {
       "INPUT": [
         22
       ]
     },
-    "minecraft__cooked_beef": {
+    "minecraft__gold_ingot": {
       "OUTPUT": [
-        22
+        22,
+        37,
+        57,
+        60
       ]
     },
     "minecraft__deepslate_copper_ore": {
@@ -21935,67 +21935,67 @@
         40
       ]
     },
-    "minecraft__clay": {
-      "INPUT": [
-        41
-      ]
-    },
-    "minecraft__terracotta": {
-      "OUTPUT": [
-        41
-      ]
-    },
     "minecraft__golden_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_shovel__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_axe__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_hoe__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_sword__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_helmet__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_chestplate__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_leggings__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_boots__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__golden_horse_armor": {
       "INPUT": [
-        42
+        41
       ]
     },
     "minecraft__gold_nugget": {
+      "OUTPUT": [
+        41
+      ]
+    },
+    "minecraft__clay": {
+      "INPUT": [
+        42
+      ]
+    },
+    "minecraft__terracotta": {
       "OUTPUT": [
         42
       ]
@@ -22040,22 +22040,22 @@
         47
       ]
     },
-    "minecraft__kelp": {
+    "minecraft__green_terracotta": {
       "INPUT": [
         48
       ]
     },
-    "minecraft__dried_kelp": {
+    "minecraft__green_glazed_terracotta": {
       "OUTPUT": [
         48
       ]
     },
-    "minecraft__green_terracotta": {
+    "minecraft__kelp": {
       "INPUT": [
         49
       ]
     },
-    "minecraft__green_glazed_terracotta": {
+    "minecraft__dried_kelp": {
       "OUTPUT": [
         49
       ]
@@ -22070,22 +22070,22 @@
         50
       ]
     },
-    "minecraft__gray_terracotta": {
+    "minecraft__lime_terracotta": {
       "INPUT": [
         51
       ]
     },
-    "minecraft__gray_glazed_terracotta": {
+    "minecraft__lime_glazed_terracotta": {
       "OUTPUT": [
         51
       ]
     },
-    "minecraft__lime_terracotta": {
+    "minecraft__gray_terracotta": {
       "INPUT": [
         52
       ]
     },
-    "minecraft__lime_glazed_terracotta": {
+    "minecraft__gray_glazed_terracotta": {
       "OUTPUT": [
         52
       ]
@@ -22120,83 +22120,83 @@
         56
       ]
     },
-    "minecraft__iron_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
+    "minecraft__raw_gold": {
       "INPUT": [
         57
+      ]
+    },
+    "minecraft__iron_pickaxe__f615bddfb62eda0c5d44ad803d556908": {
+      "INPUT": [
+        58
       ]
     },
     "minecraft__iron_shovel__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_axe__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_hoe__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_sword__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_helmet__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_chestplate__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_leggings__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_boots__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_horse_armor": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__chainmail_helmet__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__chainmail_chestplate__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__chainmail_leggings__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__chainmail_boots__f615bddfb62eda0c5d44ad803d556908": {
       "INPUT": [
-        57
+        58
       ]
     },
     "minecraft__iron_nugget": {
       "OUTPUT": [
-        57
-      ]
-    },
-    "minecraft__raw_gold": {
-      "INPUT": [
         58
       ]
     },
@@ -22255,18 +22255,18 @@
         64
       ]
     },
-    "minecraft__deepslate_diamond_ore": {
+    "minecraft__chicken": {
       "INPUT": [
         65
       ]
     },
-    "minecraft__chicken": {
-      "INPUT": [
-        66
-      ]
-    },
     "minecraft__cooked_chicken": {
       "OUTPUT": [
+        65
+      ]
+    },
+    "minecraft__deepslate_diamond_ore": {
+      "INPUT": [
         66
       ]
     },
@@ -22533,7 +22533,7 @@
       ],
       "INPUT": [
         4,
-        147
+        146
       ]
     },
     "minecraft__blackstone_wall": {
@@ -22546,7 +22546,7 @@
         3,
         16,
         26,
-        86,
+        85,
         157,
         164
       ]
@@ -22580,14 +22580,14 @@
         6,
         52,
         65,
-        72,
+        71,
         90,
         108,
         126,
         154,
         160,
         161,
-        174
+        173
       ],
       "OUTPUT": [
         142
@@ -22663,19 +22663,19 @@
     "minecraft__cobbled_deepslate": {
       "INPUT": [
         12,
-        37,
+        36,
         75,
         79,
         83,
         88,
-        95,
+        96,
         110,
         112,
         127,
         142,
         162,
         169,
-        175,
+        176,
         181,
         184
       ]
@@ -22698,7 +22698,7 @@
         14,
         25,
         40,
-        59,
+        60,
         69,
         143,
         177,
@@ -22728,9 +22728,9 @@
     "minecraft__sandstone": {
       "INPUT": [
         17,
-        21,
-        36,
-        60,
+        22,
+        37,
+        59,
         66,
         187
       ]
@@ -22743,25 +22743,9 @@
         28
       ]
     },
-    "minecraft__stone": {
-      "INPUT": [
-        18,
-        56,
-        97,
-        125,
-        132,
-        152,
-        196
-      ]
-    },
-    "minecraft__stone_stairs": {
-      "OUTPUT": [
-        18
-      ]
-    },
     "minecraft__oxidized_cut_copper": {
       "INPUT": [
-        19,
+        18,
         104
       ],
       "OUTPUT": [
@@ -22770,8 +22754,24 @@
     },
     "minecraft__oxidized_cut_copper_stairs": {
       "OUTPUT": [
-        19,
+        18,
         51
+      ]
+    },
+    "minecraft__stone": {
+      "INPUT": [
+        19,
+        56,
+        98,
+        125,
+        131,
+        152,
+        196
+      ]
+    },
+    "minecraft__stone_stairs": {
+      "OUTPUT": [
+        19
       ]
     },
     "minecraft__polished_blackstone_brick_slab": {
@@ -22781,14 +22781,9 @@
         177
       ]
     },
-    "minecraft__sandstone_stairs": {
-      "OUTPUT": [
-        21
-      ]
-    },
     "minecraft__andesite": {
       "INPUT": [
-        22,
+        21,
         27,
         87,
         148,
@@ -22798,8 +22793,13 @@
     },
     "minecraft__polished_andesite_slab": {
       "OUTPUT": [
-        22,
-        55
+        21,
+        57
+      ]
+    },
+    "minecraft__sandstone_stairs": {
+      "OUTPUT": [
+        22
       ]
     },
     "minecraft__weathered_cut_copper": {
@@ -22808,14 +22808,14 @@
       ],
       "INPUT": [
         153,
-        193
+        192
       ]
     },
     "minecraft__waxed_copper_block": {
       "INPUT": [
         24,
-        131,
-        199
+        132,
+        197
       ]
     },
     "minecraft__waxed_cut_copper_slab": {
@@ -22834,7 +22834,7 @@
     "minecraft__polished_diorite_slab": {
       "OUTPUT": [
         26,
-        197
+        199
       ]
     },
     "minecraft__polished_andesite_stairs": {
@@ -22889,14 +22889,14 @@
         171
       ],
       "OUTPUT": [
-        199
+        197
       ]
     },
     "minecraft__copper_block": {
       "INPUT": [
         34,
-        85,
-        120
+        86,
+        119
       ]
     },
     "minecraft__cut_copper_slab": {
@@ -22916,12 +22916,12 @@
         35
       ]
     },
-    "minecraft__sandstone_wall": {
+    "minecraft__cobbled_deepslate_wall": {
       "OUTPUT": [
         36
       ]
     },
-    "minecraft__cobbled_deepslate_wall": {
+    "minecraft__sandstone_wall": {
       "OUTPUT": [
         37
       ]
@@ -22965,7 +22965,7 @@
         76,
         82,
         113,
-        173
+        174
       ],
       "OUTPUT": [
         108,
@@ -22976,7 +22976,7 @@
       "OUTPUT": [
         45,
         65,
-        78,
+        77,
         184
       ]
     },
@@ -22984,8 +22984,8 @@
       "OUTPUT": [
         46,
         93,
-        95,
-        174
+        96,
+        173
       ]
     },
     "minecraft__red_nether_bricks": {
@@ -23003,12 +23003,12 @@
     "minecraft__stone_bricks": {
       "INPUT": [
         48,
-        71,
+        72,
         130,
         195
       ],
       "OUTPUT": [
-        97
+        98
       ]
     },
     "minecraft__chiseled_stone_bricks": {
@@ -23046,10 +23046,10 @@
       "INPUT": [
         53,
         73,
-        119
+        120
       ],
       "OUTPUT": [
-        91
+        92
       ]
     },
     "minecraft__end_stone_brick_slab": {
@@ -23058,11 +23058,24 @@
         121
       ]
     },
-    "minecraft__red_sandstone": {
+    "minecraft__waxed_oxidized_copper": {
       "INPUT": [
         54,
+        114,
+        185
+      ]
+    },
+    "minecraft__waxed_oxidized_cut_copper_stairs": {
+      "OUTPUT": [
+        54,
+        84
+      ]
+    },
+    "minecraft__red_sandstone": {
+      "INPUT": [
+        55,
         68,
-        146,
+        147,
         158,
         182,
         200
@@ -23070,40 +23083,27 @@
     },
     "minecraft__red_sandstone_wall": {
       "OUTPUT": [
-        54
+        55
       ]
     },
     "minecraft__polished_andesite": {
       "INPUT": [
-        55,
+        57,
         89
       ],
       "OUTPUT": [
         172
       ]
     },
-    "minecraft__waxed_oxidized_copper": {
-      "INPUT": [
-        57,
-        114,
-        186
-      ]
-    },
-    "minecraft__waxed_oxidized_cut_copper_stairs": {
+    "minecraft__sandstone_slab": {
       "OUTPUT": [
-        57,
-        84
+        59
       ]
     },
     "minecraft__polished_blackstone_wall": {
       "OUTPUT": [
-        59,
+        60,
         188
-      ]
-    },
-    "minecraft__sandstone_slab": {
-      "OUTPUT": [
-        60
       ]
     },
     "minecraft__purpur_block": {
@@ -23121,8 +23121,8 @@
     "minecraft__mud_bricks": {
       "INPUT": [
         62,
-        176,
-        192
+        175,
+        193
       ]
     },
     "minecraft__mud_brick_wall": {
@@ -23165,22 +23165,22 @@
         70
       ]
     },
-    "minecraft__stone_brick_stairs": {
-      "OUTPUT": [
-        71,
-        152
-      ]
-    },
     "minecraft__deepslate_tiles": {
       "OUTPUT": [
-        72,
+        71,
         76,
-        175
+        176
       ],
       "INPUT": [
-        78,
-        92,
+        77,
+        91,
         93
+      ]
+    },
+    "minecraft__stone_brick_stairs": {
+      "OUTPUT": [
+        72,
+        152
       ]
     },
     "minecraft__end_stone_brick_wall": {
@@ -23195,13 +23195,13 @@
         135
       ],
       "OUTPUT": [
-        85
+        86
       ]
     },
     "minecraft__cut_copper_stairs": {
       "OUTPUT": [
         74,
-        120
+        119
       ]
     },
     "minecraft__cobbled_deepslate_stairs": {
@@ -23211,13 +23211,13 @@
     },
     "minecraft__prismarine_bricks": {
       "INPUT": [
-        77,
+        78,
         80
       ]
     },
     "minecraft__prismarine_brick_slab": {
       "OUTPUT": [
-        77
+        78
       ]
     },
     "minecraft__polished_deepslate_stairs": {
@@ -23250,12 +23250,12 @@
         180
       ],
       "OUTPUT": [
-        186
+        185
       ]
     },
     "minecraft__diorite_slab": {
       "OUTPUT": [
-        86
+        85
       ]
     },
     "minecraft__andesite_wall": {
@@ -23269,26 +23269,26 @@
         181
       ]
     },
+    "minecraft__deepslate_tile_wall": {
+      "OUTPUT": [
+        91,
+        160,
+        162,
+        174
+      ]
+    },
     "minecraft__end_stone": {
       "INPUT": [
-        91,
+        92,
         109,
         121,
         156
       ]
     },
-    "minecraft__deepslate_tile_wall": {
-      "OUTPUT": [
-        92,
-        160,
-        162,
-        173
-      ]
-    },
     "minecraft__mossy_stone_bricks": {
       "INPUT": [
         94,
-        96,
+        95,
         99
       ]
     },
@@ -23299,19 +23299,19 @@
     },
     "minecraft__mossy_stone_brick_wall": {
       "OUTPUT": [
-        96
+        95
       ]
     },
     "minecraft__cobblestone": {
       "INPUT": [
-        98,
+        97,
         118,
         170
       ]
     },
     "minecraft__cobblestone_slab": {
       "OUTPUT": [
-        98
+        97
       ]
     },
     "minecraft__mossy_stone_brick_stairs": {
@@ -23339,7 +23339,7 @@
       "INPUT": [
         103,
         138,
-        185
+        186
       ]
     },
     "minecraft__exposed_cut_copper_slab": {
@@ -23370,7 +23370,7 @@
         163
       ],
       "OUTPUT": [
-        185
+        186
       ]
     },
     "minecraft__exposed_cut_copper_stairs": {
@@ -23413,7 +23413,7 @@
     },
     "minecraft__end_stone_brick_stairs": {
       "OUTPUT": [
-        119,
+        120,
         156
       ]
     },
@@ -23457,16 +23457,16 @@
         196
       ]
     },
-    "minecraft__waxed_cut_copper_stairs": {
-      "OUTPUT": [
-        131,
-        171
-      ]
-    },
     "minecraft__stone_brick_slab": {
       "OUTPUT": [
-        132,
+        131,
         195
+      ]
+    },
+    "minecraft__waxed_cut_copper_stairs": {
+      "OUTPUT": [
+        132,
+        171
       ]
     },
     "minecraft__smooth_sandstone": {
@@ -23522,15 +23522,15 @@
         145
       ]
     },
-    "minecraft__red_sandstone_stairs": {
-      "OUTPUT": [
-        146
-      ]
-    },
     "minecraft__waxed_weathered_cut_copper_stairs": {
       "OUTPUT": [
-        147,
+        146,
         198
+      ]
+    },
+    "minecraft__red_sandstone_stairs": {
+      "OUTPUT": [
+        147
       ]
     },
     "minecraft__andesite_slab": {
@@ -23541,7 +23541,7 @@
     "minecraft__polished_diorite": {
       "INPUT": [
         149,
-        197
+        199
       ],
       "OUTPUT": [
         164
@@ -23561,7 +23561,7 @@
     "minecraft__weathered_cut_copper_stairs": {
       "OUTPUT": [
         159,
-        193
+        192
       ]
     },
     "minecraft__prismarine_slab": {
@@ -23586,7 +23586,7 @@
     },
     "minecraft__mud_brick_slab": {
       "OUTPUT": [
-        176
+        175
       ]
     },
     "minecraft__nether_brick_stairs": {
@@ -23616,7 +23616,7 @@
     },
     "minecraft__mud_brick_stairs": {
       "OUTPUT": [
-        192
+        193
       ]
     },
     "minecraft__andesite_stairs": {

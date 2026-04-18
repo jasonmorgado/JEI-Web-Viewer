@@ -186,4 +186,16 @@ onBeforeUnmount(() => {
   color: var(--color-text-white);
   border-color: var(--color-border-dark);
 }
+
+/* On mobile devices, hide the JSON button, and put Output under Input slots. */
+@media (max-width: 768px) {
+  .json-button {
+    display: none;
+  }
+
+  .slots-container {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
 </style>

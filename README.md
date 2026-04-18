@@ -29,6 +29,8 @@ You can take a look at the working frontend on GitHub Pages! (TODO LINK)
 
 Run `npm run dev` to run the site locally.
 
+`npx vite --host` should allow for connecting to it from another device such as a phone.
+
 Loading different recipe JSON currently requires sticking them in src/static/extracted-json/
 With the two index files in this folder, and the rest going into the recipe_types subfolder.
 

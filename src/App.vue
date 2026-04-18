@@ -24,6 +24,7 @@ const handleItemSelectedOutput = (itemId: ItemId) => {
   if (isNewSelection) {
     selectedRecipeType.value = null
   }
+  isMobileMenuOpen.value = false
 }
 
 // When right-clicking an item, we want to get recipes that take it as INPUT.
@@ -34,6 +35,7 @@ const handleItemSelectedInput = (itemId: ItemId) => {
   if (isNewSelection) {
     selectedRecipeType.value = null
   }
+  isMobileMenuOpen.value = false
 }
 
 // When selecting from the dropdown, clear item selection
@@ -42,6 +44,7 @@ const handleRecipeTypeSelected = (recipeType: string) => {
   if (recipeType) {
     selectedItem.value = null
     selectedRole.value = null
+    isMobileMenuOpen.value = false
   }
 }
 
@@ -69,6 +72,9 @@ async function loadAndDisplayRecipes() {
     loadingRecipes.value = false
   }
 }
+
+// Hamburger menu for opening Itemlist on mobile
+const isMobileMenuOpen = ref(false)
 
 const allRecipeTypes = computed(() => store.allRecipeTypes)
 
@@ -99,6 +105,11 @@ watch(
 <template>
   <Toast />
   <div class="layout">
+    <button class="mobile-menu-toggle" @click="isMobileMenuOpen = !isMobileMenuOpen" title="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
     <aside class="sidebar-left">
       <h2 class="sidebar-title">Data Size</h2>
       <p class="data-size-info">{{ store.totalDataSize }}</p>
@@ -149,6 +160,8 @@ watch(
       </p>
     </main>
     <TextItemListPanel
+      class="sidebar-right"
+      :class="{ open: isMobileMenuOpen }"
       @item-selected-output="handleItemSelectedOutput"
       @item-selected-input="handleItemSelectedInput"
     />
@@ -157,9 +170,38 @@ watch(
 <style scoped>
 .layout {
   display: flex;
-  height: 100vh;
+  height: 100dvh;
   background: var(--color-bg-secondary);
+  position: relative;
+  overflow: hidden;
 }
+
+.mobile-menu-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 100;
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 8px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+}
+
+.mobile-menu-toggle span {
+  width: 24px;
+  height: 2px;
+  background: var(--color-text-primary);
+  border-radius: 1px;
+  transition: all 0.3s;
+}
+
 .sidebar-left {
   flex: 1;
   overflow-y: auto;
@@ -286,10 +328,69 @@ watch(
   border-color: var(--color-bg-active);
   box-shadow: 0 0 0 2px rgba(100, 150, 255, 0.1);
 }
+
+/* Mobile Version behaviors */
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .mobile-menu-toggle {
+    display: flex;
+  }
+
+  .main {
+    padding-top: 60px;
+    flex: 1;
+  }
+
+  .sidebar-left {
+    display: none;
+  }
+
+  .sidebar-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70%;
+    max-width: 300px;
+    height: 100%;
+    border-left: 1px solid var(--color-border);
+    z-index: 99;
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+  }
+
+  .sidebar-right.open {
+    transform: translateX(0);
+  }
+
+  .recipe-tabs {
+    gap: 2px;
+    margin-bottom: 8px;
+  }
+
+  .tab {
+    padding: 6px 8px;
+    font-size: 11px;
+  }
+}
 </style>
 
 <style>
 :deep(.text-item-list-panel) {
   flex: 1;
+}
+
+@media (max-width: 768px) {
+  :deep(.text-item-list-panel) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70%;
+    max-width: 300px;
+    height: 100%;
+    flex: none;
+  }
 }
 </style>

@@ -14,14 +14,8 @@ You can take a look at the working frontend on GitHub Pages! (TODO LINK)
   - Some recipes with NBT data not found in the creative menu won't currently display icons. Such as damaged or enchanted items.
 - Dynamically loads JSON files and icons as-needed to reduce initial load time
 
-## TODO
+## TODO (For UI)
 
-- [X] Look into differenciating Potions in the itemlist with NBT
-- [X] Look into extracting item icons
-- [ ] Reorganize documentation
-- [ ] Make Frontend public
-- [ ] Deploy current version to GitHub Pages
-- [ ] Reorganize extractor docs, make public
 - [ ] Load icons ahead of time (currently loads as you scroll)
 - [ ] Test against modded recipes
 - [ ] Sort recipe lists in extractor (currently random order every export)
@@ -30,3 +24,12 @@ You can take a look at the working frontend on GitHub Pages! (TODO LINK)
   - [ ] And display it somewhere in UI, per JSON file.
   - [ ] Optimize JSON schema for this, a lot of duplication here.
 - [ ] Research extracting backgrounds and positioning slots with x,y coords.
+
+## Development
+
+Run `npm run dev` to run the site locally.
+
+Loading different recipe JSON currently requires sticking them in src/static/extracted-json/
+With the two index files in this folder, and the rest going into the recipe_types subfolder.
+
+The JSON is checked into the repo to allow deploying to GitHub pages.

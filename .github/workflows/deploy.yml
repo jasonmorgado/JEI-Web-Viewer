@@ -1,6 +1,6 @@
 name: Deploy to GitHub Pages
 
-// Instead of pushing built site to the repo, build on GH Actions and deploy that.
+# Instead of pushing built site to the repo, build on GH Actions and deploy that.
 
 on:
   push:

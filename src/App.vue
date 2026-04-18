@@ -115,7 +115,14 @@ watch(
       <p class="data-size-info">{{ store.totalDataSize }}</p>
     </aside>
     <main class="main">
-      <h2 class="main-title">Main</h2>
+      <div class="main-header">
+        <h2 class="main-title">JEI Web Viewer</h2>
+        <a href="https://github.com/jasonmorgado/JEI-Web-Viewer" target="_blank" rel="noopener noreferrer" class="github-link" title="View on GitHub">
+          <svg viewBox="0 0 19 19" width="20" height="20">
+            <use href="/icons.svg#github-icon" />
+          </svg>
+        </a>
+      </div>
       <div class="recipe-type-filter">
         <label for="recipe-type-dropdown">View All Recipes By Type:</label>
         <select
@@ -230,9 +237,33 @@ watch(
   background: var(--color-bg-secondary);
   color: var(--color-text-primary);
 }
+.main-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
 .main-title {
-  margin: 0 0 16px 0;
+  margin: 0;
   font-size: 16px;
+}
+
+.github-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.github-link:hover {
+  opacity: 1;
+}
+
+.github-link svg {
+  filter: brightness(0) invert(1);
 }
 .recipe-tabs {
   display: flex;

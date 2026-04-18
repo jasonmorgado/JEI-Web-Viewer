@@ -4,7 +4,7 @@ This repo is the frontend for a project designed to display Minecraft recipes ex
 
 The backend is a mod that extracts a set of JSON files from JEI on runtime, which gets copied into this repo. See the backend mod [here](https://github.com/jasonmorgado/JEI-Extractor).
 
-You can take a look at the working frontend on GitHub Pages! (TODO LINK)
+You can take a look at the working frontend on [GitHub Pages](https://jasonmorgado.github.io/JEI-Web-Viewer/)!
 
 ## Highlights
 

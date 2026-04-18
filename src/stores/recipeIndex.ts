@@ -5,7 +5,6 @@ import { defineStore } from 'pinia'
 import { useToastStore } from './toast'
 import type { RecipeIndex, RecipeTypeIndex, ItemDetails, ItemId, RecipeType, Role, Recipe } from '../types'
 import { calculateObjectSize, formatBytes } from '../utils/fileSize'
-import { file } from '@babel/types';
 
 export const useRecipeIndexStore = defineStore('recipeIndex', {
   state: () => ({

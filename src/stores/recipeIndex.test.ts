@@ -31,8 +31,8 @@ const mockRecipeIndex: RecipeIndex = {
 }
 
 const mockItems = [
-  { id: "minecraft:charcoal", name: "Charcoal", mod: "Minecraft" },
-  { id: "minecraft:stone", name: "Stone", mod: "Minecraft" },
+  { uid: "minecraft__charcoal", resourceLocation: "minecraft:charcoal", name: "Charcoal", mod: "Minecraft" },
+  { uid: "minecraft__stone", resourceLocation: "minecraft:stone", name: "Stone", mod: "Minecraft" },
 ]
 
 describe('useRecipeIndexStore', () => {
@@ -96,7 +96,7 @@ describe('useRecipeIndexStore', () => {
 
       const result = store.allItemIds
 
-      expect(result).toEqual(['minecraft:charcoal', 'minecraft:stone'])
+      expect(result).toEqual(['minecraft__charcoal', 'minecraft__stone'])
     })
   })
 
@@ -105,16 +105,16 @@ describe('useRecipeIndexStore', () => {
       const store = useRecipeIndexStore()
       store.items = mockItems
 
-      const result = store.itemById('minecraft:charcoal')
+      const result = store.itemById('minecraft__charcoal')
 
-      expect(result).toEqual({ id: 'minecraft:charcoal', name: 'Charcoal', mod: 'Minecraft' })
+      expect(result).toEqual({ uid: 'minecraft__charcoal', resourceLocation: 'minecraft:charcoal', name: 'Charcoal', mod: 'Minecraft' })
     })
 
     it('returns undefined for non-existent item', () => {
       const store = useRecipeIndexStore()
       store.items = mockItems
 
-      const result = store.itemById('non:existent')
+      const result = store.itemById('non__existent')
 
       expect(result).toBeUndefined()
     })

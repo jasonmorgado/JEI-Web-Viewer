@@ -1,11 +1,10 @@
 name: Deploy to GitHub Pages
 
-# Instead of pushing built site to the repo, build on GH Actions and deploy that.
-
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -17,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: $ {{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       
@@ -35,7 +34,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'
+          path: 'dist'
       
       - name: Deploy
         id: deployment

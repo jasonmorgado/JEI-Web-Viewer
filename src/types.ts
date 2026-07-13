@@ -3,13 +3,14 @@ export type ItemId = string;
 export type RecipeType = string; // "minecraft:crafting"
 export type RecipeClass = string; // "ShapedRecipe"
 
-// items.json is a list of ItemDetails
+// items.json is a uid -> ItemDetails dictionary
 export interface ItemDetails {
-  uid: ItemId;
   resourceLocation: string;
   name: string;
   mod: string;
 }
+
+export type ItemsDict = Record<ItemId, ItemDetails>;
 
 export interface ItemStack {
   uid: ItemId;

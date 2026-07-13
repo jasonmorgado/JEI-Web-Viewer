@@ -2,7 +2,7 @@ import { describe, it, expect, beforeEach, vi } from 'vitest'
 import { setActivePinia, createPinia } from 'pinia'
 import { useRecipeIndexStore } from './recipeIndex'
 import { useToastStore } from './toast'
-import type { RecipeIndex, RecipeTypeIndex } from '../types'
+import type { RecipeIndex, RecipeTypeIndex, ItemsDict } from '../types'
 
 const mockTypeIndex: RecipeTypeIndex = {
   "minecraft:charcoal": {
@@ -30,10 +30,10 @@ const mockRecipeIndex: RecipeIndex = {
   }
 }
 
-const mockItems = [
-  { uid: "minecraft__charcoal", resourceLocation: "minecraft:charcoal", name: "Charcoal", mod: "Minecraft" },
-  { uid: "minecraft__stone", resourceLocation: "minecraft:stone", name: "Stone", mod: "Minecraft" },
-]
+const mockItems: ItemsDict = {
+  "minecraft__charcoal": { resourceLocation: "minecraft:charcoal", name: "Charcoal", mod: "Minecraft" },
+  "minecraft__stone": { resourceLocation: "minecraft:stone", name: "Stone", mod: "Minecraft" },
+}
 
 describe('useRecipeIndexStore', () => {
   beforeEach(() => {
@@ -107,7 +107,7 @@ describe('useRecipeIndexStore', () => {
 
       const result = store.itemById('minecraft__charcoal')
 
-      expect(result).toEqual({ uid: 'minecraft__charcoal', resourceLocation: 'minecraft:charcoal', name: 'Charcoal', mod: 'Minecraft' })
+      expect(result).toEqual({ resourceLocation: 'minecraft:charcoal', name: 'Charcoal', mod: 'Minecraft' })
     })
 
     it('returns undefined for non-existent item', () => {

@@ -3,7 +3,7 @@
 
 import { defineStore } from 'pinia'
 import { useToastStore } from './toast'
-import type { RecipeIndex, RecipeTypeIndex, ItemDetails, ItemId, RecipeType, Role, Recipe } from '../types'
+import type { RecipeIndex, RecipeTypeIndex, ItemsDict, ItemId, RecipeType, Role, Recipe } from '../types'
 import { calculateObjectSize, formatBytes } from '../utils/fileSize'
 
 export const useRecipeIndexStore = defineStore('recipeIndex', {
@@ -11,7 +11,7 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
     loaded: false,
     typeIndex: null as RecipeTypeIndex | null,
     recipeIndex: null as RecipeIndex | null,
-    items: null as ItemDetails[] | null,
+    items: null as ItemsDict | null,
     recipeCache: new Map<RecipeType, Recipe[]>(),
     iconCache: new Map<string, number>(),
   }),
@@ -30,7 +30,7 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
 
                 this.typeIndex = typeIndex.default
                 this.recipeIndex = recipeIndex.default
-                this.items = items.default
+                this.items = items.default as ItemsDict
                 this.loaded = true
             } catch (error) {
                 const toastStore = useToastStore()
@@ -106,14 +106,14 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
         // All item IDs from the items list — used to populate the sidebar
         allItemIds: (state): ItemId[] => {
             if (!state.items) return []
-            return state.items.map(item => item.uid)
+            return Object.keys(state.items)
         },
 
         // Get item details by ID
         itemById: (state) => {
-            return (itemId: ItemId): ItemDetails | undefined => {
+            return (itemId: ItemId): ItemsDict[ItemId] | undefined => {
                 if (!state.items) return undefined
-                return state.items.find(item => item.uid === itemId)
+                return state.items[itemId]
             }
         },
 
@@ -121,7 +121,7 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
         resourceLocationByUid: (state) => {
             return (uid: string): string | undefined => {
                 if (!state.items) return undefined
-                return state.items.find(item => item.uid === uid)?.resourceLocation
+                return state.items?.[uid]?.resourceLocation
             }
         },
 

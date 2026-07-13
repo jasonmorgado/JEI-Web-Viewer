@@ -14,17 +14,6 @@ You can take a look at the working frontend on [GitHub Pages](https://jasonmorga
   - Some recipes with NBT data not found in the creative menu won't currently display icons. Such as damaged or enchanted items.
 - Dynamically loads JSON files and icons as-needed to reduce initial load time
 
-## TODO (For UI)
-
-- [ ] Load icons ahead of time (currently loads as you scroll)
-- [ ] Test against modded recipes
-- [ ] Sort recipe lists in extractor (currently random order every export)
-- [ ] Paginate Recipe list.
-- [ ] Establish standards for File transfer amounts
-  - [ ] And display it somewhere in UI, per JSON file.
-  - [ ] Optimize JSON schema for this, a lot of duplication here.
-- [ ] Research extracting backgrounds and positioning slots with x,y coords.
-
 ## Development
 
 Run `npm run dev` to run the site locally.

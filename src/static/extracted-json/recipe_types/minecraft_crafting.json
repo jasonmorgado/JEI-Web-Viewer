@@ -125895,7 +125895,8 @@
             "resourceLocation": "minecraft:firework_rocket",
             "uid": "minecraft__firework_rocket",
             "damage": 0,
-            "maxDamage": 0
+            "maxDamage": 0,
+            "fallback_uid": "minecraft__firework_rocket__8a191e61b9a45a72ef14efba7849a4e2"
           }
         ],
         "fluids": []
@@ -152957,7 +152958,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__1fd2bdbb0cb9a10a91ceb22b7a2baf3f",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -153175,7 +153177,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__80e50744c769824194a35919c6e0898a",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -153393,7 +153396,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__bfd2a6b8c4bd43cfe93575826b56d05f",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -153611,7 +153615,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__bf6b9d956eb6bc1508c7104b668001da",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -153829,7 +153834,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__752802c5d967b68867a430635cd8a360",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -154047,7 +154053,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__bf1280131ee195df97ad6113457a8028",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -154265,7 +154272,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__c72236e50f6a660b73697961529621a8",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -154483,7 +154491,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__f9e486cb5b5cbaddf6d3ea0d40d9e3b5",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -154701,7 +154710,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__a9d401539ed06c649adc53647e87418c",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -154919,7 +154929,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__ba24f2ded0ef0756cb65fe7693642581",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -155137,7 +155148,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__efcff4b497e5555390b79e3b0a957add",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -155355,7 +155367,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__ef8452cdfe6d1b492514d7a1d28d0871",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -155573,7 +155586,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__6df087247a12364c461604a024a57bcf",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -155791,7 +155805,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__3359449ed514895d3d23e3206f1f5354",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -156009,7 +156024,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__ac69c56e453e6d9288ef6ddf8a683687",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -156227,7 +156243,8 @@
             "resourceLocation": "minecraft:shield",
             "uid": "minecraft__shield__d00caf1ba564e19bf09505afce33c839",
             "damage": 0,
-            "maxDamage": 336
+            "maxDamage": 336,
+            "fallback_uid": "minecraft__shield__f615bddfb62eda0c5d44ad803d556908"
           }
         ],
         "fluids": []
@@ -164236,7 +164253,8 @@
             "resourceLocation": "minecraft:tipped_arrow",
             "uid": "minecraft__tipped_arrow",
             "damage": 0,
-            "maxDamage": 0
+            "maxDamage": 0,
+            "fallback_uid": "minecraft__tipped_arrow__99dec161587086ae39d37c7eb7cadcff"
           }
         ],
         "fluids": []
@@ -164346,7 +164364,8 @@
             "resourceLocation": "minecraft:lingering_potion",
             "uid": "minecraft__lingering_potion",
             "damage": 0,
-            "maxDamage": 0
+            "maxDamage": 0,
+            "fallback_uid": "minecraft__lingering_potion__99dec161587086ae39d37c7eb7cadcff"
           }
         ],
         "fluids": []
@@ -240328,7 +240347,8 @@
             "resourceLocation": "minecraft:painting",
             "uid": "minecraft__painting",
             "damage": 0,
-            "maxDamage": 0
+            "maxDamage": 0,
+            "fallback_uid": "minecraft__painting__78c499d2a3e45194a457e162a043f9d8"
           }
         ],
         "fluids": []

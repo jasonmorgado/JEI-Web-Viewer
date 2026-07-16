@@ -5,7 +5,7 @@
     @contextmenu.prevent="handleContextMenu"
   >
     <div v-if="slot.items.length > 0" class="item-stack">
-      <img :src="iconUrl" class="item-icon" @error="onIconError" v-show="iconVisible" :title="getCurrentItem()?.name" />
+      <img :src="displayIconUrl" class="item-icon" @error="onIconError" v-show="iconVisible" :title="getCurrentItem()?.name" />
       <div class="item-name">{{ getCurrentItem()?.name }}</div>
       <div class="item-count" v-if="(getCurrentItem()?.count ?? 1) > 1">
         ×{{ getCurrentItem()?.count }}
@@ -16,7 +16,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, watch } from 'vue'
 import type { Slot } from '@/types'
 import { useRecipeIndexStore } from '@/stores/recipeIndex'
 
@@ -32,28 +32,49 @@ const emit = defineEmits<{
 
 const store = useRecipeIndexStore()
 const iconVisible = ref(true)
+const displayIconUrl = ref('')
+let triedFallback = false
 
 const getCurrentItem = () => {
   if (props.slot.items.length === 0) return null
   return props.slot.items[props.currentItemIndex % props.slot.items.length]
 }
 
-const iconUrl = computed(() => {
+// Primary URL for the current item (reacts to item cycling)
+const primaryIconUrl = computed(() => {
   const item = getCurrentItem()
   if (!item) return ''
   return new URL(`../static/extracted-icons/${item.uid}.png`, import.meta.url).href
 })
 
-const checkIconExists = async (url: string) => {
-  try {
-    const response = await fetch(url, { method: 'HEAD' })
-    return response.ok
-  } catch {
-    return false
-  }
-}
+// Fallback URL for the current item, or null if none
+const fallbackIconUrl = computed(() => {
+  const item = getCurrentItem()
+  if (!item) return null
+  const fallbackUid = store.getFallbackUid(item.uid)
+  if (fallbackUid === item.uid) return null
+  return new URL(`../static/extracted-icons/${fallbackUid}.png`, import.meta.url).href
+})
 
-const onIconError = () => { iconVisible.value = false }
+// When the primary URL changes (item cycled), reset to primary
+watch(primaryIconUrl, (newUrl) => {
+  displayIconUrl.value = newUrl
+  iconVisible.value = true
+  triedFallback = false
+}, { immediate: true })
+
+const onIconError = () => {
+  // If we haven't tried fallback yet, try it now
+  if (!triedFallback) {
+    triedFallback = true
+    const fbUrl = fallbackIconUrl.value
+    if (fbUrl) {
+      displayIconUrl.value = fbUrl
+      return // Don't hide yet, let the fallback icon try to load
+    }
+  }
+  iconVisible.value = false
+}
 
 const handleClick = () => {
   if (props.slot.items.length > 0) {
@@ -68,25 +89,6 @@ const handleContextMenu = () => {
     emit('select-input', item.uid)
   }
 }
-
-onMounted(async () => {
-  const item = getCurrentItem()
-  if (!item || !iconUrl.value) return
-
-  const exists = await checkIconExists(iconUrl.value)
-  if (!exists) {
-    iconVisible.value = false
-    return
-  }
-
-  try {
-    const response = await fetch(iconUrl.value)
-    const blob = await response.blob()
-    store.registerIconSize(item.uid, blob.size)
-  } catch {
-    // Icon fetch failed, just skip size tracking
-  }
-})
 </script>
 
 <style scoped>

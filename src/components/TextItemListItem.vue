@@ -4,13 +4,13 @@
     @click="$emit('select-output', itemId)"
     @contextmenu.prevent="$emit('select-input', itemId)"
   >
-    <img :src="iconUrl" class="item-icon" @error="onIconError" v-show="iconVisible" />
+    <img :src="activeIconUrl" class="item-icon" @error="onIconError" v-show="iconVisible" />
     <span class="item-label">{{ itemId }}</span>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import '@/styles/colors.css'
 import type { ItemId } from '@/types'
 import { useRecipeIndexStore } from '@/stores/recipeIndex'
@@ -25,7 +25,20 @@ defineEmits<{
 }>()
 
 const store = useRecipeIndexStore()
-const iconUrl = new URL(`../static/extracted-icons/${props.itemId}.png`, import.meta.url).href
+
+// Build primary icon URL from the item's own UID
+const primaryIconUrl = new URL(`../static/extracted-icons/${props.itemId}.png`, import.meta.url).href
+
+// Resolve fallback UID in case the primary icon doesn't exist
+const fallbackUid = computed(() => store.getFallbackUid(props.itemId))
+const fallbackIconUrl = computed(() =>
+  fallbackUid.value !== props.itemId
+    ? new URL(`../static/extracted-icons/${fallbackUid.value}.png`, import.meta.url).href
+    : null
+)
+
+const activeIconUrl = ref(primaryIconUrl)
+const activeIconUid = ref(props.itemId)
 const iconVisible = ref(true)
 
 const checkIconExists = async (url: string) => {
@@ -40,16 +53,27 @@ const checkIconExists = async (url: string) => {
 const onIconError = () => { iconVisible.value = false }
 
 onMounted(async () => {
-  const exists = await checkIconExists(iconUrl)
+  // Try primary icon first
+  let exists = await checkIconExists(primaryIconUrl)
+
+  // If primary doesn't exist, try fallback icon
+  if (!exists && fallbackIconUrl.value) {
+    exists = await checkIconExists(fallbackIconUrl.value)
+    if (exists) {
+      activeIconUrl.value = fallbackIconUrl.value
+      activeIconUid.value = fallbackUid.value
+    }
+  }
+
   if (!exists) {
     iconVisible.value = false
     return
   }
 
   try {
-    const response = await fetch(iconUrl)
+    const response = await fetch(activeIconUrl.value)
     const blob = await response.blob()
-    store.registerIconSize(props.itemId, blob.size)
+    store.registerIconSize(activeIconUid.value, blob.size)
   } catch {
     // Icon fetch failed, just skip size tracking
   }

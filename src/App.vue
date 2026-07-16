@@ -22,7 +22,9 @@ const handleItemSelectedOutput = (itemId: ItemId) => {
   selectedItem.value = itemId
   selectedRole.value = 'OUTPUT'
   if (isNewSelection) {
-    selectedRecipeType.value = null
+    // Try to auto-select the first available recipe type
+    const types = store.recipeTypesFor(itemId, 'OUTPUT')
+    selectedRecipeType.value = types.length > 0 ? types[0] : null
   }
   isMobileMenuOpen.value = false
 }
@@ -33,7 +35,9 @@ const handleItemSelectedInput = (itemId: ItemId) => {
   selectedItem.value = itemId
   selectedRole.value = 'INPUT'
   if (isNewSelection) {
-    selectedRecipeType.value = null
+    // Try to auto-select the first available recipe type
+    const types = store.recipeTypesFor(itemId, 'INPUT')
+    selectedRecipeType.value = types.length > 0 ? types[0] : null
   }
   isMobileMenuOpen.value = false
 }
@@ -52,7 +56,7 @@ function getRecipeList(recipeType: string, itemUid: ItemId | null, role: Role | 
   if (!itemUid || !role) {
     return allRecipes
   }
-  const recipeIndices = store.recipeIndex?.[recipeType]?.[itemUid]?.[role] ?? []
+  const recipeIndices = store.recipeIndicesFor(itemUid, role, recipeType)
   return recipeIndices
     .map(idx => allRecipes[idx])
     .filter((r): r is Recipe => r !== undefined)
@@ -82,16 +86,6 @@ const availableRecipeTypes = computed(() => {
   if (!selectedItem.value || !selectedRole.value) return []
   return store.recipeTypesFor(selectedItem.value, selectedRole.value)
 })
-
-// Auto-select first recipe type when available (only for item-based selection, not dropdown selection)
-watch(
-  availableRecipeTypes,
-  (types) => {
-    if (types.length > 0 && !selectedRecipeType.value && selectedItem.value) {
-      selectedRecipeType.value = types[0]
-    }
-  }
-)
 
 // Load recipes when recipe type, item, or role changes
 watch(

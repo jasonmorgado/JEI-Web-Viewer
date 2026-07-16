@@ -6,12 +6,34 @@ import { useToastStore } from './toast'
 import type { RecipeIndex, RecipeTypeIndex, ItemsDict, ItemId, RecipeType, Role, Recipe } from '../types'
 import { calculateObjectSize, formatBytes } from '../utils/fileSize'
 
+/**
+ * Resolve an itemId to its effective UID by checking the fallback map.
+ * If the itemId is not directly in the typeIndex, derive its resourceLocation
+ * from the UID format (e.g., "minecraft__painting" → "minecraft:painting")
+ * and look up the fallback map for the canonical hashed UID.
+ */
+function resolveItemId(itemId: ItemId, typeIndex: RecipeTypeIndex | null, fallbackMap: Record<string, string> | null): ItemId {
+  if (typeIndex?.[itemId]) return itemId
+
+  if (!fallbackMap) return itemId
+
+  const parts = itemId.split('__')
+  if (parts.length >= 2) {
+    const resourceLocation = parts[0] + ':' + parts[1]
+    const fallbackUid = fallbackMap[resourceLocation]
+    if (fallbackUid) return fallbackUid
+  }
+
+  return itemId
+}
+
 export const useRecipeIndexStore = defineStore('recipeIndex', {
   state: () => ({
     loaded: false,
     typeIndex: null as RecipeTypeIndex | null,
     recipeIndex: null as RecipeIndex | null,
     items: null as ItemsDict | null,
+    fallbackMap: null as Record<string, string> | null,
     recipeCache: new Map<RecipeType, Recipe[]>(),
     iconCache: new Map<string, number>(),
   }),
@@ -22,15 +44,17 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
 
             try {
                 // Load the JSON files
-                const [typeIndex, recipeIndex, items] = await Promise.all([
+                const [typeIndex, recipeIndex, items, fallbackJson] = await Promise.all([
                     import('@/static/extracted-json/recipe_type_index.json'),
                     import('@/static/extracted-json/recipe_index.json'),
                     import('@/static/extracted-json/items.json'),
+                    import('@/static/extracted-json/fallback_resource_id_to_uid.json'),
                 ]);
 
                 this.typeIndex = typeIndex.default
                 this.recipeIndex = recipeIndex.default
                 this.items = items.default as ItemsDict
+                this.fallbackMap = fallbackJson.default as Record<string, string>
                 this.loaded = true
             } catch (error) {
                 const toastStore = useToastStore()
@@ -82,6 +106,26 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
 
         registerIconSize(uid: string, size: number) {
             this.iconCache.set(uid, size)
+        },
+
+        /**
+         * Resolve an item UID to its fallback UID using the fallback map.
+         * Derives the resourceLocation from the UID format
+         * (e.g., "minecraft__lingering_potion" → "minecraft:lingering_potion")
+         * and looks up the canonical hashed UID.
+         * Returns the original itemId if no fallback is found.
+         */
+        getFallbackUid(itemId: ItemId): ItemId {
+            if (!this.fallbackMap) return itemId
+
+            const parts = itemId.split('__')
+            if (parts.length >= 2) {
+                const resourceLocation = parts[0] + ':' + parts[1]
+                const fallbackUid = this.fallbackMap[resourceLocation]
+                if (fallbackUid) return fallbackUid
+            }
+
+            return itemId
         }
     },
 
@@ -90,7 +134,8 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
         recipeTypesFor: (state) => {
             return (itemId: ItemId, role: Role): RecipeType[] => {
                 if (!state.typeIndex) return []
-                return state.typeIndex[itemId]?.[role] ?? []
+                const resolvedId = resolveItemId(itemId, state.typeIndex, state.fallbackMap)
+                return state.typeIndex[resolvedId]?.[role] ?? []
             }
         },
 
@@ -99,7 +144,8 @@ export const useRecipeIndexStore = defineStore('recipeIndex', {
         recipeIndicesFor: (state) => {
             return (itemId: ItemId, role: Role, recipeType: RecipeType): number[] => {
                 if (!state.recipeIndex) return []
-                return state.recipeIndex[recipeType]?.[itemId]?.[role] ?? []
+                const resolvedId = resolveItemId(itemId, state.typeIndex, state.fallbackMap)
+                return state.recipeIndex[recipeType]?.[resolvedId]?.[role] ?? []
             }
         },
 
